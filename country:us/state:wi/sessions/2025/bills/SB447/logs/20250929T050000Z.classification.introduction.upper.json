@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Jacque and Nass; \ncosponsored by Representatives Brill, Goeben, Behnke, Goodwin, Gundrum, Hurd, Knodl, Mursau, Murphy, Nedweski, O'Connor, Sortwell, Steffen and Wichgers",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb447",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB447"
+}

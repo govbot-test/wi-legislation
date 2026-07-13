@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Dassler-Alfheim and L. Johnson; \ncosponsored by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, Clancy, DeSmidt, Emerson, Johnson, Madison, Miresse, Phelps, Roe, Sinicki, Stroud, Stubbs and Subeck",
+    "occurred_at": "2025-10-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb594",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB594"
+}

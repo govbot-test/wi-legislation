@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kurtz, Zimmerman, Summerfield, Dittrich, Donovan, Duchow, Franklin, Green, Gustafson, Kaufert, Kitchens, Kreibich, Maxey, Melotik, Moses, Mursau, O'Connor, Ortiz-Velez, Piwowarczyk, Steffen, Subeck, VanderMeer and Nedweski; \ncosponsored by Senators Marklein, James, Pfaff, Spreitzer and Testin",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab199",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB199"
+}

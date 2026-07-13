@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Bradley, Pfaff, Wirch, Cabral-Guevara, Nass, Kapenga, Ratcliff and Spreitzer; \ncosponsored by Representatives Franklin, Maxey, Doyle, Armstrong, DeSmidt, Goodwin, O'Connor, Dittrich, Gundrum, Miresse, Snodgrass, Melotik, Joers, Sheehan, Knodl, Bare, Roe, Kreibich, Behnke and Brooks",
+    "occurred_at": "2025-05-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb267",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB267"
+}

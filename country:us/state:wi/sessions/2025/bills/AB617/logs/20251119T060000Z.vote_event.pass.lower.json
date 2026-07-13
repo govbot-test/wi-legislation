@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Assembly Substitute Amendment 3 laid on table, Ayes 53, Noes 44",
+  "motion_classification": [],
+  "start_date": "2025-11-19T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "86dee558-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB617",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 53
+    },
+    {
+      "option": "no",
+      "value": 44
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB617-ASA3",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "AB617-ASA3-AB617"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, James, Carpenter, Dassler-Alfheim, Habush Sinykin, Hesselbein, Jacque, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer, Wirch and Drake; \ncosponsored by Representatives O'Connor, Kitchens, Stubbs, Mursau, Billings, Ortiz-Velez, Bare, Brill, Anderson, Callahan, Clancy, Emerson, Fitzgerald, Franklin, Goodwin, Green, Johnson, Kaufert, Kirsch, Madison, McCarville, Melotik, Miresse, Moore Omokunde, Murphy, Novak, Phelps, Piwowarczyk, Rodriguez, Sheehan, Sinicki, Snyder, Spaude, Stroud, Taylor, Udell, Vining, Wichgers, Wittke, Behnke, Joers, Snodgrass, DeSmidt, Gundrum, Dittrich and Palmeri",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr90",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR90"
+}

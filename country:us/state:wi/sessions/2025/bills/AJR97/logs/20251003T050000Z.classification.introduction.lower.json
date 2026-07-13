@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Franklin, Allen, Anderson, Bare, Behnke, Billings, Goeben, Gundrum, B. Jacobson, Kaufert, Knodl, Kreibich, Kurtz, Melotik, Murphy, Mursau, Nedweski, Palmeri, Penterman, Rivera-Wagner, Tranel, Wichgers and Andraca; \ncosponsored by Senators James, Cabral-Guevara, Hutton, Jacque, Marklein, Ratcliff, Spreitzer and Wall",
+    "occurred_at": "2025-10-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr97",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR97"
+}

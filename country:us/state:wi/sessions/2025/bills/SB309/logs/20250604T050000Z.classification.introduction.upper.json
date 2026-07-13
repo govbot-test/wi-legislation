@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Keyeski, Marklein, Quinn and Wanggaard; \ncosponsored by Representatives VanderMeer, Dittrich, Behnke, Brill, Kaufert, Knodl, Maxey, Melotik, Murphy, Mursau, O'Connor, Ortiz-Velez, Penterman and Tittl",
+    "occurred_at": "2025-06-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb309",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB309"
+}

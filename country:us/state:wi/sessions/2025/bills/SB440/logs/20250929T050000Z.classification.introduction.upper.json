@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, Marklein, Pfaff, Roys and Spreitzer; \ncosponsored by Representatives Novak, Gundrum, Knodl, Kreibich, Mursau, O'Connor, Penterman, Piwowarczyk, Roe, Swearingen, Tranel, Wichgers, Johnson and Palmeri",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb440",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB440"
+}

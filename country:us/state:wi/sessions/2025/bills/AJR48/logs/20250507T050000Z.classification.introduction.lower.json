@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, Krug, Bare, Brown, Donovan, Emerson, Hong, Johnson, Kaufert, Kitchens, Knodl, McCarville, Melotik, Miresse, Moses, Neubauer, O'Connor, Palmeri, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Tenorio, Tranel, Wichgers, Wittke and Subeck; \ncosponsored by Senators Tomczyk, Testin, Habush Sinykin, Jacque, Larson, Pfaff, Ratcliff, Spreitzer, Wall, Wimberger and Wirch",
+    "occurred_at": "2025-05-07T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr48",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR48"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives VanderMeer, Tittl, Anderson, Bare, Dittrich, Doyle, Emerson, Franklin, Green, Gundrum, J. Jacobson, Joers, Johnson, Knodl, Melotik, Miresse, Moore Omokunde, Mursau, Novak, O'Connor, Phelps, Roe, Sinicki, Snyder, Stubbs, Udell and Vining; \ncosponsored by Senators Stafsholt, Cabral-Guevara, Carpenter, Dassler-Alfheim, Drake, James, Keyeski, Larson, Pfaff, Spreitzer, Wall and Ratcliff",
+    "occurred_at": "2025-02-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab80",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB80"
+}

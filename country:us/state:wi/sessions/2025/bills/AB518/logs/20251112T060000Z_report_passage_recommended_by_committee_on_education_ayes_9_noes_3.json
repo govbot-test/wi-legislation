@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report passage recommended by Committee on Education, Ayes 9, Noes 3",
+    "occurred_at": "2025-11-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab518",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB518"
+}

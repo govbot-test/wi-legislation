@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Nass and Tomczyk; \ncosponsored by Representatives Dallman, Allen, Behnke, Brill, Callahan, Dittrich, Donovan, Goeben, Green, Gundrum, B. Jacobson, Maxey, Moses, Murphy, Nedweski, O'Connor, Penterman, Steffen, Swearingen, Tucker, VanderMeer, Vos, Wichgers and Sortwell",
+    "occurred_at": "2025-06-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb311",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB311"
+}

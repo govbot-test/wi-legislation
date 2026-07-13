@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report passage recommended by Joint Committee on Finance, Ayes 13, Noes 0",
+    "occurred_at": "2025-08-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab387",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB387"
+}

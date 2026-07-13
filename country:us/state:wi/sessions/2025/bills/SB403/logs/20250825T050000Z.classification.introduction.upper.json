@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Cabral-Guevara, Feyen, Quinn and Wanggaard; \ncosponsored by Representatives Murphy, Tittl, Behnke, Brill, Dittrich, Goeben, Gundrum, Knodl, Kreibich, Maxey, O'Connor, Penterman, Wichgers and Armstrong",
+    "occurred_at": "2025-08-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb403",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB403"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Roe, Anderson, Brown, Arney, Bare, Billings, Clancy, DeSmidt, Emerson, Goodwin, Joers, Johnson, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Prado, Rivera-Wagner, Sinicki, Stroud, Subeck, Udell, Tenorio and Mayadev; \ncosponsored by Senators Spreitzer, Smith, Dassler-Alfheim, Keyeski, Ratcliff, Larson and Roys",
+    "occurred_at": "2025-11-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab656",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB656"
+}

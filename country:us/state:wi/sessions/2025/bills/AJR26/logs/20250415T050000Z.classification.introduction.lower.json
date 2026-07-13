@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Roe, Anderson, Brown, J. Jacobson, Arney, Bare, Billings, Clancy, DeSmidt, Doyle, Fitzgerald, Joers, Johnson, Kaufert, Krug, Madison, Moore Omokunde, Neubauer, Sinicki, Snodgrass, Stubbs, Subeck, Tenorio and Udell; \ncosponsored by Senators Spreitzer, Carpenter, Drake, Hesselbein, L. Johnson, Larson, Pfaff, Ratcliff, Roys, Smith, Wall and Wirch",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR26"
+}

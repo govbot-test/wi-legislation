@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Carpenter, Feyen, Marklein, Nass, Quinn, Testin, Wanggaard and Wimberger; \ncosponsored by Representatives Vos, Murphy, Kaufert, Gustafson, Tusler, Allen, Armstrong, Behnke, Born, Brill, Dallman, Dittrich, Duchow, Franklin, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Krug, Melotik, Moses, Mursau, Nedweski, Neylon, Novak, O'Connor, Ortiz-Velez, Penterman, Petersen, Piwowarczyk, Pronschinske, Rodriguez, Sheehan, Sinicki, Spiros, Subeck, Swearingen, Tittl, Tranel, VanderMeer, Wichgers, Wittke and Zimmerman",
+    "occurred_at": "2025-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr9",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR9"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Carpenter, Keyeski, Ratcliff, Wall and Larson; \ncosponsored by Representatives Mayadev, Prado, Joers, Johnson, Palmeri, Roe, Andraca, Miresse, Sinicki, Snodgrass, Stroud, Stubbs and Tenorio",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb552",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB552"
+}

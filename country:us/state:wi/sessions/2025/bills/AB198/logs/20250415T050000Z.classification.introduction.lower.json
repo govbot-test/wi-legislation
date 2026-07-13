@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kurtz, Novak, Summerfield, Dittrich, Donovan, Duchow, Franklin, Goeben, Green, Gustafson, Kaufert, Kitchens, Knodl, Maxey, Melotik, Murphy, Mursau, Ortiz-Velez, Palmeri, Piwowarczyk, Steffen, Subeck, VanderMeer and Nedweski; \ncosponsored by Senators Marklein, James, Cabral-Guevara, Nass, Pfaff and Testin",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab198",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB198"
+}

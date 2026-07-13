@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Tomczyk, Carpenter, Keyeski, Pfaff, Ratcliff, Spreitzer, Wall, Wanggaard and Wirch; \ncosponsored by Representatives Murphy, Snyder, Anderson, Armstrong, Bare, Behnke, Billings, Brill, Brown, DeSmidt, Donovan, Franklin, Hysell, B. Jacobson, Kitchens, Kreibich, Maxey, McCarville, Melotik, Miresse, Mursau, O'Connor, Palmeri, Piwowarczyk, Rivera-Wagner, Sheehan, Sinicki, Spaude, Subeck, Tenorio, Tucker, Tusler and Wichgers",
+    "occurred_at": "2025-01-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

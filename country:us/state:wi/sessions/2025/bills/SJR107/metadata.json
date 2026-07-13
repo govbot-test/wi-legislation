@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SJR107",
+  "title": "Relating to: recognizing the inherent rights of nature and Wisconsin\u2019s commitment to environmental stewardship.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr107"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced by Senators Carpenter and Larson; \ncosponsored by Representatives Miresse, Clancy, Tenorio, Madison, Arney, Snodgrass, Taylor, Cruz, DeSanto, Hong, Phelps, Bare, Brown, DeSmidt, Fitzgerald, Goodwin, Johnson, Moore Omokunde, Palmeri, Roe, Sheehan, Sinicki and Stubbs",
+      "date": "2025-11-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Read and referred to Committee on Senate Organization",
+      "date": "2025-11-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Available for scheduling",
+      "date": "2025-11-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carpenter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Joint Resolution Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SJR107",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SJR107.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSJR107",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Joint Resolution 114",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ajr114",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr107",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: S - Available for Scheduling"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:44Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Carpenter and Larson; \ncosponsored by Representatives Miresse, Clancy, Tenorio, Madison, Arney, Snodgrass, Taylor, Cruz, DeSanto, Hong, Phelps, Bare, Brown, DeSmidt, Fitzgerald, Goodwin, Johnson, Moore Omokunde, Palmeri, Roe, Sheehan, Sinicki and Stubbs",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr107",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR107"
+}

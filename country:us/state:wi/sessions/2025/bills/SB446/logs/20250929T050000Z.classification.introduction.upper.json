@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Carpenter, Drake, Habush Sinykin, Keyeski, Ratcliff and Spreitzer; \ncosponsored by Representatives Clancy, Rivera-Wagner, Prado, Anderson, Arney, Bare, Brown, DeSanto, DeSmidt, Hong, Joers, Johnson, Kirsch, Madison, Mayadev, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Roe, Sheehan, Sinicki, Stroud, Subeck, Taylor, Tenorio, Udell and Haywood",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb446",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB446"
+}

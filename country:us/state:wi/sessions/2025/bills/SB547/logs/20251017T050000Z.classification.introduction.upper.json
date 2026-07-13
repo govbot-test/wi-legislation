@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Dassler-Alfheim, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Pfaff, Smith, Spreitzer and Wall; \ncosponsored by Representatives Subeck, Andraca, Bare, Brown, Clancy, DeSanto, DeSmidt, Hong, Fitzgerald, Joers, Johnson, Mayadev, Miresse, Moore Omokunde, Palmeri, Roe, Sinicki, Snodgrass, Stroud, Stubbs and Neubauer",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb547",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB547"
+}

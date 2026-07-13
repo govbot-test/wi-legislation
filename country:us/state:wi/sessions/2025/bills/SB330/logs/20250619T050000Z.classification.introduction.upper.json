@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, L. Johnson, Hesselbein, Roys, Spreitzer, Ratcliff, Drake, Carpenter, Smith, Habush Sinykin, Dassler-Alfheim, Keyeski, Pfaff, Wirch and Wall; \ncosponsored by Representatives Stubbs, Sinicki, Andraca, Anderson, Rivera-Wagner, Goodwin, Moore Omokunde, Clancy, Palmeri, Joers, Subeck, Bare, Haywood, Taylor, Vining, Fitzgerald, Neubauer, Roe, Hysell, Brown, Snodgrass, Mayadev, Miresse, Udell, Arney, Emerson, DeSanto, Prado, Tenorio, Spaude, DeSmidt, Ortiz-Velez, Phelps, Stroud, Sheehan, Cruz, Madison, Johnson, Kirsch and Hong",
+    "occurred_at": "2025-06-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb330",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB330"
+}

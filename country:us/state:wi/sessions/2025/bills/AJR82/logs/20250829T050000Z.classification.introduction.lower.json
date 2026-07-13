@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Prado, Rivera-Wagner, Miresse, Cruz, Haywood, Sinicki, Palmeri, Hong, Roe, Subeck, Sheehan, Spaude, Kirsch, Arney, Stroud, Snodgrass, DeSmidt, Tenorio, Clancy, Taylor, Hysell, Brown, Vining, Phelps, Anderson, Andraca, Bare, J. Jacobson, Madison and Stubbs; \ncosponsored by Senators Carpenter, Drake, Roys, Wall, Wirch, Pfaff, Spreitzer, Ratcliff, L. Johnson, Dassler-Alfheim, Larson, Keyeski, Habush Sinykin and Hesselbein",
+    "occurred_at": "2025-08-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr82",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR82"
+}

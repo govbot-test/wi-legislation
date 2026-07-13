@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Marklein, Ratcliff, Spreitzer and Hesselbein; \ncosponsored by Representatives Gustafson, Snyder, Ortiz-Velez, Bare, Mursau, Dittrich, Miresse, O'Connor, Stubbs, Clancy, Phelps, Madison, Hong, J. Jacobson, Johnson, Knodl, Subeck and Kaufert",
+    "occurred_at": "2025-04-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr22",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR22"
+}

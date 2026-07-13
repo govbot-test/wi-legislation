@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Marklein, Keyeski, L. Johnson, Dassler-Alfheim, Drake, Ratcliff, Roys, Smith, Wimberger and Spreitzer; \ncosponsored by Representatives Moses, Stubbs, Anderson, DeSmidt, Dittrich, Emerson, Hurd, Joers, Kitchens, Kurtz, Mayadev, Novak, Ortiz-Velez, Piwowarczyk, Sheehan, Sinicki, Snyder, Steffen, Stroud, Tenorio, Tucker, Udell, Wittke and Rodriguez",
+    "occurred_at": "2025-10-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb598",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB598"
+}

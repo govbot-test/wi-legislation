@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Subeck, Anderson, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Joers, Johnson, Madison, McCarville, Miresse, Moore Omokunde, Palmeri, Phelps, Roe, Sheehan, Snodgrass, Stroud, Stubbs, Tenorio, Udell and Vining; \ncosponsored by Senators L. Johnson, Carpenter, Dassler-Alfheim, Habush Sinykin, Keyeski, Larson, Pfaff, Ratcliff, Roys and Spreitzer",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab482",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB482"
+}

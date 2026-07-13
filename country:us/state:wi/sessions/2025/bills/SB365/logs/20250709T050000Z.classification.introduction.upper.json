@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Nass and Tomczyk; \ncosponsored by Representatives Behnke, Dittrich, Gustafson, Joers, Knodl, Maxey, Murphy, O'Connor, Piwowarczyk, Steffen and Wichgers",
+    "occurred_at": "2025-07-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb365",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB365"
+}

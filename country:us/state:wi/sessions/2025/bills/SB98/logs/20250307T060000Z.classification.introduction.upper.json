@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Felzkowski and Wall; \ncosponsored by Representatives Callahan, Armstrong, Dittrich, Gundrum, Knodl, Kreibich, Subeck, Summerfield, Tusler, Wichgers and Wittke",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb98",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB98"
+}

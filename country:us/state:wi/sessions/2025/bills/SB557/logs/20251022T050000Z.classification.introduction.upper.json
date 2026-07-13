@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Habush Sinykin and Spreitzer; \ncosponsored by Representatives Knodl, Melotik, Donovan, Tranel, Piwowarczyk, Vining, Andraca and Johnson",
+    "occurred_at": "2025-10-22T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb557",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB557"
+}

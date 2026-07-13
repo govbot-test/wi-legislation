@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read a third time and passed, Ayes 52, Noes 46",
+    "occurred_at": "2025-02-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB4"
+}

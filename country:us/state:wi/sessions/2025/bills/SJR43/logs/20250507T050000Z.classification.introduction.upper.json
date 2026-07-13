@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, L. Johnson, Drake, Cabral-Guevara, Habush Sinykin, Hesselbein, Ratcliff and Spreitzer; \ncosponsored by Representatives Vining, Arney, Goodwin, Tenorio, DeSmidt, J. Jacobson, Madison and Stubbs",
+    "occurred_at": "2025-05-07T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr43",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR43"
+}

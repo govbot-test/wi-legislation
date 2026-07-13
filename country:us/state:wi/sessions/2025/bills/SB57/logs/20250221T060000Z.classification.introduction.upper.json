@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Bradley, Jacque, Kapenga, Nass, Quinn, Testin, Tomczyk and Wanggaard; \ncosponsored by Representatives Vos, Piwowarczyk, Allen, Armstrong, August, Behnke, Brill, Callahan, Dallman, Dittrich, Donovan, Duchow, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Krug, Maxey, Murphy, Mursau, Nedweski, O'Connor, Penterman, Petersen, Sortwell, Spiros, Steffen, Swearingen, Tittl, Tucker, Tusler, Wichgers, Zimmerman and Gustafson",
+    "occurred_at": "2025-02-21T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb57",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB57"
+}

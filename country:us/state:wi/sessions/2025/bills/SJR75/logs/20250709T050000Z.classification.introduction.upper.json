@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Drake, Hesselbein, Ratcliff, Wirch and Spreitzer; \ncosponsored by Representatives Stubbs, Armstrong, Haywood, Sinicki, Rivera-Wagner, Miresse, Roe, Subeck, Taylor, Stroud, Brown, Madison, Joers, Goodwin, Bare, Moore Omokunde, Arney, Clancy, Phelps, Udell and Vining",
+    "occurred_at": "2025-07-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr75",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR75"
+}

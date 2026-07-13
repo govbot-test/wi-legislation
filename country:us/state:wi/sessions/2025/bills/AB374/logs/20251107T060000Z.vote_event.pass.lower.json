@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on Campaigns and Elections, Ayes 7, Noes 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-11-07T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "8558375c-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB374",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist213003",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist213003-AB374"
+}

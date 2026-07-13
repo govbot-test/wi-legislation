@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, Testin, Pfaff and Spreitzer; \ncosponsored by Representatives Novak, Kitchens, Anderson, Armstrong, Bare, Behnke, Billings, Green, Gundrum, Hong, B. Jacobson, J. Jacobson, Johnson, Kreibich, Miresse, Mursau, O'Connor, Palmeri, Steffen, Tranel and Tusler",
+    "occurred_at": "2025-04-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb173",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB173"
+}

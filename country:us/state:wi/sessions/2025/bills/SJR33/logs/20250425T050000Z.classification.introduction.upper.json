@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Smith, Hesselbein, Roys, Spreitzer and L. Johnson; \ncosponsored by Representatives Hong, Tenorio, Clancy, Cruz, Madison, Phelps, Vining, Moore Omokunde, DeSmidt, Snodgrass, Miresse, Bare, Stroud, Neubauer, Hysell, Joers, Stubbs, Billings, Sheehan, McCarville, Subeck, Roe, Fitzgerald, Brown, Udell, DeSanto, Anderson, Sinicki and Johnson",
+    "occurred_at": "2025-04-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr33",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR33"
+}

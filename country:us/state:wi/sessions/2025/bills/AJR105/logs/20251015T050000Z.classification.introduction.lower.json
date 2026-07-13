@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Anderson, Andraca, Arney, Bare, Brown, Clancy, Fitzgerald, Goodwin, Joers, Johnson, Kirsch, McCarville, Miresse, Murphy, Palmeri, Rivera-Wagner, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Tenorio and Udell; \ncosponsored by Senators Ratcliff, Carpenter, Larson, Roys, Spreitzer and Wall",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr105",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR105"
+}

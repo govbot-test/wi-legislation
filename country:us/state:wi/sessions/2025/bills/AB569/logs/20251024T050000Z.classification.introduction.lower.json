@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Billings, Andraca, Arney, Miresse, Anderson, Clancy, DeSmidt, Emerson, Goodwin, Hysell, Joers, Johnson, Ortiz-Velez, Palmeri, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Tenorio and Udell; \ncosponsored by Senators Roys, Wall, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, Keyeski, Ratcliff, Spreitzer, Wirch and Larson",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab569",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB569"
+}

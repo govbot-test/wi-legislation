@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Dassler-Alfheim, Hutton and Wanggaard; \ncosponsored by Representatives Armstrong, Behnke, Bare, Dittrich, Donovan, Goeben, Goodwin, Kaufert, Knodl, Kreibich, Maxey, Melotik, Miresse, Mursau, Palmeri, Sheehan, Sinicki, Steffen, Subeck, Johnson and Prado",
+    "occurred_at": "2025-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb69",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB69"
+}

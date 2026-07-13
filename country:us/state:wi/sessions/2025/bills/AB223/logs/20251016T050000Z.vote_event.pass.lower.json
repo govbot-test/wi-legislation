@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Campaigns and Elections, Ayes 6, Noes 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-16T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "8456b98c-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB223",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist211583",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist211583-AB223"
+}

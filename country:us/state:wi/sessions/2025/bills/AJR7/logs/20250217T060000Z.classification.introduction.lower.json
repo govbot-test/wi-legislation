@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Emerson, Phelps, Moore Omokunde, Andraca, Arney, Bare, Brown, Clancy, Doyle, Fitzgerald, Goodwin, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, Miresse, Ortiz-Velez, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Tenorio, Udell, Vining and Taylor; \ncosponsored by Senators Smith, L. Johnson, Carpenter, Pfaff, Ratcliff, Roys, Spreitzer, Wirch and Larson",
+    "occurred_at": "2025-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr7",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR7"
+}

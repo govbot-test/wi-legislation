@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Amendment 18 to Senate Substitute Amendment 2 offered by Senators Roys, Habush Sinykin, Keyeski, Dassler-Alfheim, Wall, Ratcliff, Smith, Hesselbein, Spreitzer, Pfaff, Drake, L. Johnson and Larson",
+    "occurred_at": "2025-07-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb45",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB45"
+}

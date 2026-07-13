@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, Dassler-Alfheim, Cabral-Guevara, Carpenter, Nass, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Kaufert, Tranel, Kurtz, Gustafson, Novak, O'Connor, Tittl, Murphy, Penterman, Tusler, Sinicki, Kreibich, Knodl, Subeck and Goodwin",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr14",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR14"
+}

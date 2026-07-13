@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Hesselbein, Dassler-Alfheim, Carpenter, Habush Sinykin, L. Johnson, Keyeski, Ratcliff and Spreitzer; \ncosponsored by Representatives Hong, Clancy, Sheehan, Neubauer, Andraca, Bare, DeSanto, DeSmidt, Fitzgerald, Hysell, Joers, Johnson, Madison, Mayadev, Miresse, Moore Omokunde, Palmeri, Sinicki, Snodgrass, Spaude, Stroud, Tenorio and Udell",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb569",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB569"
+}

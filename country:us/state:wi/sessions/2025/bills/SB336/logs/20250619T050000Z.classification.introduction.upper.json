@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Carpenter, Drake, Hesselbein, Larson, Pfaff, Spreitzer, Roys, Ratcliff, Smith, Habush Sinykin, Dassler-Alfheim and Keyeski; \ncosponsored by Representatives Stubbs, Andraca, Subeck, Fitzgerald, Anderson, Bare, Billings, Clancy, Doyle, Haywood, Hong, Joers, Moore Omokunde, Palmeri, Sinicki, Vining, Rivera-Wagner, Goodwin, Taylor, Arney, Neubauer, Stroud, Roe, Brown, Snodgrass, Mayadev, Hysell, Sheehan, Miresse, Udell, Emerson, DeSanto, Prado, Tenorio, Spaude, DeSmidt, Cruz and Johnson",
+    "occurred_at": "2025-06-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb336",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB336"
+}

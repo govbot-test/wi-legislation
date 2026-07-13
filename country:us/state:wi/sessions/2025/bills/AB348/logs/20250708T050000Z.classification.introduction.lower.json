@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Goeben, B. Jacobson, Spiros, Kreibich, Brooks, O'Connor, Gustafson, Gundrum, Duchow, Dittrich, Knodl, Penterman, Nedweski, Murphy, Hurd, Novak, Green, Behnke, Tucker, Kaufert and Allen; \ncosponsored by Senators James, Tomczyk and Nass",
+    "occurred_at": "2025-07-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab348",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB348"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Moses, Hurd, Summerfield, Armstrong, Brill, Callahan, Dittrich, Duchow, Kreibich, Maxey, Mursau, Novak, Snyder and Tucker; \ncosponsored by Senators James, Quinn, Smith, Dassler-Alfheim, Marklein, Testin and Tomczyk",
+    "occurred_at": "2025-08-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab388",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB388"
+}

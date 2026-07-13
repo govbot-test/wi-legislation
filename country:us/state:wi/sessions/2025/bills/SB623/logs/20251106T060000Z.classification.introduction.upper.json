@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Habush Sinykin, Carpenter, Larson, Keyeski, Ratcliff, Roys, Spreitzer, Hesselbein, Wirch and Dassler-Alfheim; \ncosponsored by Representatives Miresse, Tenorio, Clancy, Madison, Palmeri, Udell, Arney, Snodgrass, Taylor, Cruz, DeSanto, Joers, Stroud, Hong, Phelps, Goodwin, DeSmidt, Roe, Emerson, Stubbs, Moore Omokunde, Sinicki, Fitzgerald, Brown, Andraca, Johnson, Anderson and Mursau",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb623",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB623"
+}

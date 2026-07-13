@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Brooks, Callahan, Dittrich, Bare, Duchow, Gundrum, B. Jacobson, Joers, Knodl, Krug, O'Connor, Spiros, Subeck, Tittl, Udell, Vining and Wichgers; \ncosponsored by Senators Testin, Feyen, Carpenter, Habush Sinykin, Hesselbein, James, Marklein, Spreitzer and Dassler-Alfheim",
+    "occurred_at": "2025-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab45",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB45"
+}

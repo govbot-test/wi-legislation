@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Carpenter, Larson, Roys, Drake, Keyeski, Ratcliff and Habush Sinykin; \ncosponsored by Representatives Ortiz-Velez, Madison, Prado, Brown, Clancy, DeSanto, Hong, Kirsch, Miresse, Moore Omokunde, Phelps, Rivera-Wagner, Taylor, Tenorio, Arney, Bare, DeSmidt, Fitzgerald, Johnson, Mayadev, Neubauer, Roe, Sinicki, Snodgrass, Stroud, Subeck, Udell, Haywood and Hysell",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb444",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB444"
+}

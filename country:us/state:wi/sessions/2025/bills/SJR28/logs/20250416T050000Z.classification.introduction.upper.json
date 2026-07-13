@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Testin, Tomczyk, Roys, Cabral-Guevara, Jacque, Ratcliff, Spreitzer and Wanggaard; \ncosponsored by Representatives Kitchens, Franklin, Tranel, Billings, Anderson, Armstrong, Behnke, DeSmidt, Dittrich, Emerson, Goodwin, Kaufert, Krug, Miresse, Novak, O'Connor, Ortiz-Velez, Penterman, Sheehan, Stubbs, Swearingen, Wittke and Sinicki",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr28",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR28"
+}

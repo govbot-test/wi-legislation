@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wimberger, Bradley, Felzkowski, Feyen, Jacque, James, Kapenga, Marklein, Nass, Quinn and Tomczyk; \ncosponsored by Representatives Wittke, Behnke, Brill, Brooks, Dittrich, Duchow, Green, Kaufert, Kitchens, Knodl, Kreibich, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman and Tittl",
+    "occurred_at": "2025-05-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb280",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB280"
+}

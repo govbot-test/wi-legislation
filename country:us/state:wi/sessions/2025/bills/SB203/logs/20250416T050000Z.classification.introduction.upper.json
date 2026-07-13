@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Felzkowski, Marklein, Cabral-Guevara, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Nass, Pfaff, Quinn, Ratcliff, Roys, Spreitzer, Wanggaard, Wimberger and James; \ncosponsored by Representatives Novak, Tranel, Allen, Armstrong, Brooks, Callahan, Fitzgerald, B. Jacobson, Joers, Kirsch, Kitchens, Knodl, Kreibich, McCarville, Miresse, Mursau, O'Connor, Rodriguez, Sortwell, Tittl, Wichgers and Tucker",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb203",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB203"
+}

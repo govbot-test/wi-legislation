@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Piwowarczyk, Maxey, Allen, Behnke, Brooks, Dittrich, Duchow, Green, B. Jacobson, Kreibich, Murphy, O'Connor, Penterman and Wichgers; \ncosponsored by Senators Nass and Wanggaard",
+    "occurred_at": "2025-04-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab165",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB165"
+}

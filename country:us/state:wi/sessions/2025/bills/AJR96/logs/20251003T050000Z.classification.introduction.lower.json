@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Duchow, Arney, Bare, Brown, Clancy, Dittrich, Donovan, Emerson, Fitzgerald, Gundrum, B. Jacobson, Joers, Kaufert, Kirsch, Knodl, Kreibich, Madison, McCarville, Melotik, Moses, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Phelps, Piwowarczyk, Prado, Rodriguez, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Tusler, VanderMeer, Vining, Wittke and Murphy; \ncosponsored by Senators Cabral-Guevara, Carpenter, Dassler-Alfheim, Larson, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Wall, Wanggaard and Wirch",
+    "occurred_at": "2025-10-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr96",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR96"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard and Tomczyk; \ncosponsored by Representatives Donovan, Rodriguez, Allen, Dittrich, Duchow, Goodwin, Gundrum, Knodl, Maxey, Melotik, Murphy, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, Steffen, Tittl, Tusler and Wichgers",
+    "occurred_at": "2025-02-21T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb65",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB65"
+}

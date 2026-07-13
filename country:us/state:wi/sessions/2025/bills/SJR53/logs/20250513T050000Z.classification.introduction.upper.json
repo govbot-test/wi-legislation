@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Cabral-Guevara, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Marklein, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Tittl, Dittrich, Anderson, Andraca, Arney, Bare, Behnke, Brown, Clancy, Fitzgerald, Gundrum, Johnson, Kreibich, Madison, McCarville, Moses, Murphy, Novak, O'Connor, Prado, Roe, Snyder, Stubbs, Taylor, VanderMeer, Vining, Wittke and Miresse",
+    "occurred_at": "2025-05-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr53",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR53"
+}

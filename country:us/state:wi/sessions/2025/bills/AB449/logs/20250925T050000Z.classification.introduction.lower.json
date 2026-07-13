@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Goeben, Brooks, Kreibich, O'Connor, Krug, Rivera-Wagner, Piwowarczyk, Murphy, Brill, Knodl, Summerfield, Behnke and Wichgers; \ncosponsored by Senators Bradley, Feyen, Roys, Wall and Cabral-Guevara",
+    "occurred_at": "2025-09-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab449",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB449"
+}

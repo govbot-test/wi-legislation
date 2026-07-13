@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kurtz, Ortiz-Velez, Rodriguez, Rivera-Wagner, Allen, Andraca, Armstrong, Behnke, DeSmidt, Dittrich, Donovan, Duchow, Fitzgerald, Franklin, Goodwin, Gundrum, Johnson, Kaufert, Kreibich, Krug, Melotik, Miresse, Murphy, Novak, O'Connor, Palmeri, Stubbs, Taylor, Tusler, Udell and Vining; \ncosponsored by Senators Cabral-Guevara, James, Carpenter, Roys, Spreitzer, Wall, Wirch and Larson",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr109",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR109"
+}

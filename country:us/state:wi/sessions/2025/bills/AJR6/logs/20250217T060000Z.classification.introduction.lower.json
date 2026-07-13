@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Steffen, Sortwell, Armstrong, Brill, Callahan, Dittrich, Gundrum, Gustafson, Hurd, Knodl, Maxey, Melotik, Moore Omokunde, Murphy, Mursau, Nedweski, Neylon, O'Connor, Penterman, Rodriguez, Snyder, Spiros, Stubbs, Subeck, Tusler and VanderMeer; \ncosponsored by Senators Bradley, Feyen, Jacque, James, Nass, Quinn, Ratcliff and Tomczyk",
+    "occurred_at": "2025-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr6",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR6"
+}

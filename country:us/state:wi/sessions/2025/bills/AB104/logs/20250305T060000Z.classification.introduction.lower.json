@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Allen, Vos, Behnke, Brill, Brooks, Callahan, Dittrich, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Maxey, Murphy, Mursau, Nedweski, Neylon, O'Connor, Penterman, Steffen, Tucker, Tusler and Wichgers; \ncosponsored by Senators Tomczyk, Kapenga, Nass, Quinn and Wimberger",
+    "occurred_at": "2025-03-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB104"
+}

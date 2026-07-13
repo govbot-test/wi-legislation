@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Tomczyk, Kapenga and Wanggaard; \ncosponsored by Representatives Nedweski, Murphy, Gustafson, Allen, Armstrong, Behnke, Brill, Dallman, Dittrich, Donovan, Duchow, Gundrum, Knodl, Kreibich, Krug, Maxey, Melotik, Moses, Mursau, O'Connor, Penterman, Piwowarczyk, Sortwell, Steffen, Summerfield, Swearingen, Tusler and Wichgers",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb498",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB498"
+}

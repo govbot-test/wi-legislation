@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wimberger; \ncosponsored by Representatives Kitchens, Franklin, Kurtz, Steffen, Behnke, Billings, Brooks, Dittrich, Donovan, Joers, Knodl, Kreibich, Melotik, Murphy, Mursau, Novak, O'Connor, Piwowarczyk, Udell and Wichgers",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb640",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB640"
+}

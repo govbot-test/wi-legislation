@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Hesselbein, Drake, Carpenter, Dassler-Alfheim, Habush Sinykin, L. Johnson, Keyeski, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Subeck, Spaude, Johnson, Anderson, Andraca, Arney, Bare, Billings, Brown, Cruz, DeSanto, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Taylor, Tenorio, Udell and Vining",
+    "occurred_at": "2025-02-21T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb50",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB50"
+}

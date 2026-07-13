@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Murphy, Allen, Behnke, Dittrich, Donovan, Goeben, Gundrum, Knodl, Kreibich, Maxey, Melotik, Mursau, O'Connor, Piwowarczyk and Wichgers; \ncosponsored by Senators Nass, Wanggaard, Kapenga and Tomczyk",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr102",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR102"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Carpenter, Dassler-Alfheim, Habush Sinykin, Larson, Ratcliff, Smith and Spreitzer; \ncosponsored by Representatives Arney, Anderson, Bare, Brown, Clancy, DeSmidt, Goodwin, Hong, Joers, Kirsch, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Phelps, Roe, Snodgrass, Stubbs, Subeck, Taylor, Tenorio and Udell",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb500",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB500"
+}

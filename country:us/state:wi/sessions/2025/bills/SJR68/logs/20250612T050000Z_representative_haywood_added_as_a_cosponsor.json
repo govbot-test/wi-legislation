@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Representative Haywood added as a cosponsor",
+    "occurred_at": "2025-06-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr68",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR68"
+}

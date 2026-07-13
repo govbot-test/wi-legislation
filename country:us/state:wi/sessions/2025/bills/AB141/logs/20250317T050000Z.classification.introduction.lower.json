@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, Dittrich, Knodl, Murphy, Mursau, Novak, O'Connor, Tusler, Johnson, Miresse, Moore Omokunde and Palmeri; \ncosponsored by Senators Tomczyk, James, Dassler-Alfheim and Wall",
+    "occurred_at": "2025-03-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab141",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB141"
+}

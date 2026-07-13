@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Amendment 1 offered by Senators Hesselbein, Spreitzer, Smith, Roys, Keyeski, Dassler-Alfheim, Ratcliff, Habush Sinykin, Wall, Pfaff and Larson",
+    "occurred_at": "2025-11-18T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab366",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB366"
+}

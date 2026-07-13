@@ -1,0 +1,222 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB568",
+  "title": "Relating to: payments for pupils who withdraw from a parental choice program, the Special Needs Scholarship Program, or an independent charter school. (FE)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sb568"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced by Senators Larson, Hesselbein, Dassler-Alfheim, Carpenter, Habush Sinykin, L. Johnson, Keyeski, Ratcliff and Spreitzer; \ncosponsored by Representatives Sheehan, Cruz, Neubauer, Andraca, Bare, Clancy, DeSanto, DeSmidt, Fitzgerald, Hysell, Joers, Madison, Mayadev, Miresse, Moore Omokunde, Palmeri, Sinicki, Snodgrass, Spaude, Stroud, Tenorio and Udell",
+      "date": "2025-10-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Read first time and referred to Committee on Education",
+      "date": "2025-10-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Representative Anderson added as a cosponsor",
+      "date": "2025-11-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-11-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    },
+    {
+      "description": "Representative Subeck added as a cosponsor",
+      "date": "2025-11-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Larson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Larson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hesselbein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hesselbein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dassler-Alfheim",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dassler-Alfheim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carpenter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Habush Sinykin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Habush Sinykin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"L. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keyeski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Keyeski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ratcliff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ratcliff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spreitzer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spreitzer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB568",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB568.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB568: Fiscal Estimate From DPI",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb568/sb568_dpi.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSB568",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Bill 570",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab570",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb568",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: S - Education"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:44Z"
+  }
+}

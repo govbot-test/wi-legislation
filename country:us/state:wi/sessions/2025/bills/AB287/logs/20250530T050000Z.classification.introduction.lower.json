@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snodgrass, Behnke, DeSanto, Miresse, Anderson, Andraca, Arney, Bare, Billings, Clancy, Cruz, DeSmidt, Fitzgerald, J. Jacobson, Joers, Johnson, Madison, Mayadev, Moore Omokunde, Palmeri, Phelps, Rivera-Wagner, Roe, Sheehan, Sinicki, Stubbs, Subeck, Tenorio and Vining; \ncosponsored by Senators Smith, Habush Sinykin, Carpenter, Dassler-Alfheim, Drake, Keyeski, Larson, Ratcliff, Roys, Wall and Wirch",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab287",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB287"
+}

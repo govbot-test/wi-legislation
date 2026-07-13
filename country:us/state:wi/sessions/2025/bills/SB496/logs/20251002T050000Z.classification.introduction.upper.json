@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Dassler-Alfheim, Keyeski, Pfaff, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Phelps, Sheehan, Hong, Arney, Bare, Clancy, Cruz, Fitzgerald, Joers, Madison, Palmeri, Sinicki, Snodgrass, Spaude, Stroud and Tenorio",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb496",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB496"
+}

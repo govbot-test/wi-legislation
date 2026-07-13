@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Knodl, Nedweski, Armstrong, Penterman, O'Connor, Tusler, Mursau, Maxey, Green, Murphy, Dittrich, Tranel, Gustafson, Moses, Piwowarczyk, Neylon, Gundrum, Dallman, Callahan, Donovan, B. Jacobson, Behnke, Goeben, Kaufert, Tittl, Rodriguez, Wichgers and Wittke; \ncosponsored by Senators Hutton, Bradley, Tomczyk, Nass, Kapenga, Feyen, Cabral-Guevara and Stafsholt",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab276",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB276"
+}

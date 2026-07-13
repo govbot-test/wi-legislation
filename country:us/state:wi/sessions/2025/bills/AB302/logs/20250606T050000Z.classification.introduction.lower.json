@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kaufert, Tranel, Callahan, Clancy, DeSmidt, Goeben, Gundrum, Johnson, Knodl, Kreibich, Madison, Maxey, O'Connor, Penterman, Subeck, Wichgers and Wittke; \ncosponsored by Senators Bradley, Spreitzer, Dassler-Alfheim, Feyen, Keyeski, Ratcliff, Testin and Wirch",
+    "occurred_at": "2025-06-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab302",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB302"
+}

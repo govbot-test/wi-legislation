@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Billings, Sinicki, Palmeri, Ortiz-Velez, DeSmidt, Tenorio, Arney, Miresse, Rivera-Wagner, Goodwin, Subeck, Stubbs, Joers, Fitzgerald, Roe, Sheehan, Bare, Snodgrass, Stroud, Johnson, Andraca and Tucker; \ncosponsored by Senators Dassler-Alfheim, Pfaff, Roys, Ratcliff, Spreitzer, Wirch, Hesselbein, Smith, Carpenter, Habush Sinykin, Keyeski, Larson, Drake and L. Johnson",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab591",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB591"
+}

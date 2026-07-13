@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Moses, Kitchens, Allen, Tranel, Wittke, Penterman, Gundrum, O'Connor, Armstrong, Spaude, DeSmidt, Miresse, Petersen, Snodgrass, Dittrich, Sheehan, Tittl, Knodl, Wichgers, Prado, Callahan, Kreibich, Subeck, Sinicki, Murphy, Behnke, Palmeri, Melotik, Clancy, Madison, Goodwin, Roe, Johnson, Goeben and Kaufert; \ncosponsored by Senators Feyen, Cabral-Guevara, Tomczyk, Jacque, Wall, Roys, Ratcliff, Hesselbein, Drake, Larson, Nass, Dassler-Alfheim and Spreitzer",
+    "occurred_at": "2025-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr29",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR29"
+}

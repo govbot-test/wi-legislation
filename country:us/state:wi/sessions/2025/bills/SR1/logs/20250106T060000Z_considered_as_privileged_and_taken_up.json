@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Considered as privileged and taken up",
+    "occurred_at": "2025-01-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/resolution/sr1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR1"
+}

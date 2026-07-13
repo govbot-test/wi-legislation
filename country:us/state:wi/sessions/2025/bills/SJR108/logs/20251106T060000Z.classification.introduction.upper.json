@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Habush Sinykin, Roys, Drake, Dassler-Alfheim, Ratcliff, Wall, Spreitzer, Larson and Hesselbein; \ncosponsored by Representatives Miresse, Mursau, Stroud, Madison, Tenorio, Sinicki, Moore Omokunde, Udell, Ortiz-Velez, Anderson, Snodgrass, Emerson, Taylor, McCarville, Fitzgerald, Arney, Joers, Brown, Roe, Palmeri, Andraca, Neubauer, Clancy, Stubbs, Johnson, DeSmidt, Sheehan and Hysell",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr108",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR108"
+}

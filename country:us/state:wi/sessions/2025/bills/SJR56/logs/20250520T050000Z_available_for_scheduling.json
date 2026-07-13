@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Available for scheduling",
+    "occurred_at": "2025-05-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr56",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR56"
+}

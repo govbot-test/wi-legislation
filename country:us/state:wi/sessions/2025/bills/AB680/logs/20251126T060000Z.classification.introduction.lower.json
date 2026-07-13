@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Sinicki, Miresse, Billings, Madison, Hysell, Emerson, Prado, Snodgrass, Neubauer, Clancy, Roe, Goodwin, Arney, Andraca, Stroud, Moore Omokunde, Bare, Fitzgerald, Kirsch, Johnson, Taylor, Palmeri, Brown, Sheehan, Stubbs and DeSmidt; \ncosponsored by Senators L. Johnson, Ratcliff, Pfaff, Wall, Spreitzer, Roys and Larson",
+    "occurred_at": "2025-11-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab680",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB680"
+}

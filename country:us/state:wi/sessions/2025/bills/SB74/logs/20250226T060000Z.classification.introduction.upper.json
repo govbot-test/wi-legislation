@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Stafsholt, Cabral-Guevara, Carpenter, Dassler-Alfheim, Drake, James, Keyeski, Larson, Pfaff, Spreitzer, Wall, Ratcliff and L. Johnson; \ncosponsored by Representatives VanderMeer, Tittl, Anderson, Bare, Dittrich, Doyle, Emerson, Franklin, Green, Gundrum, J. Jacobson, Joers, Johnson, Knodl, Melotik, Miresse, Moore Omokunde, Mursau, Novak, O'Connor, Phelps and Roe",
+    "occurred_at": "2025-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb74",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB74"
+}

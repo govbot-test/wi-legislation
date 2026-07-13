@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Keyeski, Ratcliff and Habush Sinykin; \ncosponsored by Representatives Mayadev, Hysell, Bare, Arney, Clancy, DeSanto, Haywood, Hong, Joers, Madison, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Udell and Andraca",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb354",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB354"
+}

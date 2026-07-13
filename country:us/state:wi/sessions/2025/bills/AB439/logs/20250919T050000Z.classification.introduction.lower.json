@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tranel, Hurd, VanderMeer, Behnke, Brill, Dittrich, Goodwin, Green, Gundrum, Knodl, Kreibich, Miresse, Murphy, Mursau, Novak, O'Connor, Penterman, Sortwell, Spiros, Stroud, Wichgers and Anderson; \ncosponsored by Senators Marklein, Feyen, Jacque, Jagler, Nass, Spreitzer, Testin, Tomczyk and Wimberger",
+    "occurred_at": "2025-09-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab439",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB439"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Carpenter, Dassler-Alfheim, Roys, Ratcliff, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff and Wirch; \ncosponsored by Representatives Snodgrass, Stroud, Udell, Cruz, Neubauer, Phelps, Rivera-Wagner, Arney, Clancy, Anderson, Andraca, Bare, Brown, DeSanto, DeSmidt, Emerson, Fitzgerald, Hong, Hysell, Joers, Johnson, Madison, Mayadev, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Prado, Roe, Sheehan, Sinicki, Stubbs, Subeck, Tenorio and Vining",
+    "occurred_at": "2025-06-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb321",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB321"
+}

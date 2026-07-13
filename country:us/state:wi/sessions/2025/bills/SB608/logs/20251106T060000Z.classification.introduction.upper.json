@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wimberger, James, Quinn, Stafsholt and Tomczyk; \ncosponsored by Representatives Franklin, Moses, Hurd, Steffen, Armstrong, Behnke, Brill, Dittrich, Donovan, Goeben, Green, B. Jacobson, Kaufert, Knodl, O'Connor, Penterman, Snyder, Spiros, Tucker, Wichgers, Mursau and Summerfield",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb608",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB608"
+}

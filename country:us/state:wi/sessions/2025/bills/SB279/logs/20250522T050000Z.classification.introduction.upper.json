@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard and Bradley; \ncosponsored by Representatives Donovan, Callahan, Spiros, Novak, Piwowarczyk, Wichgers, Dittrich, Mursau, Brill, Knodl, Murphy, Subeck, Tusler, Kreibich, Sortwell, O'Connor and Maxey",
+    "occurred_at": "2025-05-22T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb279",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB279"
+}

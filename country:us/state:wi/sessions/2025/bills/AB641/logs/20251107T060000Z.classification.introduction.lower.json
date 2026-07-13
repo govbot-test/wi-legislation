@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Sinicki, Brown, Tenorio, McCarville, Andraca, Arney, Bare, Billings, Anderson, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kaufert, Kirsch, Madison, Mayadev, McGuire, Miresse, Moore Omokunde, Neubauer, Novak, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Udell and Vining; \ncosponsored by Senators Hesselbein, Wirch, Carpenter, Smith, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer and Wall",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab641",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB641"
+}

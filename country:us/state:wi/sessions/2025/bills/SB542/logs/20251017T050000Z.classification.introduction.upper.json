@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Spreitzer, Habush Sinykin and Ratcliff; \ncosponsored by Representatives Maxey, Anderson, Behnke, Franklin, Goodwin, Joers, Knodl, Melotik, Ortiz-Velez, Palmeri, Piwowarczyk, Wichgers and Sinicki",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb542",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB542"
+}

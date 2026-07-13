@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Habush Sinykin, Cabral-Guevara, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Larson, Pfaff, Ratcliff, Roys, Spreitzer and Wirch; \ncosponsored by Representatives Palmeri, Mursau, Andraca, Arney, Bare, Clancy, Cruz, DeSanto, DeSmidt, Dittrich, Emerson, Fitzgerald, Joers, Johnson, Kaufert, Kirsch, Madison, McCarville, Melotik, Miresse, Murphy, Phelps, Roe, Sheehan, Sinicki, Snodgrass, Stroud, Stubbs, Tenorio and Udell",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr62",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR62"
+}

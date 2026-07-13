@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, Tomczyk, Jacque, Nass and Quinn; \ncosponsored by Representatives Tranel, Hurd, Krug, Kreibich, Behnke, Brill, Dittrich, Goeben, Knodl, Maxey, Murphy, Penterman, Sortwell, Spiros, Tusler, Melotik, Wichgers and Mursau",
+    "occurred_at": "2025-01-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3"
+}

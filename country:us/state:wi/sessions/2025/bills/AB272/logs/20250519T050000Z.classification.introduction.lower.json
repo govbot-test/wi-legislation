@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Roe, Anderson, Arney, Bare, Billings, Brown, Cruz, DeSanto, DeSmidt, Dittrich, Emerson, Joers, Madison, Miresse, Ortiz-Velez, Palmeri, Rivera-Wagner, Snodgrass, Stubbs, Subeck, Tenorio and Udell; \ncosponsored by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Keyeski, Larson, Ratcliff, Roys and Wirch",
+    "occurred_at": "2025-05-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab272",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB272"
+}

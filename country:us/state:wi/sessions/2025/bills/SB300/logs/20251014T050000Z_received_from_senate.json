@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from Senate",
+    "occurred_at": "2025-10-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb300",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB300"
+}

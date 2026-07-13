@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Marklein, Nass and Wimberger; \ncosponsored by Representatives Maxey, Allen, Behnke, Dittrich, Gundrum, B. Jacobson, Knodl, Kreibich, Melotik, Mursau, Piwowarczyk, Tucker and Wichgers",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb620",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB620"
+}

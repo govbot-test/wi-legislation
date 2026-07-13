@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Bradley, Hutton, Cabral-Guevara, Feyen, Nass, Quinn and Tomczyk; \ncosponsored by Representatives Tusler, Behnke, Green, Gundrum, Kreibich, Maxey, Mursau, Penterman, Piwowarczyk, Tittl, Tranel and Wichgers",
+    "occurred_at": "2025-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb36",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB36"
+}

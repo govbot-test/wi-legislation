@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Larson, Spreitzer, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Keyeski, Pfaff, Ratcliff, Roys, Wall, Habush Sinykin, Carpenter and Wirch; \ncosponsored by Representatives Subeck, Sheehan, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Taylor, Tenorio, Udell, Vining and Kirsch",
+    "occurred_at": "2025-04-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr38",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR38"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Felzkowski, Hutton, Wanggaard, Jagler, James, Kapenga, Nass, Quinn, Tomczyk and Wimberger; \ncosponsored by Representatives Rodriguez, Franklin, Behnke, Dittrich, Donovan, Goeben, Green, Gundrum, Gustafson, B. Jacobson, Knodl, Kreibich, Murphy, Nedweski, O'Connor, Penterman, Spiros, Steffen, Tusler, Wichgers, Wittke and Melotik",
+    "occurred_at": "2025-10-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb600",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB600"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Bradley, Feyen, Hutton, Kapenga, Nass, Quinn, Stafsholt, Tomczyk and Wanggaard; \ncosponsored by Representatives Wichgers, Armstrong, Behnke, Brill, Dittrich, Donovan, Franklin, Goeben, Green, Gundrum, B. Jacobson, Knodl, Kreibich, Maxey, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman, Piwowarczyk, Spiros, Steffen, Swearingen, Tranel, Tusler and Allen",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr88",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR88"
+}

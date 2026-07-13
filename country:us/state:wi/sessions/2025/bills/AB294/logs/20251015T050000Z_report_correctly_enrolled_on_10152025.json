@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report correctly enrolled on 10-15-2025",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab294",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB294"
+}

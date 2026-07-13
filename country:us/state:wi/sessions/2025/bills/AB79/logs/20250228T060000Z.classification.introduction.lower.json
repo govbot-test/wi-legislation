@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kitchens, Billings, Anderson, Andraca, Bare, Behnke, Clancy, DeSmidt, Dittrich, Doyle, Emerson, Fitzgerald, Goodwin, Gundrum, Hong, J. Jacobson, Joers, Johnson, Madison, McCarville, Miresse, Mursau, Palmeri, Roe, Sinicki, Snodgrass, Snyder, Spaude, Steffen, Stroud, Stubbs, Subeck, Udell, Vining and Haywood; \ncosponsored by Senators James, L. Johnson, Dassler-Alfheim, Habush Sinykin, Hesselbein, Keyeski, Larson, Ratcliff, Roys, Spreitzer, Wall and Wirch",
+    "occurred_at": "2025-02-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab79",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB79"
+}

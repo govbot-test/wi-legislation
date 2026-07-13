@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Cabral-Guevara, Drake, Hesselbein, Jacque, Ratcliff, Roys, Tomczyk, Wall and Spreitzer; \ncosponsored by Representatives Moses, Kitchens, Allen, Armstrong, Behnke, Callahan, Clancy, DeSmidt, Dittrich, Goeben, Goodwin, Gundrum, Johnson, Kaufert, Knodl, Kreibich, Madison, Miresse, Murphy, O'Connor, Palmeri, Penterman, Petersen, Prado, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Subeck, Tittl, Tranel, Wichgers and Wittke",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr26",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR26"
+}

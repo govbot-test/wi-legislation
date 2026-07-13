@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Novak, Tranel, Gundrum, Allen, Behnke, Brill, Callahan, Duchow, Goodwin, Miresse, Moses, Murphy, Mursau and Wichgers; \ncosponsored by Senators Marklein and Cabral-Guevara",
+    "occurred_at": "2025-11-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab664",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB664"
+}

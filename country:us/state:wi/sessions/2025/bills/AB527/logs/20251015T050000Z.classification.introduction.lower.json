@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Joers, Anderson, Andraca, Arney, Bare, Clancy, Emerson, Fitzgerald, Hysell, Johnson, Madison, McCarville, Miresse, Ortiz-Velez, Palmeri, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud and Udell; \ncosponsored by Senators Ratcliff, Smith, Carpenter, Hesselbein, Keyeski, Larson, Roys, Spreitzer and Wirch",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab527",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB527"
+}

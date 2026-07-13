@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Stubbs, Snyder, Joers, Vining, Neubauer, Moore Omokunde, Novak, Rivera-Wagner, Goodwin, O'Connor, Tenorio, Bare, Miresse, Sinicki, Taylor, Brooks, Udell, Emerson, Roe, Behnke, Clancy, Hong, Stroud, Fitzgerald, Armstrong, Phelps, Mayadev, Madison, Andraca, Kaufert, DeSmidt, Billings, Haywood, Anderson, Tranel, Sheehan, Subeck, Gustafson and Johnson; \ncosponsored by Senators James, L. Johnson, Ratcliff, Roys, Hesselbein, Drake, Wirch, Carpenter, Keyeski, Larson, Smith, Dassler-Alfheim, Habush Sinykin, Pfaff, Wall and Spreitzer",
+    "occurred_at": "2025-08-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab392",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB392"
+}

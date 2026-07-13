@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Carpenter, Habush Sinykin, Ratcliff, Spreitzer, Keyeski and Jagler; \ncosponsored by Representatives Kitchens, Joers, Armstrong, Udell, Miresse, DeSmidt, Piwowarczyk, Maxey, Palmeri, Kreibich, Bare, Goodwin, Donovan, Sheehan, Anderson, Sinicki, Behnke, Melotik, Mursau and Stubbs",
+    "occurred_at": "2025-09-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb414",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB414"
+}

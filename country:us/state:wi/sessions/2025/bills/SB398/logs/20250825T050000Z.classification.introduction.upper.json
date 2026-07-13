@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Smith, Carpenter, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Spreitzer, Wirch and Dassler-Alfheim; \ncosponsored by Representatives Vining, Johnson, Stubbs, Anderson, Andraca, Bare, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Joers, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Prado, Roe, Sinicki, Snodgrass, Taylor and Tenorio",
+    "occurred_at": "2025-08-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb398",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB398"
+}

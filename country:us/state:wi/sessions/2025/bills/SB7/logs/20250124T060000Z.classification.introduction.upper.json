@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Cabral-Guevara and Nass; \ncosponsored by Representatives Penterman, Behnke, Allen, Armstrong, Brill, Brown, Dittrich, Goeben, Green, B. Jacobson, Kreibich, Maxey, Murphy, Mursau, O'Connor, Piwowarczyk, Sortwell, Steffen, Wichgers and Tusler",
+    "occurred_at": "2025-01-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb7",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB7"
+}

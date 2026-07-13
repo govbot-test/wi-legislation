@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Tomczyk and Habush Sinykin; \ncosponsored by Representatives B. Jacobson, Wichgers, Allen, Anderson, Behnke, Brill, Brooks, Dittrich, Gundrum, Kreibich, Maxey, Moses, Murphy, Mursau, Sinicki, Subeck, Tusler and Udell",
+    "occurred_at": "2025-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb33",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB33"
+}

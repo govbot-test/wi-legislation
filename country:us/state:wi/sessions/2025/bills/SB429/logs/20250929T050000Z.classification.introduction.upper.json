@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Ratcliff, Smith and Spreitzer; \ncosponsored by Representatives Brown, Andraca, Mayadev, Bare, Arney, DeSmidt, Fitzgerald, Hong, Hysell, Joers, Johnson, Kirsch, McCarville, Palmeri, Prado, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Tenorio, Udell, Vining and DeSanto",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb429",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB429"
+}

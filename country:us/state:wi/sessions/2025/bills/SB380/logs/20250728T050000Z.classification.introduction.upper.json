@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Carpenter, Dassler-Alfheim, Spreitzer, Ratcliff, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Smith, Wall and Wirch; \ncosponsored by Representatives Neubauer, Spaude, Snodgrass, Cruz, Phelps, Rivera-Wagner, Stroud, Udell, Arney, Clancy, Anderson, Bare, DeSanto, DeSmidt, Emerson, Fitzgerald, Hong, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Roe, Sheehan, Stubbs, Subeck, Tenorio and Vining",
+    "occurred_at": "2025-07-28T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb380",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB380"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Pfaff, Hutton, Larson, Feyen and Tomczyk; \ncosponsored by Representatives Spiros, Kaufert, Andraca, Brooks, Dittrich, Goeben, Maxey, Murphy, Mursau, O'Connor, Penterman, Piwowarczyk, Snyder, Subeck, Knodl and Udell",
+    "occurred_at": "2025-05-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb248",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB248"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Murphy, Allen, Behnke, Dittrich, Goeben, B. Jacobson, Knodl, Kreibich, Maxey, O'Connor, Tusler and Wichgers; \ncosponsored by Senators Jacque, Bradley and Wanggaard",
+    "occurred_at": "2025-08-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab406",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB406"
+}

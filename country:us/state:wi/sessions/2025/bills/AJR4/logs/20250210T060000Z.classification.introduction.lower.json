@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Vos, Murphy, Kaufert, Gustafson, Tusler, Allen, Armstrong, Behnke, Born, Brill, Dittrich, Duchow, Franklin, Goeben, Green, Gundrum, Hurd, B. Jacobson, Knodl, Kreibich, Krug, Melotik, Moses, Mursau, Nedweski, Neylon, Novak, O'Connor, Ortiz-Velez, Petersen, Piwowarczyk, Pronschinske, Rodriguez, Sinicki, Sheehan, Spiros, Subeck, Swearingen, Tittl, Tranel, VanderMeer, Wichgers, Wittke and Zimmerman; \ncosponsored by Senators Cabral-Guevara, Carpenter, Feyen, Marklein, Nass, Quinn, Testin, Wanggaard and Wimberger",
+    "occurred_at": "2025-02-10T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR4"
+}

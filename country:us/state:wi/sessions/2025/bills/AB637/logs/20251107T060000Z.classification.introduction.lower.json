@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tenorio, Clancy, DeSmidt, Fitzgerald, Goodwin, Hong, Kirsch, Madison, McCarville, Miresse, Sheehan, Stroud, Stubbs and Johnson; \ncosponsored by Senators Larson, Carpenter, Hesselbein and Spreitzer",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab637",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB637"
+}

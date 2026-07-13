@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Tomczyk, Cabral-Guevara and Quinn; \ncosponsored by Representatives Snyder, B. Jacobson, Spiros, Armstrong, Behnke, Brill, Callahan, Dittrich, Goeben, Gundrum, Joers, Kaufert, Knodl, Kreibich, Krug, Maxey, McCarville, Miresse, Moses, Mursau, Novak, O'Connor, Piwowarczyk, Rodriguez, Sinicki, Steffen, Stubbs, Subeck, Wichgers and Doyle",
+    "occurred_at": "2025-04-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb222",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB222"
+}

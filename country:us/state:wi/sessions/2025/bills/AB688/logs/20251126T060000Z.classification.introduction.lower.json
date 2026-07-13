@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Roe, Rivera-Wagner, Anderson, Arney, Bare, Billings, Brown, Clancy, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Joers, Johnson, Madison, Mayadev, McCarville, Moore Omokunde, Neubauer, Palmeri, Sinicki, Sheehan, Spaude, Stubbs, Subeck, Taylor, Udell, Allen, DeSanto, Prado and Tenorio; \ncosponsored by Senators Spreitzer, Smith, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Wall, Wirch and Carpenter",
+    "occurred_at": "2025-11-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab688",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB688"
+}

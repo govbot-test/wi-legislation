@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Novak, Gundrum, Knodl, Kreibich, Mursau, O'Connor, Penterman, Piwowarczyk, Roe, Tranel, Wichgers, Johnson and Swearingen; \ncosponsored by Senators Quinn, Marklein, Pfaff, Roys and Spreitzer",
+    "occurred_at": "2025-09-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab433",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB433"
+}

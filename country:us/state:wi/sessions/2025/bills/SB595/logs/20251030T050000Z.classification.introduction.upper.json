@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk and Quinn; \ncosponsored by Representatives Krug, Knodl, O'Connor, Steffen, Penterman, Armstrong, Kitchens, Allen, Hurd, Murphy, Tittl, Maxey, Snyder, Nedweski, Green, Spiros and Melotik",
+    "occurred_at": "2025-10-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb595",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB595"
+}

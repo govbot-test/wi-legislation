@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 1 recommended by Committee on Judiciary and Public Safety, Ayes 5, Noes 3",
+    "occurred_at": "2025-10-22T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab89",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB89"
+}

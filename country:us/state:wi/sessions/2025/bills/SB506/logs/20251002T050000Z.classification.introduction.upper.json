@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Dassler-Alfheim, Habush Sinykin, Keyeski, Ratcliff, Roys, Smith and Wirch; \ncosponsored by Representatives Udell, Anderson, Andraca, Arney, Bare, Brown, DeSmidt, Emerson, Goodwin, Hong, Madison, McCarville, Miresse, Phelps, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Subeck and Tenorio",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb506",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB506"
+}

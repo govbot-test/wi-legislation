@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Larson and Spreitzer; \ncosponsored by Representatives Gustafson, Joers, Bare, Clancy, DeSmidt, Madison, Miresse, Palmeri, Stroud, Stubbs and Udell",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb527",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB527"
+}

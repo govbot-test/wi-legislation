@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Clancy, Taylor, Anderson, Arney, Bare, Billings, Brown, DeSmidt, Emerson, Goodwin, Joers, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Stroud, Stubbs, Subeck, Tenorio, Udell and Vining; \ncosponsored by Senators Larson, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Ratcliff, Roys and Spreitzer",
+    "occurred_at": "2025-11-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab684",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB684"
+}

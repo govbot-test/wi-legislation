@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Ratcliff, Carpenter, Dassler-Alfheim, Roys, Drake, Hesselbein, Keyeski, Larson and Smith; \ncosponsored by Representatives Phelps, Neubauer, Arney, Clancy, Cruz, Rivera-Wagner, Snodgrass, Stroud, Udell, Anderson, Bare, Billings, Brown, DeSmidt, Emerson, Fitzgerald, Hong, Joers, Johnson, Kirsch, Madison, Mayadev, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Sinicki, Subeck, Tenorio and Haywood",
+    "occurred_at": "2025-04-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb223",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB223"
+}

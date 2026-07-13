@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Bradley, Wanggaard, Feyen, Nass, Tomczyk and Testin; \ncosponsored by Representatives Moses, Duchow, Dittrich, Piwowarczyk, Armstrong, Brooks, Donovan, B. Jacobson, Penterman, Murphy, Tucker, Wichgers and Behnke",
+    "occurred_at": "2025-02-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb25",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB25"
+}

@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on State Affairs, Ayes 7, Noes 3",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-11-20T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "84da252e-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB296",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist215055",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist215055-AB296"
+}

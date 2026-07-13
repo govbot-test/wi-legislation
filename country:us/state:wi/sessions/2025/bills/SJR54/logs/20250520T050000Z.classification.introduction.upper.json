@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Carpenter, Drake, Hesselbein, Jacque, Larson, Ratcliff, Roys, Spreitzer and Wall; \ncosponsored by Representatives Subeck, Bare, Clancy, Emerson, Goodwin, Kirsch, McCarville, Ortiz-Velez, Phelps, Roe, Sheehan, Sinicki, Stroud, Stubbs, Tenorio, Haywood and Miresse",
+    "occurred_at": "2025-05-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr54",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR54"
+}

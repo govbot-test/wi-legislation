@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, Cabral-Guevara, Feyen, Habush Sinykin, Pfaff and Quinn; \ncosponsored by Representatives Wittke, Kitchens, Rodriguez, Novak, Brooks, Knodl, Kreibich, Kurtz, Melotik, Murphy, O'Connor, Ortiz-Velez, Penterman, Steffen and Moses",
+    "occurred_at": "2025-04-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb170",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB170"
+}

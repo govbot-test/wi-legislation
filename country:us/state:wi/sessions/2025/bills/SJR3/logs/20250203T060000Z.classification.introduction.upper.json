@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, James, Jacque, Keyeski, Wirch, Carpenter, Drake, Ratcliff, Hesselbein, Testin, Tomczyk, Habush Sinykin, Wall, Feyen, Wanggaard, Spreitzer, Dassler-Alfheim and Larson; \ncosponsored by Representatives O'Connor, Kitchens, Billings, Stubbs, Snyder, Sinicki, Novak, Gundrum, Dittrich, Spiros, Goeben, Hurd, Vining, Spaude, Steffen, Rivera-Wagner, Bare, Prado, Mursau, Fitzgerald, Knodl, Murphy, Goodwin, Kirsch, Tenorio, Brill, Callahan, Miresse, Behnke, Franklin, Allen, Kreibich, Nedweski, Snodgrass, Arney, Duchow, Madison, Stroud, Palmeri, Tusler, Anderson, Subeck, Hong, Emerson, Roe, Rodriguez, Joers, B. Jacobson, DeSanto, Wittke, J. Jacobson, Phelps, Haywood, Johnson, Ortiz-Velez, McCarville and Mayadev",
+    "occurred_at": "2025-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR3"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Stafsholt, Dassler-Alfheim, Drake, Habush Sinykin, Pfaff and Wall; \ncosponsored by Representatives Green, Armstrong, Brill, Dittrich, Doyle, Fitzgerald, Franklin, Gundrum, Hysell, Johnson, Kitchens, Kreibich, Maxey, Miresse, Murphy, Mursau, Nedweski, Neubauer, Novak, Sheehan and Sinicki",
+    "occurred_at": "2025-07-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb366",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB366"
+}

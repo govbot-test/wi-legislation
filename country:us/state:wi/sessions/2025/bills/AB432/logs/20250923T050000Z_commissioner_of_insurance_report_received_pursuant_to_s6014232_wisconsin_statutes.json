@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Commissioner of Insurance report received pursuant to s.601.423(2), Wisconsin Statutes",
+    "occurred_at": "2025-09-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab432",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB432"
+}

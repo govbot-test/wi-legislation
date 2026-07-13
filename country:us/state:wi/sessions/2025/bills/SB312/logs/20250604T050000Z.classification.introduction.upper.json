@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Nass, Wanggaard and Quinn; \ncosponsored by Representatives Brill, Maxey, Goeben, Wichgers, Piwowarczyk, Gustafson, Steffen, Penterman, Duchow, Nedweski, Callahan, Murphy, Dittrich, Allen and Behnke",
+    "occurred_at": "2025-06-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb312",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB312"
+}

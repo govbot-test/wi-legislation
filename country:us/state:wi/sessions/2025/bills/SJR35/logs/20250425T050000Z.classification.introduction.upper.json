@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Ratcliff, Pfaff, Roys, Larson, Wirch, Drake, Hesselbein, Keyeski and Spreitzer; \ncosponsored by Representatives Udell, Johnson, Sinicki, Stubbs, Roe, Emerson, Brown, Phelps, O'Connor, Arney, Subeck, Bare, J. Jacobson, Fitzgerald, Joers, DeSmidt and Clancy",
+    "occurred_at": "2025-04-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr35",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR35"
+}

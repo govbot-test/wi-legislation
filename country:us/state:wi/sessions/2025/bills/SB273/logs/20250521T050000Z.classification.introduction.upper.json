@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wimberger, James, Jacque and Nass; \ncosponsored by Representatives Spiros, Franklin, Callahan, Gundrum, Gustafson, Knodl, Kreibich, Miresse, Moses, Murphy, Mursau, O'Connor, Penterman, Steffen and Wichgers",
+    "occurred_at": "2025-05-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb273",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB273"
+}

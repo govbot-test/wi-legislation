@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Referred to calendar of 3-13-2025 pursuant to Assembly Rule 45 (1)",
+    "occurred_at": "2025-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab61",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB61"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Dittrich, Subeck, Brown, Duchow, Hysell, J. Jacobson, Johnson, Kirsch, Melotik, Miresse, Moore Omokunde, Neubauer, O'Connor, Palmeri, Prado, Rodriguez, Roe, Sheehan, Spaude, Stubbs, Joers and Sinicki",
+    "occurred_at": "2025-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/resolution/ar6",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AR6"
+}

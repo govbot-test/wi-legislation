@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tenorio, Bare, Anderson, Andraca, Arney, Brown, Clancy, DeSmidt, Fitzgerald, Joers, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Palmeri, Phelps, Rivera-Wagner, Snodgrass, Stroud, Subeck, Udell and Johnson; \ncosponsored by Senators Spreitzer, Habush Sinykin, Hesselbein, Larson, Ratcliff, Roys and Smith",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab476",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB476"
+}

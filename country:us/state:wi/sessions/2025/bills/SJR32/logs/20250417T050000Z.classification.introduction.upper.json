@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Hesselbein, Ratcliff and Spreitzer; \ncosponsored by Representatives Moses, Knodl, Melotik, Murphy, O'Connor, Steffen, Clancy, Fitzgerald, Madison, Miresse, Ortiz-Velez, Palmeri, Sinicki, Stubbs and Subeck",
+    "occurred_at": "2025-04-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr32",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR32"
+}

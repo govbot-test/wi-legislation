@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Jacque and Wanggaard; \ncosponsored by Representatives Billings, Novak, Anderson, Arney, Bare, Behnke, Clancy, Cruz, DeSanto, DeSmidt, Donovan, Doyle, Emerson, Fitzgerald, Goodwin, Gundrum, Haywood, Hysell, Joers, Kaufert, Kirsch, Kitchens, Kreibich, Madison, Mayadev, Melotik, Miresse, Moore Omokunde, Mursau, Neylon, Ortiz-Velez, Palmeri, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Snyder, Stroud, Stubbs, Subeck, Tenorio, Tucker, Udell, Vining and Johnson",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb628",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB628"
+}

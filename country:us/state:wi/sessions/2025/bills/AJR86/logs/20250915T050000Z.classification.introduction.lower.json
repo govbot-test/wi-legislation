@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Cruz, Neubauer, Brown, Clancy, DeSmidt, Goodwin, Joers, Johnson, Kaufert, Kirsch, Moore Omokunde, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Stroud, Stubbs, Subeck, Udell and Vos; \ncosponsored by Senators Carpenter, Wirch, Drake, Hesselbein, Ratcliff, Roys and Spreitzer",
+    "occurred_at": "2025-09-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr86",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR86"
+}

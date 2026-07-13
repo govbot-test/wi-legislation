@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Goeben, Duchow, O'Connor, Armstrong, B. Jacobson, Dittrich, Brill, Brooks, Callahan, Kaufert, Piwowarczyk, Behnke and Penterman; \ncosponsored by Senators James, Wanggaard, Jacque, Cabral-Guevara and Marklein",
+    "occurred_at": "2025-05-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab229",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB229"
+}

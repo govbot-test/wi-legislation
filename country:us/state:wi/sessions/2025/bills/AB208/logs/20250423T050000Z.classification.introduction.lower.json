@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Summerfield, Steffen, Gustafson, Armstrong, Callahan, Dittrich, Green, B. Jacobson, J. Jacobson, Johnson, Kaufert, Kitchens, Kreibich, Moses, Mursau, Novak, O'Connor, Subeck, Swearingen, Tucker, Udell, VanderMeer, Wittke and Joers; \ncosponsored by Senators Quinn, Bradley, Feyen, James, Keyeski, Pfaff, Ratcliff, Stafsholt, Testin, Tomczyk and Wimberger",
+    "occurred_at": "2025-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab208",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB208"
+}

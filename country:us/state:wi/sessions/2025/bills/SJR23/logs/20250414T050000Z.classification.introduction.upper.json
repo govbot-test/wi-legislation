@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Ratcliff, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Pfaff, Roys and Spreitzer; \ncosponsored by Representatives Vining, Hurd, Anderson, Arney, Bare, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Hong, Hysell, Joers, Knodl, Madison, McCarville, Miresse, Moore Omokunde, Mursau, Neubauer, Ortiz-Velez, Phelps, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Subeck, Tenorio and Udell",
+    "occurred_at": "2025-04-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr23",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR23"
+}

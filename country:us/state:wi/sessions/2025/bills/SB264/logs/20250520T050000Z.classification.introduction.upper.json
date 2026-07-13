@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, James, L. Johnson, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Nass, Ratcliff, Roys, Spreitzer and Wall; \ncosponsored by Representatives Duchow, Nedweski, Gustafson, Subeck, Anderson, Andraca, Arney, Bare, Behnke, Brown, Clancy, DeSanto, DeSmidt, Dittrich, Donovan, Fitzgerald, Franklin, Goeben, Gundrum, Hysell, Joers, Johnson, Kirsch, Kreibich, Maxey, Miresse, Moore Omokunde, Mursau, Neubauer, Neylon, O'Connor, Ortiz-Velez, Prado, Sheehan, Snodgrass, Spaude, Steffen, Stroud, Stubbs, Tusler, Udell, Vining and Palmeri",
+    "occurred_at": "2025-05-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb264",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB264"
+}

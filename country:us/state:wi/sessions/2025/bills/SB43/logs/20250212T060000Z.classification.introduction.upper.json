@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara and Nass; \ncosponsored by Representatives Summerfield, Dittrich, Gundrum, Knodl, Kreibich, Murphy, O'Connor, Penterman and Steffen",
+    "occurred_at": "2025-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb43",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB43"
+}

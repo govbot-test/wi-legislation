@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Maxey, O'Connor, Armstrong, Behnke, Goeben, Gundrum, Gustafson, B. Jacobson, Knodl, Melotik, Mursau, Penterman, Spiros, Steffen, Tucker, Wichgers and Doyle; \ncosponsored by Senators Tomczyk, Jacque, Nass and Wanggaard",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab521",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB521"
+}

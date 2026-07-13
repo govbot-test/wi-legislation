@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Carpenter, Dassler-Alfheim, Habush Sinykin, Hesselbein, Keyeski, Larson, Ratcliff, Roys, Smith, Spreitzer and Wirch; \ncosponsored by Representatives Sinicki, Sheehan, Goodwin, Hong, Andraca, Miresse, Arney, Bare, Brown, Anderson, Clancy, DeSmidt, Doyle, Joers, Kirsch, Madison, Mayadev, McCarville, Moore Omokunde, Ortiz-Velez, Phelps, Roe, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Fitzgerald and Udell",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb541",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB541"
+}

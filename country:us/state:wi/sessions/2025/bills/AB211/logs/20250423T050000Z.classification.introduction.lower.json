@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Gustafson, Ortiz-Velez, Callahan, Gundrum, Armstrong, Zimmerman, Melotik, Brill, Krug, Kitchens, Goeben, Knodl, Tittl, Donovan, Penterman, Wichgers, Pronschinske, Mursau, Murphy, Green, Tucker, B. Jacobson, Behnke, Dallman, Neylon, Wittke, Sinicki, Piwowarczyk, Rodriguez, Miresse and Kirsch; \ncosponsored by Senators Tomczyk, Feyen, Nass, Testin and Cabral-Guevara",
+    "occurred_at": "2025-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab211",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB211"
+}

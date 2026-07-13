@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Spreitzer; \ncosponsored by Representatives Tittl, Allen, Anderson, Armstrong, Dittrich, Goodwin, Gundrum, Kreibich, Mursau, Piwowarczyk, Snodgrass, Stubbs, Subeck, Taylor, Vining, Wichgers and Sinicki",
+    "occurred_at": "2025-02-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb20",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB20"
+}

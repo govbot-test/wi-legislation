@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator James; \ncosponsored by Representatives Sortwell, Penterman, Dittrich, Goeben, Goodwin, Knodl, Kreibich, Melotik, Mursau and O'Connor",
+    "occurred_at": "2025-08-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb393",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB393"
+}

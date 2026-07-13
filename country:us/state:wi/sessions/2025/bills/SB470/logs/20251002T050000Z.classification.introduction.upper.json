@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard and Dassler-Alfheim; \ncosponsored by Representatives Kaufert, Gundrum, Maxey, B. Jacobson, Armstrong, Steffen, Allen, Dittrich, Piwowarczyk, Murphy, O'Connor, Mursau, Goeben, Kitchens and Brill",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb470",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB470"
+}

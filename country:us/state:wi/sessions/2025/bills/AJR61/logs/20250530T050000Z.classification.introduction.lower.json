@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Fitzgerald, Stubbs, Anderson, Andraca, Arney, Bare, Brown, Cruz, DeSanto, DeSmidt, Emerson, Hysell, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Roe, Sinicki, Snodgrass, Stroud, Tenorio, Udell, Vining and Prado; \ncosponsored by Senators L. Johnson, Ratcliff, Carpenter, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Roys, Smith and Spreitzer",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr61",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR61"
+}

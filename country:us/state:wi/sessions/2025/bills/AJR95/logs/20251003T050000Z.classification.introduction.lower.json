@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Dittrich, Summerfield, Kaufert, Andraca, Armstrong, Bare, Behnke, DeSmidt, Gundrum, Johnson, Knodl, Kreibich, McCarville, Melotik, Murphy, Mursau, Novak, Ortiz-Velez, Prado, Rodriguez, Sinicki, Snyder, Steffen, Stroud, Subeck, Tittl, Tucker, Wittke, Miresse and Madison; \ncosponsored by Senators James, Carpenter, Jacque, Ratcliff, Roys, Spreitzer, Wall, Wanggaard and Dassler-Alfheim",
+    "occurred_at": "2025-10-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr95",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR95"
+}

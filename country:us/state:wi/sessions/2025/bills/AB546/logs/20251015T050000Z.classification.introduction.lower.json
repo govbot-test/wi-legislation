@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Goeben, Gustafson, Brill, Maxey, Penterman, Murphy, Allen, Gundrum, Piwowarczyk, B. Jacobson, Tusler, Tittl, O'Connor, Kreibich, Dittrich, Behnke, Knodl, Armstrong, Green, Mursau and Hurd; \ncosponsored by Senators Quinn, Jacque, Jagler, Tomczyk, Wanggaard, Marklein, Bradley and Nass",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab546",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB546"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Arney, Anderson, Bare, Brown, Clancy, DeSmidt, Goodwin, Hong, Joers, Kirsch, Mayadev, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Phelps, Roe, Snodgrass, Stubbs, Subeck, Taylor, Tenorio and Udell; \ncosponsored by Senators Carpenter, Dassler-Alfheim, Habush Sinykin, Larson, Ratcliff, Smith and Spreitzer",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab622",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB622"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Keyeski, Ratcliff and Habush Sinykin; \ncosponsored by Representatives Hysell, Mayadev, Bare, Arney, Clancy, DeSanto, DeSmidt, Emerson, Haywood, Hong, Joers, McCarville, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Subeck, Udell, Andraca and Madison",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb355",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB355"
+}

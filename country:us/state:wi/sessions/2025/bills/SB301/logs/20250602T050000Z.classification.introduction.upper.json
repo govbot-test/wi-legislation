@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Ratcliff and Larson; \ncosponsored by Representatives Mayadev, Anderson, Bare, Clancy, DeSmidt, Fitzgerald, Joers, Johnson, Madison, Miresse, Neubauer, Palmeri, Phelps, Roe, Sheehan, Snodgrass, Stroud, Tenorio and Udell",
+    "occurred_at": "2025-06-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb301",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB301"
+}

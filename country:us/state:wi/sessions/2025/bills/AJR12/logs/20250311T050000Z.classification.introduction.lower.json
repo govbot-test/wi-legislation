@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Novak, Tranel, Vos, August, Petersen, Allen, Brown, Dittrich, Emerson, Goodwin, Gundrum, Haywood, Kaufert, Kirsch, Kitchens, Knodl, Kreibich, Krug, Kurtz, Moore Omokunde, Moses, Murphy, Mursau, Neubauer, Neylon, O'Connor, Penterman, Pronschinske, Rivera-Wagner, Rodriguez, Sinicki, Snyder, Spiros, Steffen, Stubbs, Subeck, Tittl, Tusler, VanderMeer, Wichgers, Wittke and Zimmerman; \ncosponsored by Senators Marklein, Carpenter, Drake, Hesselbein, Jacque, Jagler, James, L. Johnson, Nass, Pfaff, Quinn, Ratcliff, Smith, Stafsholt, Wanggaard and Wirch",
+    "occurred_at": "2025-03-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr12",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR12"
+}

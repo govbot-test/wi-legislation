@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Joint Committee for Review of Administrative Rules report received pursuant to s. 227.26(2)(g), Wisconsin Statutes",
+    "occurred_at": "2025-03-10T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab13",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB13"
+}

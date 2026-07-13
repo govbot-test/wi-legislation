@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Marklein, Carpenter and Wanggaard; \ncosponsored by Representatives Mursau, Hurd, Arney, Dittrich, Gundrum, Gustafson, Johnson, Maxey, Miresse, Nedweski, O'Connor, Palmeri, Sinicki, Snyder, Stroud and Piwowarczyk",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb524",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB524"
+}

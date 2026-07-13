@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, Nass, Roys and Marklein; \ncosponsored by Representatives Zimmerman, Sortwell, Allen, Armstrong, Behnke, Dittrich, Duchow, Goeben, Gustafson, Knodl, Kreibich, Krug, Kurtz, Maxey, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman, Piwowarczyk, Pronschinske, Snyder, Steffen, Tittl, Tusler, Wittke and Moses",
+    "occurred_at": "2025-03-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb166",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB166"
+}

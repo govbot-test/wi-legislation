@@ -1,0 +1,31 @@
+{
+  "identifier": "",
+  "motion_text": "Senate Amendment 12 to Senate Substitute Amendment 2 rejected, Ayes 18, Noes 15",
+  "motion_classification": [],
+  "start_date": "2025-07-02T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "7e064dc2-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "SB45",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 15
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB45-SSA2-SA12",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB45-SSA2-SA12-SB45"
+}

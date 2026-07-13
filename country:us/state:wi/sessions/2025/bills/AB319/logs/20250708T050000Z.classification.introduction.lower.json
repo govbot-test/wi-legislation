@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Andraca, Stubbs, Fitzgerald, Joers, Subeck, Vining, Kirsch, Brown, Bare, Sinicki, Roe, Hysell, Neubauer, Taylor, Snodgrass, Mayadev, Sheehan, Miresse, Udell, Arney, Emerson, Prado, Tenorio, Moore Omokunde, Palmeri, DeSmidt, Stroud, Anderson, Cruz, Goodwin, J. Jacobson and Haywood; \ncosponsored by Senators L. Johnson, Larson, Hesselbein, Keyeski, Roys, Smith, Ratcliff, Habush Sinykin, Carpenter, Dassler-Alfheim, Spreitzer and Drake",
+    "occurred_at": "2025-07-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab319",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB319"
+}

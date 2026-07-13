@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives DeSmidt, McCarville, Tenorio, Clancy, Brown, Emerson, Stroud, Joers, Sinicki, Johnson, Arney, Bare, Fitzgerald, Sheehan, Stubbs, Madison, Udell, Ortiz-Velez, Palmeri, Goodwin, Taylor, Miresse and Roe; \ncosponsored by Senators Wirch, Habush Sinykin, Smith, Spreitzer, Carpenter, Ratcliff, Roys and Hesselbein",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab636",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB636"
+}

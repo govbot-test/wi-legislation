@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Gustafson, Nedweski, Knodl, Armstrong, Penterman, O'Connor, Mursau, Krug, Maxey, Green, Murphy, B. Jacobson, Dittrich, Tranel, Piwowarczyk, Kreibich, Gundrum, Brooks, Callahan, Dallman, Behnke, Goeben, Donovan, Kaufert, Tittl, Melotik, Wichgers and Wittke; \ncosponsored by Senators Bradley, Quinn, Tomczyk, Nass, Kapenga, Feyen, Cabral-Guevara and Hutton",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab277",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB277"
+}

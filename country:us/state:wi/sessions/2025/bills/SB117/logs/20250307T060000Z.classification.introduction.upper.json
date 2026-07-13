@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton, Felzkowski, Feyen, Jacque, Kapenga, Nass, Quinn, Testin, Tomczyk and Wanggaard; \ncosponsored by Representatives Dittrich, Knodl, Allen, Armstrong, Behnke, Brooks, Callahan, Donovan, Duchow, Goeben, Green, Gundrum, Gustafson, B. Jacobson, Kreibich, Krug, Maxey, Moses, Murphy, Mursau, Nedweski, O'Connor, Penterman, Piwowarczyk, Sortwell, Steffen, Tusler, VanderMeer and Wichgers",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb117",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB117"
+}

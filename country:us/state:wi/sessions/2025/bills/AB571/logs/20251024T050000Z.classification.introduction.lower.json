@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Subeck, O'Connor, Andraca, Bare, DeSmidt, Fitzgerald, Hysell, J. Jacobson, Joers, Kreibich, Melotik, Miresse, Palmeri, Roe, Sinicki, Snodgrass, Steffen, Stubbs, Udell, Vining and Goodwin; \ncosponsored by Senators Cabral-Guevara, Ratcliff, Carpenter, Habush Sinykin, L. Johnson, Roys, Smith, Spreitzer and Larson",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab571",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB571"
+}

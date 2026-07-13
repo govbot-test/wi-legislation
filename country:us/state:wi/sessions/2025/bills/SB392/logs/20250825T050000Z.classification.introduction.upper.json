@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James and Spreitzer; \ncosponsored by Representatives Penterman, Sortwell, Dittrich, Gundrum, O'Connor, Subeck, Goeben, Kreibich, Piwowarczyk, Mursau, Ortiz-Velez, Behnke, Goodwin and Knodl",
+    "occurred_at": "2025-08-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb392",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB392"
+}

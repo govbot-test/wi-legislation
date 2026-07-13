@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Cabral-Guevara, Habush Sinykin, L. Johnson, Keyeski, Larson, Ratcliff, Spreitzer, Wirch and Dassler-Alfheim; \ncosponsored by Representatives DeSanto, Vining, Emerson, Bare, Brown, Cruz, DeSmidt, J. Jacobson, Joers, Johnson, Miresse, Ortiz-Velez, Palmeri, Prado, Roe, Snodgrass, Stroud, Tenorio, Udell, Sinicki, Fitzgerald and Haywood",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb356",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB356"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Billings, Palmeri, Johnson, DeSmidt, Tenorio, Ortiz-Velez, Arney, Miresse, Rivera-Wagner, Subeck, Stubbs, Sinicki, Fitzgerald, Roe, Stroud, Andraca and Udell; \ncosponsored by Senators Pfaff, Dassler-Alfheim, Roys, Spreitzer, Hesselbein, Ratcliff, Smith, Larson and Keyeski",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab594",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB594"
+}

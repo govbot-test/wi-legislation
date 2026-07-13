@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Habush Sinykin, Carpenter, Dassler-Alfheim, Drake, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives McCarville, Brown, Sinicki, Tenorio, Anderson, Andraca, Arney, Bare, Billings, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Mayadev, McGuire, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Udell, Vining, Mursau and Snyder",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb617",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB617"
+}

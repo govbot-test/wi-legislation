@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Murphy, Tittl, Behnke, Brill, Dittrich, Goeben, Gundrum, Knodl, Kreibich, Maxey, O'Connor, Penterman, Wichgers and Armstrong; \ncosponsored by Senators Tomczyk, Cabral-Guevara, Feyen, Quinn and Wanggaard",
+    "occurred_at": "2025-08-20T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab385",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB385"
+}

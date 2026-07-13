@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Dittrich, Armstrong, Arney, Bare, Brown, Fitzgerald, Green, Gundrum, Hong, Hysell, Kirsch, Krug, Madison, Mursau, Nedweski, Novak, O'Connor, Ortiz-Velez, Palmeri, Phelps, Sinicki, Snodgrass, Subeck, Taylor, Tenorio, Tusler, J. Jacobson and Vining",
+    "occurred_at": "2025-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/resolution/ar3",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AR3"
+}

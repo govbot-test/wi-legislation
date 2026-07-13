@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Maxey, Neylon, Armstrong, Brill, Brooks, Dittrich, Franklin, Goeben, Green, Gundrum, Gustafson, Knodl, Melotik, Murphy, Novak, O'Connor, Penterman, Tucker, Wichgers, Wittke and Zimmerman; \ncosponsored by Senators Kapenga, Cabral-Guevara, Feyen, Hutton, Jacque, James and Stafsholt",
+    "occurred_at": "2025-05-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab241",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB241"
+}

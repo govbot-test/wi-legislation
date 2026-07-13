@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Pfaff, Ratcliff and Spreitzer; \ncosponsored by Representatives Donovan, Anderson, Bare, B. Jacobson, Brown, Brill, Callahan, DeSmidt, Emerson, Goeben, Gundrum, Johnson, Kaufert, Kreibich, Melotik, Miresse, Novak, Palmeri, Penterman, Piwowarczyk, Prado, Roe, Sheehan, Steffen, Stubbs, Subeck, Tusler and Udell",
+    "occurred_at": "2025-06-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb318",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB318"
+}

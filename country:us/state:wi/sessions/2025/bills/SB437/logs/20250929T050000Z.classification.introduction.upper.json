@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Wirch, Hesselbein, Spreitzer, Drake, Ratcliff, Keyeski, Dassler-Alfheim and Larson; \ncosponsored by Representatives Billings, Sinicki, Miresse, Ortiz-Velez, Kirsch, Madison, Joers, Palmeri, Bare, Fitzgerald, Snodgrass, Roe, DeSmidt, Sheehan, Stubbs, Kaufert, Udell, Vining, Subeck, Anderson, Johnson and Haywood",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb437",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB437"
+}

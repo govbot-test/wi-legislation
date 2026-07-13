@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Emerson, Snodgrass, Rivera-Wagner, Moore Omokunde, Andraca, Arney, Stubbs, Brown, Roe, Fitzgerald, Hong, Neubauer, Goodwin, Johnson, Stroud, Sheehan, Palmeri and Miresse; \ncosponsored by Senators Smith, Keyeski, Larson, Spreitzer, Roys, Wirch, Carpenter, Ratcliff, Dassler-Alfheim and Hesselbein",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab529",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB529"
+}

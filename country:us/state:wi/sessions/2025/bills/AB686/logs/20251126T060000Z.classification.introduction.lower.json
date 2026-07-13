@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Doyle, Sinicki, McCarville, Andraca, Johnson, Anderson, Udell, DeSmidt, Emerson, Bare, Hysell, Stroud, Arney, Joers, Miresse, Fitzgerald, Neubauer, Roe and Stubbs; \ncosponsored by Senators Habush Sinykin, Carpenter, Hesselbein, Dassler-Alfheim, Ratcliff, Larson, Spreitzer, Pfaff, Keyeski, L. Johnson and Wall",
+    "occurred_at": "2025-11-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab686",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB686"
+}

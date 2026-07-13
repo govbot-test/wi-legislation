@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Nass, Bradley, Cabral-Guevara, Felzkowski, James, Kapenga and Quinn; \ncosponsored by Representatives Tusler, Green, Allen, Armstrong, Behnke, Brill, Brooks, Callahan, Dittrich, Donovan, Franklin, Goeben, Gundrum, Gustafson, Hurd, B. Jacobson, Knodl, Kreibich, Maxey, Murphy, Nedweski, O'Connor, Penterman, Piwowarczyk, Tittl and Wichgers",
+    "occurred_at": "2025-02-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr4",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR4"
+}

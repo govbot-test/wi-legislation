@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Wittke, Kitchens, Rodriguez, Novak, Brooks, Knodl, Kreibich, Kurtz, Melotik, Murphy, O'Connor, Penterman, Steffen and Ortiz-Velez; \ncosponsored by Senators Marklein, Cabral-Guevara, Feyen, Pfaff, Quinn and Habush Sinykin",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab196",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB196"
+}

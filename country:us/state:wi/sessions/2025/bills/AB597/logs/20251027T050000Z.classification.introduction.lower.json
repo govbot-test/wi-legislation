@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Franklin, Moses, Hurd, Summerfield, Armstrong, Behnke, Brill, Dittrich, Donovan, Goeben, Green, B. Jacobson, Kaufert, Knodl, O'Connor, Penterman, Snyder, Spiros, Tucker, Wichgers and Mursau; \ncosponsored by Senators Wimberger, James, Quinn, Stafsholt and Tomczyk",
+    "occurred_at": "2025-10-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab597",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB597"
+}

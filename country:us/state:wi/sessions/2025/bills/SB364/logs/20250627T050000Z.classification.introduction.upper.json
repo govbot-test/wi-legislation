@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara and Nass; \ncosponsored by Representatives Goeben, Spiros, Brooks, Kreibich, O'Connor, Gustafson, Gundrum, Duchow, Dittrich, Knodl, Penterman, Nedweski, Murphy, Hurd, Novak, Green, Behnke, B. Jacobson, Tucker, Kaufert and Allen",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb364",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB364"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Hesselbein and Wirch; \ncosponsored by Representatives Tenorio, Clancy, DeSmidt, Arney, Bare, Fitzgerald, Hong, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Rivera-Wagner, Sheehan, Stroud, Stubbs, Johnson and Taylor",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb631",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB631"
+}

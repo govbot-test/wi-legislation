@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Miresse, Stroud, Palmeri, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining; \ncosponsored by Senators Habush Sinykin, Roys, Carpenter, Dassler-Alfheim, Drake, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Smith, Spreitzer, Wall and Wirch",
+    "occurred_at": "2025-09-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab435",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB435"
+}

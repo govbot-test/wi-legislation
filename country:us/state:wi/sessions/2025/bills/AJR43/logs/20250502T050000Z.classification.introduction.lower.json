@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Billings, Doyle, Emerson, DeSmidt, Arney, Joers, Sinicki, Mursau, Roe, Vining, Kirsch, Murphy, Miresse, Ortiz-Velez, Stubbs, Dittrich, Madison, Goodwin, Bare, Clancy, Phelps, Knodl, Subeck, Palmeri, J. Jacobson, Behnke and Haywood; \ncosponsored by Senators Pfaff, Bradley, Drake, Spreitzer, Cabral-Guevara and Hesselbein",
+    "occurred_at": "2025-05-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr43",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR43"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Brill, Goeben, Behnke, Goodwin, Gundrum, Hurd, Knodl, Mursau, Murphy, Nedweski, O'Connor, Sortwell, Steffen and Wichgers; \ncosponsored by Senators Cabral-Guevara, Jacque and Nass",
+    "occurred_at": "2025-08-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab398",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB398"
+}

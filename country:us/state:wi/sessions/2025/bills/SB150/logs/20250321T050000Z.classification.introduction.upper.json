@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Habush Sinykin, Ratcliff, Carpenter, L. Johnson, Drake, Spreitzer, Wirch and Smith; \ncosponsored by Representatives Moore Omokunde, Tenorio, Madison, Hong, Cruz, Phelps, Arney, Sheehan, Rivera-Wagner, Stroud, Kirsch, Brown, Clancy, DeSmidt, Fitzgerald, Neubauer, Udell, Stubbs, Palmeri, Haywood, Prado, Andraca and Joers",
+    "occurred_at": "2025-03-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb150",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB150"
+}

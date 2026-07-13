@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Judiciary and Public Safety, Ayes 7, Noes 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-11-11T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "7f4cb3f6-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "SB227",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist213283",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist213283-SB227"
+}

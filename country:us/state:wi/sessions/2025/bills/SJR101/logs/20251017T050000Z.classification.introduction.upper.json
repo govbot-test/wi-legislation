@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Carpenter, Dassler-Alfheim, Hesselbein, Larson, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Goodwin, Moore Omokunde, Allen, Andraca, Bare, Behnke, Clancy, Brill, DeSmidt, Dittrich, Donovan, Fitzgerald, Gundrum, Johnson, Kaufert, Kreibich, Kurtz, Melotik, Miresse, Murphy, Mursau, O'Connor, Ortiz-Velez, Rivera-Wagner, Sinicki, Snodgrass, Spiros, Stroud, Stubbs, Subeck, Taylor, Tenorio, Vining and Palmeri",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr101",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR101"
+}

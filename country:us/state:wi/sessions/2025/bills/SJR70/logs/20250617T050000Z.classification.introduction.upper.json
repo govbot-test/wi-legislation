@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Habush Sinykin, Jacque, Carpenter, Hesselbein, Roys, Drake, Ratcliff, Spreitzer, Wirch, Pfaff, Keyeski, Larson and L. Johnson; \ncosponsored by Representatives McCarville, Sinicki, Stroud, Kreibich, DeSmidt, Ortiz-Velez, Kaufert, Kirsch, Rivera-Wagner, Tenorio, Fitzgerald, Bare, Miresse, Joers, Arney, Dittrich, Emerson, Subeck, Anderson, Johnson and Haywood",
+    "occurred_at": "2025-06-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr70",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR70"
+}

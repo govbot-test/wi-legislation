@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Moses, Andraca, Anderson, Bare, Dittrich, Gundrum, Hysell, J. Jacobson, Joers, Miresse, Mursau, Ortiz-Velez, Palmeri, Roe, Sinicki, Spaude and Subeck; \ncosponsored by Senators Jacque, Larson, Carpenter, Dassler-Alfheim, Ratcliff and Roys",
+    "occurred_at": "2025-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab72",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB72"
+}

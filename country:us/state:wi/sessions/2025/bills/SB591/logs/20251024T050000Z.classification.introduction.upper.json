@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara and Jacque; \ncosponsored by Representatives Murphy, Kitchens, Behnke, Dittrich, Knodl, Melotik, Mursau, O'Connor, Penterman, Rodriguez and Wichgers",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb591",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB591"
+}

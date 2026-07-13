@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Dassler-Alfheim, Pfaff, Roys, Ratcliff, Spreitzer, Wirch, Hesselbein, Smith, Carpenter, Habush Sinykin, Keyeski, Larson, Drake and L. Johnson; \ncosponsored by Representatives Billings, Sinicki, Palmeri, Ortiz-Velez, DeSmidt, Tenorio, Arney, Miresse, Rivera-Wagner, Goodwin, Subeck, Stubbs, Joers, Fitzgerald, Roe, Sheehan, Bare, Snodgrass, Stroud, Johnson, Andraca and Tucker",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb587",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB587"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Pfaff, Dassler-Alfheim, L. Johnson, Keyeski, Ratcliff, Roys, Spreitzer, Testin and Wall; \ncosponsored by Representatives VanderMeer, Billings, Dittrich, Clancy, DeSmidt, Doyle, Duchow, Gundrum, J. Jacobson, Joers, Johnson, Kitchens, Krug, Kurtz, Madison, Miresse, Mursau, Ortiz-Velez, Palmeri, Phelps, Roe, Sinicki, Spaude, Stubbs and Subeck",
+    "occurred_at": "2025-04-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr34",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR34"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read first time and referred to committee on Licensing, Regulatory Reform, State and Federal Affairs",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab35",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB35"
+}

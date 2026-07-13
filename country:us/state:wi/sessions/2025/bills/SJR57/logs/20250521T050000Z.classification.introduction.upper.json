@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Carpenter, Ratcliff and Spreitzer; \ncosponsored by Representatives Taylor, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Fitzgerald, Hysell, J. Jacobson, Joers, Johnson, Madison, Moore Omokunde, Palmeri, Prado, Roe, Sinicki, Stroud, Stubbs, Subeck and Miresse",
+    "occurred_at": "2025-05-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr57",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR57"
+}

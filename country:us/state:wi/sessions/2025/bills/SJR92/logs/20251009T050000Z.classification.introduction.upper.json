@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Cabral-Guevara, Carpenter, Drake, Larson, Ratcliff, Roys, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Tenorio, Andraca, Arney, Clancy, DeSmidt, Fitzgerald, Goodwin, Hong, Joers, Kirsch, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Phelps, Prado, Roe, Sheehan, Stubbs, Subeck, Johnson, Udell, Vining, Cruz and Palmeri",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr92",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR92"
+}

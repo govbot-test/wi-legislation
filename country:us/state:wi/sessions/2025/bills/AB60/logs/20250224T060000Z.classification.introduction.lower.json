@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Allen, Piwowarczyk, Behnke, Brill, Dittrich, Goeben, Green, Gundrum, Knodl, Kreibich, Maxey, Murphy, O'Connor and Wichgers; \ncosponsored by Senators Cabral-Guevara, Jacque, Kapenga and Nass",
+    "occurred_at": "2025-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab60",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB60"
+}

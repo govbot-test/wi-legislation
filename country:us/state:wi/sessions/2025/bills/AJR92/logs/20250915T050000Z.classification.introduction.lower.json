@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kurtz, Penterman, Anderson, Andraca, Armstrong, Behnke, Callahan, DeSmidt, Dittrich, Doyle, Duchow, Fitzgerald, Green, Gundrum, Gustafson, B. Jacobson, Johnson, Kaufert, Kirsch, Kitchens, Knodl, Kreibich, Krug, McCarville, Melotik, Miresse, Murphy, Mursau, Nedweski, Novak, O'Connor, Ortiz-Velez, Petersen, Piwowarczyk, Prado, Pronschinske, Rivera-Wagner, Roe, Sinicki, Snodgrass, Snyder, Sortwell, Spiros, Steffen, Stroud, Stubbs, Subeck, Tranel, Tusler, Udell, Wichgers, Wittke and Zimmerman; \ncosponsored by Senators Wimberger, Bradley, Carpenter, Dassler-Alfheim, Drake, Jagler, Keyeski, Larson, Marklein, Nass, Pfaff, Ratcliff, Roys, Spreitzer, Tomczyk, Wall, Wanggaard and Wirch",
+    "occurred_at": "2025-09-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr92",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR92"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Habush Sinykin, Carpenter, Ratcliff, Roys, Wirch, Hesselbein, Larson, Dassler-Alfheim, Smith, Spreitzer and Keyeski; \ncosponsored by Representatives Doyle, Andraca, Emerson, McCarville, DeSmidt, Miresse, Bare, Fitzgerald, Sinicki, Subeck, Snodgrass, Neubauer, Ortiz-Velez, Clancy, Madison, Moore Omokunde, Sheehan, Joers, Phelps, Kaufert, Palmeri, Hysell, Rivera-Wagner, Arney, Mayadev, Hong, Goodwin, Udell, Stroud, Prado and Johnson",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb477",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB477"
+}

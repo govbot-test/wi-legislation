@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Quinn; \ncosponsored by Representatives Duchow, Zimmerman, Kitchens, Armstrong, Gustafson, Krug, Moses, Murphy, O'Connor and Penterman",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb655",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB655"
+}

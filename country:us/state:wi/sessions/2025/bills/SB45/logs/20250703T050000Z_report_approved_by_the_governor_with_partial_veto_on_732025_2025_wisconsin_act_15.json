@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report approved by the Governor with partial veto on 7-3-2025. 2025 Wisconsin Act 15",
+    "occurred_at": "2025-07-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb45",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB45"
+}

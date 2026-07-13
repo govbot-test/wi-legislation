@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Jacque, Marklein and Nass; \ncosponsored by Representatives Tusler, Behnke, Dittrich, Kreibich, Melotik, Murphy, Mursau, O'Connor, Penterman, Piwowarczyk, Wichgers and Kaufert",
+    "occurred_at": "2025-09-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb423",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB423"
+}

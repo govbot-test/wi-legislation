@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wall, Ratcliff, Hesselbein, Keyeski, Larson, Pfaff, Roys, Spreitzer and Wirch; \ncosponsored by Representatives Hysell, DeSanto, Cruz, Doyle, Andraca, Arney, Bare, DeSmidt, Emerson, Fitzgerald, Goodwin, Joers, Johnson, Madison, Palmeri, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Tenorio and Udell",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb516",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB516"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snodgrass, Palmeri, Andraca, Arney, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Johnson, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Phelps, Roe, Sheehan, Stroud, Stubbs, Taylor, Udell and Sinicki; \ncosponsored by Senators Smith, Carpenter, Dassler-Alfheim, L. Johnson, Keyeski, Larson, Ratcliff, Wall and Hesselbein",
+    "occurred_at": "2025-10-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab539",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB539"
+}

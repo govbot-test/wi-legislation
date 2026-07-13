@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Nedweski, Dittrich, Piwowarczyk, Andraca, Armstrong, Behnke, Brill, Callahan, Donovan, Goeben, Gundrum, B. Jacobson, Kaufert, Kitchens, Kreibich, Maxey, Miresse, O'Connor, Penterman, Sinicki, Steffen, Tittl and Wichgers; \ncosponsored by Senators Wanggaard, Carpenter, L. Johnson, Marklein and Nass",
+    "occurred_at": "2025-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab61",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB61"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Felzkowski, Quinn, Feyen, Nass, Spreitzer, Wimberger and Tomczyk; \ncosponsored by Representatives Krug, Tucker, B. Jacobson, Armstrong, Brooks, Callahan, Dallman, Dittrich, Doyle, Emerson, Green, Joers, Kaufert, Knodl, Kreibich, Maxey, Melotik, Moses, Mursau, Palmeri, Penterman, O'Connor, Swearingen, Tittl and Gustafson",
+    "occurred_at": "2025-06-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb339",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB339"
+}

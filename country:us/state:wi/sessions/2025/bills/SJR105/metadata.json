@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SJR105",
+  "title": "Relating to: the right to keep and bear arms (first consideration).",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-wi-2025-sjr105"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced by Senators Jacque, Nass, Stafsholt and Wimberger; \ncosponsored by Representatives Green, Behnke, Callahan, Goeben, B. Jacobson, Knodl, Kreibich, Maxey, Penterman, Piwowarczyk, Swearingen and Tucker",
+      "date": "2025-10-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:42Z"
+      }
+    },
+    {
+      "description": "Read first time and referred to Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "date": "2025-10-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:42Z"
+      }
+    },
+    {
+      "description": "Representative Armstrong added as a cosponsor",
+      "date": "2025-11-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:07:42Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jacque",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jacque\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nass",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nass\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stafsholt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stafsholt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wimberger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Wimberger\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Joint Resolution Text",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SJR105",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SJR105.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Wisconsin Ethics Commission information",
+      "links": [
+        {
+          "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSJR105",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Joint Resolution 112",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ajr112",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr105",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "status": "Status: S - Licensing, Regulatory Reform, State and Federal Affairs"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wi/government",
+    "name": "Wisconsin",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:07:42Z"
+  }
+}

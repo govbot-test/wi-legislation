@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 6-9-2025. 2025 Wisconsin Act 7",
+    "occurred_at": "2025-06-10T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb126",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB126"
+}

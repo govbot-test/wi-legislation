@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bradley, Cabral-Guevara, Dassler-Alfheim, Felzkowski, Feyen, Habush Sinykin, Hutton, Jacque, Jagler, James, Kapenga, Keyeski, LeMahieu, Marklein, Nass, Quinn, Stafsholt, Testin, Tomczyk, Wanggaard and Wimberger of the Senate added as coauthors",
+    "occurred_at": "2025-10-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr21",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR21"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, James, Marklein, Quinn and Pfaff; \ncosponsored by Representatives Kreibich, Behnke, Dittrich, Duchow, Green, Gundrum, Melotik, Moses, Mursau, Penterman, Pronschinske, Sortwell, Spiros, Summerfield, Tucker, Tusler and VanderMeer",
+    "occurred_at": "2025-06-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb328",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB328"
+}

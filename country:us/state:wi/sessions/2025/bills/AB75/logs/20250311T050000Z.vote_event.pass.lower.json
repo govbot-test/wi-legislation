@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage recommended by Committee on Judiciary, Ayes 3, Noes 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11T05:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "831b4772-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB75",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist200236",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist200236-AB75"
+}

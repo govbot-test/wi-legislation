@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Rodriguez, Snyder, Knodl, Rivera-Wagner, Brooks, Goeben, Gundrum, Gustafson, Kitchens, Kreibich, Melotik, Miresse, Moses, Murphy, Mursau, O'Connor, Ortiz-Velez, Piwowarczyk, Summerfield and Tusler; \ncosponsored by Senators James, L. Johnson, Dassler-Alfheim, Feyen, Marklein and Pfaff",
+    "occurred_at": "2025-09-25T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab454",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB454"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Miresse, DeSanto, Clancy, Andraca, Arney, Brown, Cruz, DeSmidt, Fitzgerald, Goodwin, Hong, Johnson, Madison, Moore Omokunde, Palmeri, Phelps, Prado, Roe, Snodgrass, Stubbs, Taylor and Tenorio; \ncosponsored by Senator Larson",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab633",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB633"
+}

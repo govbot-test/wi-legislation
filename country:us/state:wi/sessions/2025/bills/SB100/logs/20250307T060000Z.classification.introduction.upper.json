@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard, Feyen and Tomczyk; \ncosponsored by Representatives Donovan, Behnke, Brill, Dittrich, Gundrum, Kurtz, Maxey, Murphy, Novak, O'Connor, Tusler, Wittke and Kaufert",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb100",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB100"
+}

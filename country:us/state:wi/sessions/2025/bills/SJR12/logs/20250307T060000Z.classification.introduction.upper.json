@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Drake, Hesselbein, Larson, Pfaff, Ratcliff and Roys; \ncosponsored by Representatives Roe, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, J. Jacobson, Joers, Kirsch, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Phelps, Sinicki, Subeck, Udell and Tenorio",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr12",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR12"
+}

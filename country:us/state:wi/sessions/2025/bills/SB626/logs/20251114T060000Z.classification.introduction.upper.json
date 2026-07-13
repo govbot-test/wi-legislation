@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Bradley, Jacque, Marklein and Nass; \ncosponsored by Representatives Wichgers, Behnke, Dittrich, Goeben, Knodl, Kurtz, Melotik, Murphy and Mursau",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb626",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB626"
+}

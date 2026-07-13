@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assembly Substitute Amendment 3 laid on table, Ayes 53, Noes 44",
+    "occurred_at": "2025-11-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab617",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB617"
+}

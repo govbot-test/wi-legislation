@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, B. Jacobson, Spiros, Armstrong, Behnke, Brill, Callahan, Dittrich, Goeben, Gundrum, Joers, Kaufert, Knodl, Kreibich, Krug, Maxey, McCarville, Miresse, Moses, Novak, O'Connor, Piwowarczyk, Rodriguez, Sinicki, Steffen, Stubbs, Subeck and Wichgers; \ncosponsored by Senators James, Tomczyk, Cabral-Guevara and Quinn",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab201",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB201"
+}

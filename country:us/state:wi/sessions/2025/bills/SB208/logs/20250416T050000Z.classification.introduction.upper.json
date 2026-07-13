@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Keyeski, Pfaff, Wall, Larson, Carpenter, Ratcliff, Spreitzer, Dassler-Alfheim, Habush Sinykin, Drake, Hesselbein, Smith, Wirch and L. Johnson; \ncosponsored by Representatives Haywood, DeSanto, DeSmidt, Palmeri, Neubauer, Snodgrass, Brown, Joers, Sheehan, Stroud, Hong, Tenorio, Stubbs, Goodwin, Rivera-Wagner, Clancy, Fitzgerald, Bare, Anderson, Moore Omokunde, Behnke, Madison, Sinicki, Mayadev, Emerson, Johnson and Miresse",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb208",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB208"
+}

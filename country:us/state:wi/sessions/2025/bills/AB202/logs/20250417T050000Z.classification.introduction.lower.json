@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Krug, Brooks, Allen, Armstrong, Franklin, Goeben, B. Jacobson, Kaufert, Kitchens, Moses, Murphy, O'Connor, Ortiz-Velez, Sortwell, Spiros, Tusler, Wittke, Behnke and Snyder; \ncosponsored by Senators Feyen, Jacque, Jagler, Nass, Quinn, Stafsholt and Wanggaard",
+    "occurred_at": "2025-04-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab202",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB202"
+}

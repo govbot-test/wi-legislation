@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Roys, Drake, Carpenter, Keyeski and Spreitzer; \ncosponsored by Representatives Phelps, Cruz, Miresse, Brown, Clancy, Hong, Madison, Moore Omokunde, Tenorio, Anderson, Arney, Bare, Joers, Johnson, Kirsch, Mayadev, Neubauer, Ortiz-Velez, Roe and Sheehan",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb484",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB484"
+}

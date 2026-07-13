@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Stubbs, Spiros, Rodriguez, Anderson, Behnke, Clancy, Dittrich, Fitzgerald, Franklin, Goeben, Haywood, Joers, Johnson, Kaufert, Madison, McCarville, Melotik, Miresse, Murphy, Mursau, Ortiz-Velez, O'Connor, Palmeri, Phelps, Piwowarczyk, Roe, Sheehan, Sinicki, Snodgrass, Steffen, Stroud and Kitchens; \ncosponsored by Senators James, L. Johnson, Dassler-Alfheim, Keyeski, Larson, Marklein, Pfaff, Ratcliff, Roys and Spreitzer",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab477",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB477"
+}

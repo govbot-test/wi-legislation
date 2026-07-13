@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Cabral-Guevara and Pfaff; \ncosponsored by Representatives Penterman, Behnke, Brill, Brooks, Dittrich, Goeben, Goodwin, Gundrum, Knodl, Maxey, Melotik, Miresse, Murphy, Mursau, Piwowarczyk, Sortwell, Stroud and Wichgers",
+    "occurred_at": "2025-03-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb129",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB129"
+}

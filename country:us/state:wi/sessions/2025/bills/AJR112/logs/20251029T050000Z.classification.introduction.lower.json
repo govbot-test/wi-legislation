@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Green, Behnke, Callahan, Goeben, B. Jacobson, Knodl, Kreibich, Maxey, Penterman, Piwowarczyk, Swearingen, Tucker and Pronschinske; \ncosponsored by Senators Jacque, Nass, Stafsholt and Wimberger",
+    "occurred_at": "2025-10-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr112",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR112"
+}

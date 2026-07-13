@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Feyen, Nass and Wanggaard; \ncosponsored by Representatives Tusler, Novak, Armstrong, Brill, Dittrich, Goeben, Gundrum, B. Jacobson, Kaufert, Mursau, Penterman, Snyder, Spiros and Wichgers",
+    "occurred_at": "2025-06-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb303",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB303"
+}

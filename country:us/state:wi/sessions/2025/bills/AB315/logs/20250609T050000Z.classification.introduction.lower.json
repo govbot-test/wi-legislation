@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kurtz, Novak, Franklin, Kaufert, Armstrong, Behnke, Born, Dittrich, Duchow, Kitchens, Kreibich, Krug, Mursau, O'Connor, Piwowarczyk, Sortwell, Tittl, Tranel, VanderMeer, Tusler and Steffen; \ncosponsored by Senators Testin, Cabral-Guevara, James and Quinn",
+    "occurred_at": "2025-06-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab315",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB315"
+}

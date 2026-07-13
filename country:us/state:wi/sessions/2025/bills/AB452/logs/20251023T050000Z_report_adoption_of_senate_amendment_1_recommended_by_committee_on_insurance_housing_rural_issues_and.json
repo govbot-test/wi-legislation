@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 1 recommended by Committee on Insurance, Housing, Rural Issues and Forestry, Ayes 5, Noes 0",
+    "occurred_at": "2025-10-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab452",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB452"
+}

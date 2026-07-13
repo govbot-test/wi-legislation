@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, L. Johnson, Carpenter, Drake, Hesselbein, Larson, Pfaff, Ratcliff, Smith and Wirch; \ncosponsored by Representatives Vining, Roe, DeSanto, Moore Omokunde, Palmeri, Anderson, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Joers, Johnson, Madison, Miresse, Neubauer, Phelps, Prado, Rivera-Wagner, Sheehan, Sinicki, Stroud, Stubbs, Tenorio and Udell",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb342",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB342"
+}

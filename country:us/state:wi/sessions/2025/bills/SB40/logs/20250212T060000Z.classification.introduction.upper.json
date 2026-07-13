@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen and Tomczyk; \ncosponsored by Representatives O'Connor, Murphy, Brooks, Goeben, Armstrong, Behnke, Dittrich, Green, Gundrum, B. Jacobson, Knodl, Kreibich, Penterman and Wichgers",
+    "occurred_at": "2025-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb40",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB40"
+}

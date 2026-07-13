@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Carpenter, Ratcliff, Hesselbein, Wirch, Spreitzer and James; \ncosponsored by Representatives Emerson, Sinicki, Phelps, Stroud, Murphy, Palmeri and Roe",
+    "occurred_at": "2025-06-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr69",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR69"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Bradley; \ncosponsored by Representatives Maxey, Donovan, Piwowarczyk, Rodriguez, Dittrich, Gundrum, Gustafson, Knodl, Kreibich, Mursau, Penterman, B. Jacobson and O'Connor",
+    "occurred_at": "2025-03-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb141",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB141"
+}

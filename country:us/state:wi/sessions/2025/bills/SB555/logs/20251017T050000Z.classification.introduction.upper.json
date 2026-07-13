@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Kapenga, Hutton, Bradley, Jacque, Nass, Tomczyk and Quinn; \ncosponsored by Representatives Brill, Nedweski, Knodl, Allen, Armstrong, Behnke, Brooks, Dittrich, Goeben, Green, Kreibich, Melotik, Murphy, O'Connor and Wichgers",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb555",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB555"
+}

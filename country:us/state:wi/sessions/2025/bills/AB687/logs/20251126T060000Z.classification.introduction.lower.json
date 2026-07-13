@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Green, Behnke, Brill, Callahan, Kreibich, Krug, Melotik, Moses, Mursau, O'Connor, Penterman, Summerfield, Swearingen, Wichgers, Knodl and Gustafson; \ncosponsored by Senators Stafsholt, Nass, Quinn and Tomczyk",
+    "occurred_at": "2025-11-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab687",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB687"
+}

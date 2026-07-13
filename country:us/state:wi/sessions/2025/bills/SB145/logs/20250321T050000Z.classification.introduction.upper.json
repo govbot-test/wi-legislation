@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jagler, Feyen, Dassler-Alfheim, James, L. Johnson, Spreitzer, Testin and Wall; \ncosponsored by Representatives Dittrich, Duchow, Andraca, Knodl, Murphy, Mursau, Sinicki, Stubbs and Subeck",
+    "occurred_at": "2025-03-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb145",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB145"
+}

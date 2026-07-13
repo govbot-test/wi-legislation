@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hutton and Wanggaard; \ncosponsored by Representatives Tusler, Dittrich, Gundrum, Kaufert, Kitchens, Knodl, Maxey, Melotik, Murphy, O'Connor, Piwowarczyk, Steffen and Wichgers",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb300",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB300"
+}

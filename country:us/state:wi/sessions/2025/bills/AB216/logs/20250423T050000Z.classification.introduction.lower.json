@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Green, Allen, Armstrong, Behnke, Brooks, Dittrich, Duchow, Franklin, Goeben, B. Jacobson, Kreibich, Melotik, Miresse, Murphy, Mursau, Novak, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, VanderMeer and Summerfield; \ncosponsored by Senators Stafsholt, Cabral-Guevara, Feyen, Nass and Wanggaard",
+    "occurred_at": "2025-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab216",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB216"
+}

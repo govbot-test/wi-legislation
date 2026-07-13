@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report passage as amended recommended by Committee on Energy and Utilities, Ayes 12, Noes 1",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-11-20T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "8600f4fa-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB472",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist215083",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist215083-AB472"
+}

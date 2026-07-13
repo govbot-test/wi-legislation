@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Testin, Cabral-Guevara, Roys, Dassler-Alfheim, Habush Sinykin, Hesselbein, Keyeski, LeMahieu, Marklein, Quinn, Ratcliff, Smith, Spreitzer, Drake and Jacque; \ncosponsored by Representatives Kurtz, Subeck, Rodriguez, Andraca, Behnke, Brown, Cruz, DeSmidt, Emerson, Gundrum, Joers, Kreibich, Maxey, Murphy, O'Connor, Ortiz-Velez, Prado, Spiros, Tusler, Udell, Wichgers, Donovan, Palmeri, Miresse, Goeben, Knodl and Vining",
+    "occurred_at": "2025-05-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb258",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB258"
+}

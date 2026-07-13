@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Piwowarczyk, B. Jacobson, Brooks, Dittrich, Duchow, Gundrum, Knodl, Kreibich, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman, Rodriguez, Spiros, Steffen and Tucker; \ncosponsored by Senators Wanggaard, Marklein, Quinn and Tomczyk",
+    "occurred_at": "2025-04-23T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab223",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB223"
+}

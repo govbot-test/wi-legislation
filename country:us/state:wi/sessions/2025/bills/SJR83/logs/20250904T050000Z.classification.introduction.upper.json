@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wall, Jacque, Carpenter, Dassler-Alfheim, Drake, Hesselbein, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer and Wirch; \ncosponsored by Representatives Stroud, Tranel, Arney, Bare, Clancy, Cruz, DeSmidt, Dittrich, Emerson, Fitzgerald, Joers, Johnson, Kreibich, Madison, McCarville, Miresse, Murphy, Ortiz-Velez, Palmeri, Phelps, Roe, Sheehan, Sinicki, Spaude, Stubbs, Subeck and Tenorio",
+    "occurred_at": "2025-09-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr83",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR83"
+}

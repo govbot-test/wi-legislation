@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Carpenter, Hesselbein, Larson, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Moore Omokunde, Arney, Andraca, Bare, Brown, Emerson, Joers, Johnson, McCarville, Miresse, Roe, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Udell and Sinicki",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb468",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB468"
+}

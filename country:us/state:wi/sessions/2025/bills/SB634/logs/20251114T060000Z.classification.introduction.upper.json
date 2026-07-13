@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Smith, Dassler-Alfheim, Keyeski, Ratcliff, Larson and Roys; \ncosponsored by Representatives Roe, Anderson, Brown, Arney, Bare, Billings, Clancy, DeSmidt, Emerson, Goodwin, Joers, Johnson, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Prado, Rivera-Wagner, Sinicki, Stroud, Subeck and Udell",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb634",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB634"
+}

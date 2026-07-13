@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 3-28-2025. 2015 Wisconsin Act 3",
+    "occurred_at": "2025-03-28T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab96",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB96"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Wichgers, Brill, Behnke, Brooks, Goeben, Gustafson, Knodl, Kreibich, Maxey, Murphy, Ortiz-Velez and Piwowarczyk; \ncosponsored by Senators Jacque, Nass and Tomczyk",
+    "occurred_at": "2025-09-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab418",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB418"
+}

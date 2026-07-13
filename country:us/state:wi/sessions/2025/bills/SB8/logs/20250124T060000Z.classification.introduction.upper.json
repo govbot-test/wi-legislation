@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Tomczyk; \ncosponsored by Representatives Tittl, Pronschinske, Anderson, Behnke, Billings, Dittrich, Goeben, Kreibich, Miresse, Murphy, Mursau, O'Connor, Prado and Wichgers",
+    "occurred_at": "2025-01-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb8",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB8"
+}

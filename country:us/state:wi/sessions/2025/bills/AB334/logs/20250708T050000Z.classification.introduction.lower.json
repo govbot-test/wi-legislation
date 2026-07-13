@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snodgrass, Vining, Andraca, Palmeri, Joers, Mayadev, Anderson, Bare, Brown, Clancy, DeSmidt, Madison, Miresse, Moore Omokunde, Neubauer, Phelps, Roe, Sinicki and Subeck; \ncosponsored by Senators Larson, Carpenter, Roys, Hesselbein, Smith, Spreitzer, L. Johnson, Ratcliff and Dassler-Alfheim",
+    "occurred_at": "2025-07-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab334",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB334"
+}

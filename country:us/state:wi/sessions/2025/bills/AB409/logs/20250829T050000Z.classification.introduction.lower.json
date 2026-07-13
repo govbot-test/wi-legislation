@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Piwowarczyk, Maxey, Behnke, DeSmidt, Dittrich, Duchow, Gundrum, Hysell, Knodl, Kreibich, Penterman, Roe, Snodgrass, Spaude and Steffen; \ncosponsored by Senators James, Marklein, Roys, Dassler-Alfheim, Spreitzer and Wanggaard",
+    "occurred_at": "2025-08-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab409",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB409"
+}

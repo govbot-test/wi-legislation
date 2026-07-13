@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Carpenter, Hesselbein, Larson, Ratcliff, Roys, Wall, Wirch and Dassler-Alfheim; \ncosponsored by Representatives Fitzgerald, Anderson, Andraca, Arney, Bare, Brown, DeSmidt, Emerson, Hong, Joers, Johnson, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Rivera-Wagner, Roe, Sheehan, Snodgrass, Stubbs, Subeck, Tenorio and Udell",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb462",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB462"
+}

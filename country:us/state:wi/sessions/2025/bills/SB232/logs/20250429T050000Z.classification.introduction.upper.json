@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James and Habush Sinykin; \ncosponsored by Representatives Snyder, Novak, Armstrong, Brill, Dittrich, Franklin, Gundrum, Maxey, Melotik, Mursau, Piwowarczyk, Rivera-Wagner, Spiros, Steffen and Wichgers",
+    "occurred_at": "2025-04-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb232",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB232"
+}

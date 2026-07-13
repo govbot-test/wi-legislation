@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read first time and referred to committee on Senate Organization",
+    "occurred_at": "2025-05-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab45",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB45"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kitchens, Tranel, Kreibich, Melotik, Miresse, Mursau, Novak, O'Connor, Piwowarczyk, Rivera-Wagner, Sheehan, Steffen and Stroud; \ncosponsored by Senators Cabral-Guevara, Stafsholt, Marklein, Keyeski and Pfaff",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab505",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB505"
+}

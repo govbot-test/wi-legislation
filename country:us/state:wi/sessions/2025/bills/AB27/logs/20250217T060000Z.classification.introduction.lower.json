@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Murphy, Snyder, Anderson, Armstrong, Bare, Behnke, Billings, Brill, Brown, DeSmidt, Donovan, Franklin, Hysell, B. Jacobson, Kitchens, Kreibich, Maxey, McCarville, Melotik, Miresse, Mursau, O'Connor, Palmeri, Piwowarczyk, Rivera-Wagner, Sheehan, Sinicki, Spaude, Subeck, Tenorio, Tucker, Tusler, Wichgers, Neubauer, Udell, Roe and Joers; \ncosponsored by Senators Jacque, Tomczyk, Carpenter, Keyeski, Pfaff, Ratcliff, Spreitzer, Wall, Wanggaard, Wirch and Bradley",
+    "occurred_at": "2025-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab27",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB27"
+}

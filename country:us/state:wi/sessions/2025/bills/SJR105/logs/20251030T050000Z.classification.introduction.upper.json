@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Nass, Stafsholt and Wimberger; \ncosponsored by Representatives Green, Behnke, Callahan, Goeben, B. Jacobson, Knodl, Kreibich, Maxey, Penterman, Piwowarczyk, Swearingen and Tucker",
+    "occurred_at": "2025-10-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr105",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR105"
+}

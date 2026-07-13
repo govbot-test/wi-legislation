@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wanggaard; \ncosponsored by Representatives Tusler, Dittrich, Gundrum, Kreibich, Murphy, O'Connor, Penterman, Sinicki and Subeck",
+    "occurred_at": "2025-04-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb169",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB169"
+}

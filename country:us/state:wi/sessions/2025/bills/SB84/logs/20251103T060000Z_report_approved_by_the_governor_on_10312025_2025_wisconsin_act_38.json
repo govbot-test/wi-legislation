@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 10-31-2025. 2025 Wisconsin Act 38",
+    "occurred_at": "2025-11-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb84",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB84"
+}

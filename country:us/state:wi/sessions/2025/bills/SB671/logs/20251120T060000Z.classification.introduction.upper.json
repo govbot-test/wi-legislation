@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Wanggaard, Hutton, Nass and Quinn; \ncosponsored by Representatives Nedweski, Brill, Dittrich, Behnke, Callahan, DeSmidt, Donovan, Duchow, Franklin, Green, Gundrum, Gustafson, Hurd, B. Jacobson, Kaufert, Kitchens, Knodl, Kreibich, Maxey, Moses, Murphy, Mursau, Novak, O'Connor, Penterman, Piwowarczyk, Snyder, Steffen, Tusler and Wichgers",
+    "occurred_at": "2025-11-20T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb671",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB671"
+}

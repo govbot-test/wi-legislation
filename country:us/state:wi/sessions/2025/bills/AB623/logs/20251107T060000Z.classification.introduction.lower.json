@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Callahan and Dittrich; \ncosponsored by Senator Quinn, by request of Office of the Commissioner of Insurance",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab623",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB623"
+}

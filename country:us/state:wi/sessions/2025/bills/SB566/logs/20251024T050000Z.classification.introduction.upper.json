@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Habush Sinykin, Hesselbein, Ratcliff, Smith, Spreitzer and Larson; \ncosponsored by Representatives Emerson, Vining, Andraca, Arney, Bare, Clancy, DeSmidt, Fitzgerald, Goodwin, Hysell, Joers, Johnson, Madison, Miresse, Neubauer, Ortiz-Velez, Sinicki, Stroud, Stubbs, Subeck, Tenorio and Palmeri",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb566",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB566"
+}

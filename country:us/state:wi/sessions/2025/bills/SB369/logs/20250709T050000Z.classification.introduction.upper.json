@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Larson, Carpenter, Keyeski and Ratcliff; \ncosponsored by Representatives Bare, Cruz, Hong, Hysell, Mayadev, Anderson, Andraca, Arney, Billings, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, J. Jacobson, Joers, Johnson, Kirsch, Madison, McCarville, McGuire, Miresse, Neubauer, Ortiz-Velez, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Moore Omokunde, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Udell and Vining",
+    "occurred_at": "2025-07-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb369",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB369"
+}

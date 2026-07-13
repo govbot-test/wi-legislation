@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Pfaff, Roys, Ratcliff, Wall, Larson, Hesselbein, Spreitzer, Habush Sinykin, Wirch, Dassler-Alfheim and Keyeski; \ncosponsored by Representatives DeSmidt, Kirsch, Tenorio, Ortiz-Velez, Emerson, Bare, Roe, McCarville, Stroud, Miresse, Stubbs, Arney, Snodgrass, Subeck, Udell, Moore Omokunde, Neubauer, Madison, Clancy, Phelps, Joers, Johnson, Brown, Palmeri, Andraca and Sheehan",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb457",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB457"
+}

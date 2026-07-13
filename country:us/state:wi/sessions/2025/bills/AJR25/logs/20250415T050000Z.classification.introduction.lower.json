@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Penterman, Tusler, Subeck, Bare, Callahan, Clancy, DeSmidt, Dittrich, Emerson, Franklin, Gundrum, Hong, Kaufert, Knodl, Kreibich, Madison, Miresse, Moses, Murphy, Mursau, O'Connor, Ortiz-Velez, Phelps, Rodriguez, Sinicki, Snodgrass, Steffen, Stubbs, Udell and Andraca; \ncosponsored by Senators Cabral-Guevara, Dassler-Alfheim, Jacque, Jagler, Marklein, Nass, Ratcliff, Roys and Tomczyk",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr25",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR25"
+}

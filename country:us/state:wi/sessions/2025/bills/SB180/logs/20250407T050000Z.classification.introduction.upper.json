@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, Feyen, Jagler, Dassler-Alfheim, Habush Sinykin, James, Pfaff, Ratcliff, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Armstrong, Brooks, Anderson, Brown, DeSmidt, Donovan, Doyle, Emerson, Franklin, Goodwin, Green, Hysell, B. Jacobson, Joers, Kitchens, Kreibich, Krug, Melotik, Murphy, Mursau, Neubauer, Novak, O'Connor, Ortiz-Velez, Palmeri, Penterman, Piwowarczyk, Roe, Spiros and Udell",
+    "occurred_at": "2025-04-07T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb180",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB180"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Moore Omokunde, Madison, Cruz, Clancy, Anderson, Arney, Bare, Brown, DeSmidt, Kirsch, McCarville, Miresse, Phelps, Rivera-Wagner, Sinicki, Snodgrass, Subeck, Tenorio, Udell, Stubbs and Johnson; \ncosponsored by Senators Drake, Larson, Hesselbein, Ratcliff, Roys, Spreitzer and Wirch",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab478",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB478"
+}

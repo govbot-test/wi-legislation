@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Cabral-Guevara, Nass, Tomczyk and Wanggaard; \ncosponsored by Representatives Sortwell, Behnke, Brill, Dittrich, Donovan, Goeben, Gundrum, B. Jacobson, Knodl, Maxey, Moses, Murphy, Mursau, O'Connor, Tusler and Wichgers",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb94",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB94"
+}

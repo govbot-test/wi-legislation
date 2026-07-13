@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tranel, Moses, Novak, Behnke, Brill, Brooks, Callahan, Dittrich, Goeben, Green, B. Jacobson, Kitchens, Knodl, Kreibich, Krug, Kurtz, Maxey, Melotik, Murphy, Mursau, Neylon, O'Connor, Penterman, Pronschinske, Rodriguez, Spiros, VanderMeer and Wichgers; \ncosponsored by Senators Quinn, Marklein, Jagler, Nass and Wanggaard",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab627",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB627"
+}

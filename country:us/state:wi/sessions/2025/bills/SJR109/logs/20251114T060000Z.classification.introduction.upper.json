@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Carpenter, Dassler-Alfheim, Roys, Ratcliff, Larson and Hesselbein; \ncosponsored by Representatives Stroud, Snodgrass, Udell, Cruz, Rivera-Wagner, Spaude, Clancy, Arney, Anderson, Bare, Joers, Madison, Moore Omokunde, Vining and Johnson",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr109",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR109"
+}

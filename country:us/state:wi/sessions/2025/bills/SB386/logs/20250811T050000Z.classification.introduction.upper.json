@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Wall, Dassler-Alfheim, Drake, Hesselbein, Keyeski and Ratcliff; \ncosponsored by Representatives Spaude, Miresse, Anderson, Clancy, DeSmidt, Goodwin, Hysell, Joers, Roe, Snodgrass and Udell",
+    "occurred_at": "2025-08-11T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb386",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB386"
+}

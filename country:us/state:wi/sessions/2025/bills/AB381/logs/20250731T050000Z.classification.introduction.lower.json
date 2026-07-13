@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives DeSanto, Vining, Emerson, Bare, Brown, Cruz, DeSmidt, J. Jacobson, Joers, Johnson, Miresse, Ortiz-Velez, Palmeri, Prado, Roe, Snodgrass, Stroud, Tenorio, Udell, Sinicki, Fitzgerald and Haywood; \ncosponsored by Senators Hesselbein, Cabral-Guevara, Habush Sinykin, L. Johnson, Keyeski, Larson, Ratcliff, Spreitzer, Wirch and Dassler-Alfheim",
+    "occurred_at": "2025-07-31T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab381",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB381"
+}

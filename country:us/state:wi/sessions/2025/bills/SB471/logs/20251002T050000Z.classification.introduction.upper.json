@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wall, Dassler-Alfheim, Larson, Ratcliff, Roys, Smith and Spreitzer; \ncosponsored by Representatives Stroud, DeSanto, Moore Omokunde, Anderson, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Hong, Joers, Kirsch, Madison, McCarville, Miresse, Phelps, Rivera-Wagner, Roe, Snodgrass, Stubbs, Subeck, Tenorio and Udell",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb471",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB471"
+}

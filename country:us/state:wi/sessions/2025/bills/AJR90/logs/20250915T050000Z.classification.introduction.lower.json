@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Subeck, Roe, Arney, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, Miresse, Neubauer, Ortiz-Velez, Palmeri, Sheehan, Sinicki, Snodgrass, Stroud, Stubbs, Taylor and Tenorio; \ncosponsored by Senators Spreitzer, Larson, Hesselbein, Ratcliff, Roys and Wall",
+    "occurred_at": "2025-09-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr90",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR90"
+}

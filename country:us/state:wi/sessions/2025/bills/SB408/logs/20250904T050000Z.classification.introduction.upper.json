@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Keyeski, Dassler-Alfheim, Drake, Ratcliff, Roys, Spreitzer and Hesselbein; \ncosponsored by Representatives J. Jacobson, Roe, Brown, Miresse, Madison, Johnson, Stroud, Palmeri, Joers and Bare",
+    "occurred_at": "2025-09-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb408",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB408"
+}

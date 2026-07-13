@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Ratcliff, Spreitzer, Dassler-Alfheim, Carpenter, Roys, Larson, Hesselbein, Drake and Smith; \ncosponsored by Representatives Clancy, Snodgrass, Arney, Cruz, Neubauer, Phelps, Rivera-Wagner, Udell, Stroud, DeSmidt, Tenorio, Hong, Fitzgerald, Joers, Madison, Kirsch, Moore Omokunde, Ortiz-Velez, Anderson, Vining, Subeck, Emerson, Bare, Palmeri, Sinicki, Johnson, Roe, Miresse, Sheehan and Mayadev",
+    "occurred_at": "2025-04-16T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb217",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB217"
+}

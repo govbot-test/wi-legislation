@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Carpenter, Drake, Hesselbein, Keyeski, Larson, Ratcliff, Smith and Wirch; \ncosponsored by Representatives Vining, Hong, Moore Omokunde, Roe, DeSanto, Arney, Bare, Brown, Clancy, DeSmidt, Fitzgerald, Goodwin, Haywood, Joers, Johnson, Madison, Miresse, Neubauer, Palmeri, Phelps, Prado, Rivera-Wagner, Sinicki, Stroud, Stubbs, Tenorio and Udell",
+    "occurred_at": "2025-06-27T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb352",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB352"
+}

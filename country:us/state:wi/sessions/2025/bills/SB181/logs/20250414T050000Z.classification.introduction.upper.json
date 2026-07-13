@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, James, Cabral-Guevara, Nass, Pfaff, Spreitzer and Testin; \ncosponsored by Representatives Kurtz, Gustafson, Behnke, Dittrich, Donovan, Duchow, Franklin, Green, Kaufert, Kitchens, Maxey, Melotik, Moses, Mursau, Neubauer, Palmeri, Piwowarczyk, Steffen, Subeck, Udell, VanderMeer and Nedweski",
+    "occurred_at": "2025-04-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb181",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB181"
+}

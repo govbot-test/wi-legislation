@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on calendar 3-18-2025 pursuant to Senate Rule 18(1)",
+    "occurred_at": "2025-03-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb86",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB86"
+}

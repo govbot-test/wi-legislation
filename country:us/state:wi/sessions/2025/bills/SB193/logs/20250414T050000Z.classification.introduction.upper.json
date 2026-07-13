@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Jagler; \ncosponsored by Representatives Krug, Dittrich, Knodl, Maxey, Murphy, Mursau, O'Connor, Ortiz-Velez, Wichgers and Piwowarczyk",
+    "occurred_at": "2025-04-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb193",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB193"
+}

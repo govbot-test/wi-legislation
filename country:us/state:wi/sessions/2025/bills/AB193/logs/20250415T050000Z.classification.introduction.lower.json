@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Rodriguez, Snyder, Dittrich, Gundrum, Knodl, Melotik, Murphy, O'Connor, Wichgers and Duchow; \ncosponsored by Senators Cabral-Guevara and Testin",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab193",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB193"
+}

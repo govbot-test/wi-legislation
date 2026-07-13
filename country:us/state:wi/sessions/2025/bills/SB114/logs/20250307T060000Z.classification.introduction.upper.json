@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Tomczyk, Dassler-Alfheim, Habush Sinykin, Keyeski, Larson, Spreitzer and Wall; \ncosponsored by Representatives Brill, Krug, Brown, J. Jacobson, Miresse, Mursau, Palmeri, Prado, Rivera-Wagner, Snyder, Stroud, Subeck, Tusler, Wichgers, Behnke and Udell",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB114"
+}

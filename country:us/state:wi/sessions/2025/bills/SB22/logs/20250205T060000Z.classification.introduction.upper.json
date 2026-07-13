@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Nass and Wanggaard; \ncosponsored by Representatives Dittrich, Knodl, Allen, Behnke, Brill, Goeben, Gundrum, B. Jacobson, Kreibich, Krug, Murphy, Nedweski, Piwowarczyk, Tusler and Wichgers",
+    "occurred_at": "2025-02-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb22",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB22"
+}

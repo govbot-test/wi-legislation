@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Bradley, Feyen and Wanggaard; \ncosponsored by Representatives Sortwell, Steffen, Wittke, Callahan, Dittrich, Green, Gustafson, Knodl, Moses, Murphy, Mursau, O'Connor, Snyder, Spiros, Subeck, Tusler, Zimmerman and Wichgers",
+    "occurred_at": "2025-03-14T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb125",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB125"
+}

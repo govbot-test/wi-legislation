@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Kapenga and Bradley; \ncosponsored by Representatives Maxey, Kitchens, Allen, Armstrong, Behnke, Brill, Dittrich, Donovan, Gundrum, Gustafson, Kaufert, Knodl, Kreibich, Melotik, Murphy, Mursau, Neylon, O'Connor, Penterman, Piwowarczyk and Wichgers",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb295",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB295"
+}

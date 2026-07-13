@@ -1,0 +1,33 @@
+{
+  "identifier": "",
+  "motion_text": "Report Assembly Amendment 2 adoption recommended by Committee on Education, Ayes 7, Noes 5",
+  "motion_classification": [
+    "amendment"
+  ],
+  "start_date": "2025-11-12T06:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "845ae174-753f-11f1-8793-f6824febb611",
+  "bill_action": null,
+  "bill_identifier": "AB226",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/document/journals/2025/hist213533",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "hist213533-AB226"
+}

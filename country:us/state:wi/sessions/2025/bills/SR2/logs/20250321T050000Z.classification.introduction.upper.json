@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch",
+    "occurred_at": "2025-03-21T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/resolution/sr2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR2"
+}

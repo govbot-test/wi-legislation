@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Tomczyk; \ncosponsored by Representatives Dittrich, Behnke, B. Jacobson, Kreibich, Maxey, O'Connor, Tusler, Mursau and Goeben",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb120",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB120"
+}

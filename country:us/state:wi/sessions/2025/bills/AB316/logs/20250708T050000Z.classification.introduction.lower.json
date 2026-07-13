@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Vining, Phelps, Cruz, Neubauer, Rivera-Wagner, Snodgrass, Spaude, Stroud, Udell, Arney, Clancy, Andraca, Emerson, Hong, Joers, Madison, McCarville, Miresse, Moore Omokunde, Ortiz-Velez, Palmeri, Roe, Sheehan, Tenorio, Fitzgerald, Bare, Prado, Subeck, Mayadev, DeSmidt, DeSanto, Stubbs, Anderson, Johnson and Haywood; \ncosponsored by Senators Spreitzer, Carpenter, Dassler-Alfheim, Roys, Ratcliff, Habush Sinykin, L. Johnson, Keyeski, Larson, Smith, Hesselbein and Drake",
+    "occurred_at": "2025-07-08T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab316",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB316"
+}

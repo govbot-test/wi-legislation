@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Goodwin, Madison, Arney, Brown, Clancy, Doyle, Fitzgerald, Miresse, Neubauer, Ortiz-Velez, Rivera-Wagner, Roe, Stubbs, Taylor, Vining, Andraca and Palmeri; \ncosponsored by Senators Larson, Carpenter and Keyeski",
+    "occurred_at": "2025-11-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab653",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB653"
+}

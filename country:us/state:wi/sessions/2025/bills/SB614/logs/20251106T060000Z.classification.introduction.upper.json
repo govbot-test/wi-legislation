@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Marklein, Quinn, Testin and Wimberger; \ncosponsored by Representatives Dallman, Dittrich, Knodl, Kurtz, O'Connor and Melotik",
+    "occurred_at": "2025-11-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb614",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB614"
+}

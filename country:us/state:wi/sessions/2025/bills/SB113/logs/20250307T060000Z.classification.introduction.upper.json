@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Testin, Dassler-Alfheim, Keyeski, Pfaff, Smith, Spreitzer and Wall; \ncosponsored by Representatives Novak, Tranel, Anderson, Behnke, Dittrich, Gundrum, B. Jacobson, Joers, Johnson, Kitchens, Krug, Miresse, Moore Omokunde, Moses, Murphy, Mursau, Palmeri, Tucker, Tusler, Udell and Wichgers",
+    "occurred_at": "2025-03-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb113",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB113"
+}

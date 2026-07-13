@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kitchens, Franklin, Tranel, Billings, Anderson, Armstrong, Behnke, DeSmidt, Dittrich, Emerson, Goodwin, Kaufert, Krug, Miresse, Novak, O'Connor, Ortiz-Velez, Penterman, Sheehan, Stubbs, Swearingen, Wittke and Sinicki; \ncosponsored by Senators Testin, Tomczyk, Roys, Cabral-Guevara, Jacque, Ratcliff, Spreitzer and Wanggaard",
+    "occurred_at": "2025-04-15T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr24",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR24"
+}

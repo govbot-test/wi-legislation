@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Knodl, Snyder, Sinicki, Clancy, Dittrich, Emerson, Fitzgerald, Goodwin, Gundrum, Joers, Johnson, Kaufert, Kreibich, Madison, Melotik, Miresse, Murphy, Mursau, O'Connor, Ortiz-Velez, Palmeri, Penterman, Roe, Sheehan, Stroud, Stubbs, Subeck, Tittl, Udell and Wichgers; \ncosponsored by Senators Jacque, Larson, Carpenter, Pfaff, Ratcliff, Roys, Spreitzer and Wall",
+    "occurred_at": "2025-10-24T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr110",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR110"
+}

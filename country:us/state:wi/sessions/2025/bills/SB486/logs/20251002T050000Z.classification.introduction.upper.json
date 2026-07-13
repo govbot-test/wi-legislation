@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Hesselbein, Larson, Ratcliff, Smith, Spreitzer and Dassler-Alfheim; \ncosponsored by Representatives Hysell, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Joers, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Phelps, Rivera-Wagner, Roe, Snodgrass, Stubbs, Subeck, Tenorio and Udell",
+    "occurred_at": "2025-10-02T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb486",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB486"
+}

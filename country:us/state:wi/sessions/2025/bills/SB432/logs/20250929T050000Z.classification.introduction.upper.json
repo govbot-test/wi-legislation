@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, James and Marklein; \ncosponsored by Representatives Green, B. Jacobson, Piwowarczyk, Brill, Dittrich, Duchow, Goeben, Gundrum, Hurd, Kitchens, Knodl, Kreibich, Maxey, Melotik, Murphy, Novak, Penterman, Petersen, Snyder, Summerfield and Tittl",
+    "occurred_at": "2025-09-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb432",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB432"
+}

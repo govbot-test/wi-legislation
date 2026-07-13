@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Nass and Tomczyk; \ncosponsored by Representatives Brill, Wichgers, Piwowarczyk, Allen, Behnke, Brooks, Callahan, Dittrich, Goeben, Green, Gundrum, B. Jacobson, Kreibich, Maxey, Murphy, O'Connor and Tucker",
+    "occurred_at": "2025-10-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb554",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB554"
+}

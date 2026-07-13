@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Felzkowski, Bradley, Feyen, Quinn and Tomczyk; \ncosponsored by Representatives Nedweski, Allen, Behnke, Brill, Dittrich, Gustafson, B. Jacobson, Kreibich, Maxey, Moses, Murphy, O'Connor, Penterman, Piwowarczyk, Sortwell, Tusler and Wichgers",
+    "occurred_at": "2025-07-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb371",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB371"
+}

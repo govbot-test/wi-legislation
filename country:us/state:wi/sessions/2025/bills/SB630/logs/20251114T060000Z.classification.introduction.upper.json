@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Hesselbein and Spreitzer; \ncosponsored by Representatives Tenorio, Clancy, DeSmidt, Fitzgerald, Goodwin, Hong, Kirsch, Madison, McCarville and Miresse",
+    "occurred_at": "2025-11-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb630",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB630"
+}

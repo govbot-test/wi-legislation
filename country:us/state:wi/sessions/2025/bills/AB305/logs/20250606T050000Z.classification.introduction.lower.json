@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Andraca, Behnke, Snodgrass, Miresse, DeSanto, Palmeri, Rivera-Wagner, DeSmidt, Sinicki, Doyle, Stubbs, Billings, Tenorio, Brown, Clancy, Moore Omokunde, Arney, Phelps, Madison, Joers, Fitzgerald, Johnson, Roe, Cruz, Subeck, McCarville, Taylor, Kirsch, Sheehan, Mayadev, Udell and J. Jacobson; \ncosponsored by Senators Habush Sinykin, Larson, Ratcliff, Roys, Smith, Spreitzer and Drake",
+    "occurred_at": "2025-06-06T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab305",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB305"
+}

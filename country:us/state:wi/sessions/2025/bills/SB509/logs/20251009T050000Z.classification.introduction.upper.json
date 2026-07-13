@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Dassler-Alfheim, L. Johnson, Larson, Ratcliff, Spreitzer and Hesselbein; \ncosponsored by Representatives Snodgrass, Palmeri, Andraca, Arney, Brown, Clancy, Emerson, Fitzgerald, Johnson, Madison, McCarville, Moore Omokunde, Phelps, Roe, Stroud and Stubbs",
+    "occurred_at": "2025-10-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb509",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB509"
+}

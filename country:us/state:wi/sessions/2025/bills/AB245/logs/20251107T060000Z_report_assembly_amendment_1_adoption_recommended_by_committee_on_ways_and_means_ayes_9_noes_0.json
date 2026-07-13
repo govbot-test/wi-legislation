@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report Assembly Amendment 1 adoption recommended by Committee on Ways and Means, Ayes 9, Noes 0",
+    "occurred_at": "2025-11-07T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab245",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB245"
+}

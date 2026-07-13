@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Tucker, Green, Piwowarczyk, Brill, Krug, Tranel, Maxey, B. Jacobson, Callahan, Kreibich, Penterman, Wichgers, Novak, Behnke, Goeben, Murphy, Knodl, Snyder, Dallman, Dittrich, Spiros, Gundrum, Tusler and Melotik; \ncosponsored by Senators Tomczyk, Wanggaard, Quinn, Feyen, Nass and Bradley",
+    "occurred_at": "2025-04-04T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab161",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB161"
+}

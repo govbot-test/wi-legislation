@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Wittke, Behnke, Brill, Brooks, Dittrich, Donovan, Duchow, Goeben, Green, Kaufert, Kitchens, Knodl, Kreibich, Melotik, Murphy, Mursau, Nedweski, O'Connor, Penterman and Tittl; \ncosponsored by Senators Wimberger, Bradley, Felzkowski, Feyen, Jacque, James, Kapenga, Marklein, Nass, Quinn and Tomczyk",
+    "occurred_at": "2025-05-30T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab286",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB286"
+}
