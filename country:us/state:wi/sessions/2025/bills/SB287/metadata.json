@@ -125,6 +125,16 @@
       }
     },
     {
+      "description": "Public hearing held",
+      "date": "2025-10-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
       "description": "Fiscal estimate received",
       "date": "2025-11-03T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -134,6 +144,166 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
+      }
+    },
+    {
+      "description": "Senate Substitute Amendment 1 offered by Senator Wimberger",
+      "date": "2025-12-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Report adoption of Senate Substitute Amendment 1 recommended by Committee on Government Operations, Labor and Economic Development, Ayes 3, Noes 2",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Report passage as amended recommended by Committee on Government Operations, Labor and Economic Development, Ayes 3, Noes 2",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Available for scheduling",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 2-18-2026 pursuant to Senate Rule 18(1)",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Senate Substitute Amendment 1 adopted",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Rules suspended to give bill its third reading",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Read a third time and passed, Ayes 18, Noes 15",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Received from Senate",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
       }
     }
   ],
@@ -187,9 +357,46 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Senate Substitute Amendment 1",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB287-SSA1",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB287-SSA1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Amendment Histories",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB287",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC Amendment Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcamendmentmemos/2025/REG/SB287.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB287: Fiscal Estimate From DMA",
       "links": [
@@ -268,6 +475,17 @@
       "classification": ""
     },
     {
+      "note": "SB287 ROCP for Committee on Government Operations, Labor and Economic Development On 2/11/2026",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1972157",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Bill Hearing Materials",
       "links": [
         {
@@ -309,7 +527,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Government Operations, Labor and Economic Development"
+    "status": "Status: A - Received"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -318,7 +536,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:14Z",
     "text_extraction_latest_update": "2026-07-13T09:01:15.553638Z"
   }
 }

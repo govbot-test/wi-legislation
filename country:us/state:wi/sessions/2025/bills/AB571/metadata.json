@@ -71,6 +71,90 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:43Z"
       }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Representative McCarville added as a coauthor",
+      "date": "2025-12-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Representative Mayadev added as a coauthor",
+      "date": "2025-12-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Representatives Kirsch and Hong added as coauthors",
+      "date": "2025-12-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Senator Dassler-Alfheim added as a cosponsor",
+      "date": "2025-12-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Representative Ortiz-Velez added as a coauthor",
+      "date": "2025-12-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Senator Hesselbein added as a cosponsor",
+      "date": "2026-02-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -263,11 +347,33 @@
   ],
   "documents": [
     {
+      "note": "AB571: Fiscal Estimate From DHS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab571/ab571_dhs.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB571: Fiscal Estimate From UWS",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab571/ab571_uws.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB571 ROCP for Committee on Health, Aging and Long-Term Care",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/health_aging_and_long_term_care/1988832",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -313,7 +419,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:43Z",
+    "logs_latest_update": "2026-07-15T13:15:18Z",
     "text_extraction_latest_update": "2026-07-13T08:27:32.210046Z"
   }
 }

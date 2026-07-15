@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Wanggaard, Jacque and Roys; \ncosponsored by Representatives Brill, Billings, Goeben, Joers, Dittrich, Mayadev, Armstrong, Behnke, Brown, DeSmidt, Emerson, Fitzgerald, B. Jacobson, Maxey, Miresse, Neylon, O'Connor, Ortiz-Velez, Piwowarczyk, Sinicki, Tucker, Udell, Stubbs and Steffen",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb956",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB956"
+}

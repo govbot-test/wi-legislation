@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wimberger, James, Dassler-Alfheim, Feyen, Keyeski, Larson, Marklein, Pfaff, Ratcliff, Roys, Smith, Spreitzer and Cabral-Guevara; \ncosponsored by Representatives Zimmerman, Behnke, Allen, Dittrich, Emerson, Kaufert, Madison, Mursau, O'Connor, Sinicki, Steffen, Tusler, Vining and Wichgers",
+    "occurred_at": "2026-02-09T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr130",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR130"
+}

@@ -379,6 +379,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 12-9-2025. 2025 Wisconsin Act 56",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Published 12-10-2025",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -506,21 +542,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Text as Enrolled",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB265",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB265.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Bill Text",
       "links": [
         {
@@ -558,6 +579,28 @@
         {
           "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB265",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 56",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/56",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 56: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%2056.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -627,7 +670,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Enrolled"
+    "status": "Status: A - Enacted into Law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -636,7 +679,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:16Z",
     "text_extraction_latest_update": "2026-07-13T09:06:54.745740Z"
   }
 }

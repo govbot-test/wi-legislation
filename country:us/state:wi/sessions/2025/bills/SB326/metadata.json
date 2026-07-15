@@ -71,6 +71,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:43Z"
       }
+    },
+    {
+      "description": "Senate Amendment 2 offered by Senator Cabral-Guevara",
+      "date": "2026-01-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +143,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb326/sb326_datcp.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB326 ROCP for Committee on Agriculture and Revenue",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/agriculture_and_revenue/1988554",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -175,7 +210,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:43Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T08:24:32.295886Z"
   }
 }

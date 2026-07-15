@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Hesselbein, Roys, Wall and Spreitzer; \ncosponsored by Representatives Joers, Billings, Mayadev, Andraca, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Madison, Miresse, Neubauer, Roe, Sinicki, Snodgrass, Stubbs and Udell",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb978",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB978"
+}

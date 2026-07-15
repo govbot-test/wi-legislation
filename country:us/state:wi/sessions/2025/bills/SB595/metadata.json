@@ -73,6 +73,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2025-12-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -113,6 +137,17 @@
   ],
   "documents": [
     {
+      "note": "SB595: Fiscal Estimate From DOC",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb595/sb595_doc.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB595: Fiscal Estimate From ELEC",
       "links": [
         {
@@ -129,6 +164,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb595/sb595_lab.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB595 ROCP for Committee on Government Operations, Labor and Economic Development",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/government_operations_labor_and_economic_development/1987477",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -174,7 +220,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:16Z",
     "text_extraction_latest_update": "2026-07-13T08:29:38.492309Z"
   }
 }

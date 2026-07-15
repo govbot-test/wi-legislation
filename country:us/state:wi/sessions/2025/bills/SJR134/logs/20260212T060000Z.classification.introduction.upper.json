@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, L. Johnson, Roys, Carpenter, Wall, Dassler-Alfheim, Larson, Ratcliff, Hesselbein, Spreitzer and Wirch; \ncosponsored by Representatives Haywood, Taylor, Moore Omokunde, Stubbs, Madison, Rivera-Wagner, Goodwin, Miresse, Sinicki, Udell, Stroud, Doyle, Kirsch, Prado, Fitzgerald, Roe, Snodgrass, Joers, Neubauer, Subeck, Ortiz-Velez, DeSmidt, Johnson, Palmeri and Clancy",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr134",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR134"
+}

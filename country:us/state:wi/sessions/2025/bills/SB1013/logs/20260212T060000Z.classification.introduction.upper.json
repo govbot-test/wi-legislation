@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Keyeski, Spreitzer, Pfaff, Hesselbein, Ratcliff, Larson and Roys; \ncosponsored by Representatives Emerson, Bare, Anderson, Roe, Miresse, Subeck, Arney, Joers, Stubbs, DeSmidt, Sinicki, Palmeri, Madison, Udell, Snodgrass, Tenorio and Clancy",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1013",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1013"
+}

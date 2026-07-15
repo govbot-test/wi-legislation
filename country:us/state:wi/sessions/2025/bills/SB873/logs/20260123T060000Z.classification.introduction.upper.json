@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Testin, Jacque, Marklein and Stafsholt; \ncosponsored by Representatives Hurd, Armstrong, Dittrich, Kitchens, Kreibich, Melotik, Moses, Mursau, O'Connor, Summerfield and Swearingen",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb873",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB873"
+}

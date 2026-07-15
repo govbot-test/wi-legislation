@@ -275,6 +275,180 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:41Z"
       }
+    },
+    {
+      "description": "Representative Piwowarczyk added as a coauthor",
+      "date": "2026-01-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Report Assembly Amendment 1 adoption recommended by Committee on Health, Aging and Long-Term Care, Ayes 14, Noes 1",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Report passage as amended recommended by Committee on Health, Aging and Long-Term Care, Ayes 15, Noes 0",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2026-01-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representative Melotik added as a coauthor",
+      "date": "2026-01-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representative Armstrong added as a coauthor",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee on Rules and referred to committee on State Affairs pursuant to Assembly Rule 45 (1)",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representative McGuire added as a coauthor",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representative Haywood added as a coauthor",
+      "date": "2026-02-17T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representative Roe added as a coauthor",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee on State Affairs and referred to committee on Rules",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Made a special order of business at 11:13 AM on 2-19-2026 pursuant to Assembly Resolution 14",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Representatives Moses, Phelps and Doyle added as coauthors",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Laid on the table",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -638,6 +812,17 @@
       "classification": ""
     },
     {
+      "note": "LC Amendment Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcamendmentmemos/2025/REG/AB263.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "AB263: Health Insurance Mandate Report",
       "links": [
         {
@@ -671,7 +856,7 @@
       "classification": ""
     },
     {
-      "note": "AB263 ROCP for Committee on Health, Aging and Long-Term Care",
+      "note": "AB263 ROCP for Committee on Health, Aging and Long-Term Care On 1/21/2026",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/health_aging_and_long_term_care/1948670",
@@ -723,7 +908,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Health, Aging and Long-Term Care"
+    "status": "Status: A - Tabled"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -732,7 +917,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:41Z",
+    "logs_latest_update": "2026-07-15T13:15:14Z",
     "text_extraction_latest_update": "2026-07-13T08:58:07.749353Z"
   }
 }

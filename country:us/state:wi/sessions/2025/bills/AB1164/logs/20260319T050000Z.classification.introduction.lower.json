@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Udell, Joers, Bare, Anderson, Clancy, Hysell, Miresse, Sinicki, Snodgrass, Stubbs and Subeck; \ncosponsored by Senators Hesselbein, Habush Sinykin, Roys, Dassler-Alfheim, Larson, Smith and Spreitzer",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1164",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1164"
+}

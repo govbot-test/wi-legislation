@@ -51,6 +51,38 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Representative Subeck added as a cosponsor",
+      "date": "2026-03-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Representative McCarville added as a cosponsor",
+      "date": "2026-04-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -158,10 +190,32 @@
       "classification": ""
     },
     {
+      "note": "SB569 ROCP for Committee on Education",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/education/1991838",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
           "url": "https://lobbying.wi.gov/What/BillInformation/2025REG/BillKey/REGSB569",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Assembly Bill 1150",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab1150",
           "media_type": "text/html"
         }
       ],
@@ -186,7 +240,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T08:27:56.361222Z"
   }
 }

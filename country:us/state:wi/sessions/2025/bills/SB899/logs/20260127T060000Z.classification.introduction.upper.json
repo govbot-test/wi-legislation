@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Testin, Jacque, Marklein, Tomczyk and Cabral-Guevara; \ncosponsored by Representatives Knodl, Armstrong, Behnke, Dittrich, Duchow, Gundrum, Kreibich, Murphy, O'Connor, Penterman, Piwowarczyk, Tittl, Wichgers and Steffen",
+    "occurred_at": "2026-01-27T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb899",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB899"
+}

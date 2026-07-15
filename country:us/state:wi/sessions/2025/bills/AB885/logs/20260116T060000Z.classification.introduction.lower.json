@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Hurd, Armstrong, Dittrich, Kitchens, Kreibich, Melotik, Moses, Mursau, O'Connor, Summerfield and Swearingen; \ncosponsored by Senators Testin, Jacque, Marklein and Stafsholt",
+    "occurred_at": "2026-01-16T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab885",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB885"
+}

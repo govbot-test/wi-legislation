@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Hesselbein, Larson, Ratcliff, Roys, Spreitzer, Tomczyk, Wirch and Cabral-Guevara; \ncosponsored by Representatives Piwowarczyk, Behnke, Dittrich, Duchow, Fitzgerald, Gundrum, Madison, Miresse, Murphy, O'Connor, Ortiz-Velez, Sinicki, Tittl and Wichgers",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr128",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR128"
+}

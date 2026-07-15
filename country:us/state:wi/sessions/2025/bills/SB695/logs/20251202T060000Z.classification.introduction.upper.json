@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Smith, Dassler-Alfheim, Habush Sinykin, L. Johnson, Keyeski, Larson, Ratcliff and Roys; \ncosponsored by Representatives Anderson, Rivera-Wagner, Roe, Arney, Billings, Fitzgerald, Joers, McCarville, Palmeri, Sinicki, Stroud, Stubbs, Taylor, Udell, Vining, Prado, Subeck and Tenorio",
+    "occurred_at": "2025-12-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb695",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB695"
+}

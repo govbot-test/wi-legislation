@@ -248,6 +248,195 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:44Z"
       }
+    },
+    {
+      "description": "Public hearing held",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Executive action taken",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Report concurrence recommended by Committee on Education, Ayes 3, Noes 2",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Available for scheduling",
+      "date": "2026-01-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 2-11-2026 pursuant to Senate Rule 18(1)",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Rules suspended to give bill its third reading",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Read a third time and concurred in, Ayes 18, Noes 15",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-02-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Received from Senate concurred in",
+      "date": "2026-02-12T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "LRB correction (Assembly Amendment 1)",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Report correctly enrolled on 2-16-2026",
+      "date": "2026-02-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor on 3-26-2026",
+      "date": "2026-03-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Report vetoed by the Governor on 3-31-2026",
+      "date": "2026-03-31T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -319,6 +508,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Text as Enrolled",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB103",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB103.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Text",
       "links": [
         {
@@ -362,6 +566,17 @@
       "classification": ""
     },
     {
+      "note": "Veto Message",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetomessages/2025/AB103.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "LC Amendment Memo",
       "links": [
         {
@@ -377,6 +592,17 @@
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/education/1908511",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB103 ROCP for Committee on Education On 1/9/2026",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/education/1963154",
           "media_type": "text/html"
         }
       ],
@@ -425,7 +651,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Education"
+    "status": "Status: A - Veto Sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -434,7 +660,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:44Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T09:00:30.280348Z"
   }
 }

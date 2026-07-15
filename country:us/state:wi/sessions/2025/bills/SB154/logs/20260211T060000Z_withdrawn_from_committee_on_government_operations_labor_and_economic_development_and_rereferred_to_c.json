@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from committee on Government Operations, Labor and Economic Development and rereferred to committee on Agriculture and Revenue pursuant to Senate Rule 46(2)(c)",
+    "occurred_at": "2026-02-11T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb154",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB154"
+}

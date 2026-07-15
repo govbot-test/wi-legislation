@@ -363,6 +363,52 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Report vetoed by the Governor on 12-5-2025",
+      "date": "2025-12-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -437,11 +483,11 @@
       "note": "Text as Enrolled",
       "links": [
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB366",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB366",
           "media_type": "text/html"
         },
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB366.pdf",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/AB366.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -486,6 +532,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/AB366",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Veto Message",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetomessages/2025/AB366.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -577,7 +634,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Enrolled"
+    "status": "Status: A - Veto Sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -586,7 +643,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:16Z",
     "text_extraction_latest_update": "2026-07-13T09:09:13.041023Z"
   }
 }

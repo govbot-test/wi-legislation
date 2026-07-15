@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from committee on Senate Organization and rereferred to joint committee on Finance pursuant to Senate Rule 46(2)(c)",
+    "occurred_at": "2026-01-29T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb480",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB480"
+}

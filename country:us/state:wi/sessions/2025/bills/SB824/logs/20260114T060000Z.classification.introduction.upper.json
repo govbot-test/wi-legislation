@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Carpenter, L. Johnson, Larson, Roys, Smith, Spreitzer and Wall; \ncosponsored by Representatives Palmeri, Arney, Bare, DeSmidt, Goodwin, Joers, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Prado, Sinicki, Stroud, Stubbs, Subeck, Tenorio, Vining and Snodgrass",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb824",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB824"
+}

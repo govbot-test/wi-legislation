@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senator L. Johnson withdrawn as a cosponsor",
+    "occurred_at": "2026-01-22T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab742",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB742"
+}

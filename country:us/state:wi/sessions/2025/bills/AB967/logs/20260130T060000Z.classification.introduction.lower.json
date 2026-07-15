@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Billings, Joers, Mayadev, Brill, Dittrich, Armstrong, DeSmidt, Emerson, Fitzgerald, McCarville, Miresse, Ortiz-Velez, Prado, Sinicki, Snodgrass, Stubbs, Subeck and Udell; \ncosponsored by Senators Jacque, L. Johnson, Dassler-Alfheim, Roys and Spreitzer",
+    "occurred_at": "2026-01-30T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab967",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB967"
+}

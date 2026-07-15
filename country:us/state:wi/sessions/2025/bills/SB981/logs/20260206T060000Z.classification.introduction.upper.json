@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Jacque; \ncosponsored by Representatives Hurd, B. Jacobson, Armstrong, Behnke, Brooks, Gundrum, Knodl, Kreibich, Moses, Murphy, Neylon, O'Connor, Spiros, Tucker, Tusler and Wichgers",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb981",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB981"
+}

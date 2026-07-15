@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Stubbs, Andraca, Kirsch, Udell, Sinicki, Prado, Fitzgerald, Miresse, Roe, Neubauer, Snodgrass, Joers, Arney, J. Jacobson, Stroud and DeSmidt; \ncosponsored by Senators Larson, L. Johnson, Roys, Ratcliff, Spreitzer and Dassler-Alfheim",
+    "occurred_at": "2026-01-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab943",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB943"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Miresse, McCarville, Andraca, Arney, Bare, DeSmidt, Joers, Madison, Moore Omokunde, Neubauer, Sinicki, Tenorio, Hong and Vining; \ncosponsored by Senators Roys, Hesselbein, Larson, Ratcliff, Smith and Wall",
+    "occurred_at": "2026-01-16T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab844",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB844"
+}

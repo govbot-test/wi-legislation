@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Keyeski, Spreitzer, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, Larson, Pfaff, Ratcliff, Roys, Smith, L. Johnson, Carpenter and Wirch; \ncosponsored by Representatives Joers, Arney, Anderson, Andraca, Bare, Billings, Brown, Clancy, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Hong, Hysell, J. Jacobson, Johnson, Kirsch, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Phelps, Roe, Sinicki, Snodgrass, Tenorio, Udell, Vining, Mayadev, Prado, Sheehan, Stroud, Stubbs and Subeck",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb817",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB817"
+}

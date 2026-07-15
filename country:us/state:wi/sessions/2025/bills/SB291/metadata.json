@@ -194,6 +194,202 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Read first time and referred to committee on Rules",
+      "date": "2026-01-16T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee on Rules and referred to joint committee on Finance pursuant to Assembly Rule 24 (3)(a)",
+      "date": "2026-01-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Executive action taken by joint committee on Finance",
+      "date": "2026-02-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Report concurrence recommended by Joint Committee on Finance, Ayes 11, Noes 4",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Referred to committee on Rules",
+      "date": "2026-02-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Made a special order of business at 11:14 AM on 2-19-2026 pursuant to Assembly Resolution 14",
+      "date": "2026-02-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Read a second time",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Ordered to a third reading",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Rules suspended",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Read a third time and concurred in, Ayes 63, Noes 31",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Ordered immediately messaged",
+      "date": "2026-02-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Received from Assembly concurred in",
+      "date": "2026-02-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Report correctly enrolled",
+      "date": "2026-02-26T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Presented to the Governor on 3-9-2026 by directive of the President, pursuant to Senate Rule 44m (3)",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Report vetoed by the Governor on 3-13-2026",
+      "date": "2026-03-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -249,6 +445,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Text as Enrolled",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/SB291",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/SB291.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Bill Text",
       "links": [
         {
@@ -266,6 +477,17 @@
   ],
   "documents": [
     {
+      "note": "Veto Message",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetomessages/2025/SB291.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB291: Fiscal Estimate From DOR",
       "links": [
         {
@@ -282,6 +504,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb291/sb291_wedc.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB291 ROCP for Joint Committee on Finance On 2/4/2026",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/joint/finance/1970211",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -340,7 +573,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Received"
+    "status": "Status: S - Veto sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -349,7 +582,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:15Z",
     "text_extraction_latest_update": "2026-07-13T09:06:25.115542Z"
   }
 }

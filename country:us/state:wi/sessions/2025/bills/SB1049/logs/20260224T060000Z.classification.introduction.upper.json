@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Dassler-Alfheim and Smith; \ncosponsored by Representatives Sinicki, Clancy, Miresse, McCarville, Palmeri, Stubbs, Madison and Brown",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1049",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1049"
+}

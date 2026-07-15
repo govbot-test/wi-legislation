@@ -49,6 +49,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-01-27T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -265,6 +289,28 @@
   ],
   "documents": [
     {
+      "note": "AB622: Fiscal Estimate From DWD",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/ab622/ab622_dwd.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB622 ROCP for Committee on Workforce Development, Labor, and Integrated Employment",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/assembly/workforce_development_labor_and_integrated_employment/1985913",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Wisconsin Ethics Commission information",
       "links": [
         {
@@ -276,65 +322,10 @@
       "classification": ""
     },
     {
-      "note": "2025 Assembly Bill 168",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab168",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Assembly Bill 652",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab652",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Senate Bill 196",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb196",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Senate Bill 200",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb200",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "2025 Senate Bill 500",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb500",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Senate Bill 677",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb677",
           "media_type": "text/html"
         }
       ],
@@ -359,7 +350,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T08:52:18.138582Z"
   }
 }

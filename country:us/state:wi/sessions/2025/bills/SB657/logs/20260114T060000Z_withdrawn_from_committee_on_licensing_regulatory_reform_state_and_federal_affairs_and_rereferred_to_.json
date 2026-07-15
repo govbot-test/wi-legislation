@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from committee on Licensing, Regulatory Reform, State and Federal Affairs and rereferred to committee on Health pursuant to Senate Rule 46(2)(c)",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb657",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB657"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Published 12-10-2025",
+    "occurred_at": "2025-12-10T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb215",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB215"
+}

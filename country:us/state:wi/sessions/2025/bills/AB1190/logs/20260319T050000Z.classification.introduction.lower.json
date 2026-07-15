@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Palmeri, Clancy, Joers, Madison and Mayadev; \ncosponsored by Senators Smith, Carpenter, Dassler-Alfheim and Ratcliff",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1190",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1190"
+}

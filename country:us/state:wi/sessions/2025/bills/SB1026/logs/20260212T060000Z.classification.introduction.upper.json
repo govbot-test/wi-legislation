@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, L. Johnson, Carpenter, Ratcliff, Roys, Larson and Spreitzer; \ncosponsored by Representatives Stubbs, Taylor, Haywood, Arney, Moore Omokunde, Madison, Rivera-Wagner, Goodwin, Roe, DeSmidt, Udell, Bare, Neubauer, Palmeri, Hong, Clancy, Fitzgerald, Joers, Miresse and Phelps",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1026"
+}

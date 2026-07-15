@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules suspended to give bill its third reading",
+    "occurred_at": "2026-03-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1032",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1032"
+}

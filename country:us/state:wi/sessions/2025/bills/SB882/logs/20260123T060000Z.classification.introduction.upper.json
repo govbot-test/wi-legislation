@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Dassler-Alfheim, Habush Sinykin, Keyeski, Pfaff, Spreitzer and Wall; \ncosponsored by Representatives Novak, Armstrong, Billings, Clancy, Krug, Madison, Mayadev, Moore Omokunde, Mursau, Neubauer, O'Connor, Phelps, Steffen, Stroud, Stubbs and Dittrich",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb882",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB882"
+}

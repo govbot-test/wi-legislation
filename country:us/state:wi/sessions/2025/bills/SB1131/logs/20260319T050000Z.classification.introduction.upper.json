@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Smith, Dassler-Alfheim, Larson, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Subeck, DeSanto, Bare, Brown, Clancy, Emerson, Hysell, Joers, McCarville, Miresse, Moore Omokunde, Neubauer, Prado, Rivera-Wagner, Sinicki, Snodgrass, Stroud, Stubbs, Vining and Palmeri",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1131",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1131"
+}

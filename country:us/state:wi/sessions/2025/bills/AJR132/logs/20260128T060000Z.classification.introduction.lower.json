@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Subeck, Stroud, Roe, Kaufert, Wichgers, DeSmidt, Joers, Moore Omokunde, Madison, Clancy, Miresse, Stubbs, Spiros, Sinicki, Rivera-Wagner and Kitchens; \ncosponsored by Senators Pfaff, Spreitzer, Wirch, Roys, Ratcliff, Hesselbein, Dassler-Alfheim, Smith, Wall, Carpenter and Larson",
+    "occurred_at": "2026-01-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr132",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR132"
+}

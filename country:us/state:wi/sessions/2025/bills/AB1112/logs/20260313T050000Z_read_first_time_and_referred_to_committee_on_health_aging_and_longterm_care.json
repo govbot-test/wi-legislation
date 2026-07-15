@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read first time and referred to Committee on Health, Aging and Long-Term Care",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1112",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1112"
+}

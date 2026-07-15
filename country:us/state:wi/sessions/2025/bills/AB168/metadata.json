@@ -343,6 +343,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -528,54 +550,10 @@
       "classification": ""
     },
     {
-      "note": "2025 Assembly Bill 622",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab622",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Assembly Bill 652",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab652",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "2025 Senate Bill 200",
       "links": [
         {
           "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb200",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Senate Bill 500",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb500",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "2025 Senate Bill 677",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb677",
           "media_type": "text/html"
         }
       ],
@@ -591,7 +569,7 @@
     }
   ],
   "extras": {
-    "status": "Status: A - Vetoed"
+    "status": "Status: A - Veto Sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -600,7 +578,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:15Z",
     "text_extraction_latest_update": "2026-07-13T08:36:05.559394Z"
   }
 }

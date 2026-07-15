@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Spaude, Rivera-Wagner, Franklin, Behnke, Dittrich, Emerson, Kaufert, Moore Omokunde, O'Connor, Penterman, Sheehan, Sinicki, Stubbs, Tittl, Udell and Wichgers",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/resolution/ar17",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AR17"
+}

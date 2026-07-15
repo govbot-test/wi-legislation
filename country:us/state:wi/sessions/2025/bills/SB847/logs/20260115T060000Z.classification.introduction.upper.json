@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Larson and Spreitzer; \ncosponsored by Representatives Madison, Haywood, Rivera-Wagner, Arney, Bare, Clancy, DeSanto, DeSmidt, Goodwin, Hong, Joers, Ortiz-Velez, Phelps, Sheehan, Sinicki, Stroud, Tenorio and Udell",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb847",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB847"
+}

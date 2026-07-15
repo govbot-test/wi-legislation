@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives McCarville, Brown, DeSanto, Subeck, Sinicki, Ortiz-Velez, Hysell, Andraca, Roe, Miresse, Taylor, Kirsch, Hong, Bare, Udell, Anderson, Joers, Tenorio and Snodgrass; \ncosponsored by Senators Ratcliff, L. Johnson, Keyeski, Roys, Hesselbein, Larson and Spreitzer",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1125",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1125"
+}

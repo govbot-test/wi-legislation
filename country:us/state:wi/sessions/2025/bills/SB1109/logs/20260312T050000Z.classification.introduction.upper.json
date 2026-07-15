@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Keyeski, Larson, Roys, Hesselbein, Spreitzer, Smith and Dassler-Alfheim; \ncosponsored by Representatives Hong, McCarville, Brown, Sheehan, Anderson, Clancy, Stroud, Udell, Roe, Andraca, Arney, Bare, Palmeri, Stubbs, Joers, Vining, Miresse, Hysell, Sinicki, DeSmidt and Tenorio",
+    "occurred_at": "2026-03-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1109",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1109"
+}

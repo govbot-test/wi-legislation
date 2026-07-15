@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snodgrass, Vining, Bare, Emerson, Fitzgerald, Hong, Joers, Johnson, Madison, Mayadev, McCarville, Miresse, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Tenorio and Udell; \ncosponsored by Senators Cabral-Guevara, Carpenter, Dassler-Alfheim, Larson, Ratcliff, Roys, Smith, Spreitzer and Wirch",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1031",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1031"
+}

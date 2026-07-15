@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque, Spreitzer and Habush Sinykin; \ncosponsored by Representatives O'Connor, Mursau, Stubbs, Gundrum, Kreibich, Dittrich, Ortiz-Velez, Sinicki, Behnke and McCarville",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb838",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB838"
+}

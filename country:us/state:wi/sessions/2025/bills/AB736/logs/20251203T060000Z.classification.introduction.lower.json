@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Vining, Roe, Stubbs, Hong, Emerson, Arney, Brown, Clancy, Goodwin, Hysell, Madison, Phelps, Rivera-Wagner, Tenorio, DeSanto, DeSmidt, Joers, Kaufert, Mayadev, Miresse, Moore Omokunde, Prado, Snodgrass, Stroud, Subeck, Taylor, Udell and McCarville; \ncosponsored by Senators L. Johnson, Roys, Drake, Larson, Carpenter, Dassler-Alfheim, Hesselbein, Ratcliff and Spreitzer",
+    "occurred_at": "2025-12-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB736"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Spreitzer, Smith, Wirch, Roys, Hesselbein, Larson and Keyeski; \ncosponsored by Representatives Haywood, Bare, Prado, Sinicki, DeSmidt, Stubbs, Doyle, Neubauer, Goodwin, Joers, Taylor, Kirsch, Sheehan, Mayadev, Snodgrass, Subeck, Moore Omokunde, Arney, Emerson, Miresse, Palmeri, Madison, Fitzgerald, Roe, Hysell, Brown, Clancy, Udell, Tenorio, Andraca and Vining",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1169",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1169"
+}

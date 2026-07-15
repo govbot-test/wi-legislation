@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Smith, Drake, Carpenter, Larson, Ratcliff, Roys and Spreitzer; \ncosponsored by Representatives Joers, Stroud, Emerson, DeSmidt, Anderson, Andraca, Billings, Brown, Hong, Madison, McCarville, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Tenorio and Udell",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1041",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1041"
+}

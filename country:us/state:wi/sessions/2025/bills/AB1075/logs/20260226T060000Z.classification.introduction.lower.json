@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Doyle, J. Jacobson, Snodgrass, Andraca, Sinicki, Neubauer, Joers, Hong, Roe, Spaude, DeSmidt, Hysell, Emerson, Madison, Stubbs, Palmeri, Phelps, Moore Omokunde and Stroud; \ncosponsored by Senators Roys, Drake, L. Johnson, Ratcliff, Larson, Spreitzer and Hesselbein",
+    "occurred_at": "2026-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1075",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1075"
+}

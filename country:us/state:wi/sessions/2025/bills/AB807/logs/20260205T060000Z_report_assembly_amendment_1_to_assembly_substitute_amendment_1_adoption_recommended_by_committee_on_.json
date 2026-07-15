@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report Assembly Amendment 1 to Assembly Substitute Amendment 1 adoption recommended by Committee on Local Government, Ayes 8, Noes 2",
+    "occurred_at": "2026-02-05T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab807",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB807"
+}

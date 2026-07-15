@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, L. Johnson, Habush Sinykin, Keyeski, Roys, Spreitzer and Carpenter; \ncosponsored by Representatives Tenorio, Johnson, Moore Omokunde, Arney, Brown, Clancy, Cruz, DeSanto, Hong, Hysell, Joers, Kirsch, Madison, Mayadev, Miresse, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stubbs, Taylor, Udell, Fitzgerald, Anderson, McCarville, Bare, Billings, Haywood and Vining",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1150",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1150"
+}

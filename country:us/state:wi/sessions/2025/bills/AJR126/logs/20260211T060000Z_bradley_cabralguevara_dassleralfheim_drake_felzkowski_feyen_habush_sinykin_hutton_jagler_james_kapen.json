@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bradley, Cabral-Guevara, Dassler-Alfheim, Drake, Felzkowski, Feyen, Habush Sinykin, Hutton, Jagler, James, Kapenga, Keyeski, L. Johnson, Larson, LeMahieu, Marklein, Pfaff, Quinn, Roys, Smith, Stafsholt, Testin, Tomczyk, Wall, Wanggaard, Wimberger and Wirch of the Senate added as cosponsors",
+    "occurred_at": "2026-02-11T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr126",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR126"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Hesselbein, Wall and Dassler-Alfheim; \ncosponsored by Representatives Snodgrass, Rivera-Wagner, Andraca, Billings, Brown, Emerson, Hong, J. Jacobson, Joers, Miresse, Prado, Roe and Palmeri",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1043",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1043"
+}

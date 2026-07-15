@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Haywood, Bare, Prado, Sinicki, DeSmidt, Stubbs, Doyle, Neubauer, Goodwin, Joers, Taylor, Kirsch, Sheehan, Mayadev, Snodgrass, Subeck, Moore Omokunde, Arney, Emerson, Miresse, Palmeri, Madison, Fitzgerald, Roe, Hysell, Brown, Clancy, Udell, Tenorio, Andraca and Vining; \ncosponsored by Senators Drake, Spreitzer, Smith, Wirch, Roys, Hesselbein and Larson",
+    "occurred_at": "2026-01-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab917",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB917"
+}

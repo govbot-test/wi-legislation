@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Larson and Drake; \ncosponsored by Representatives Clancy, Hong, Madison, Joers, Moore Omokunde, Palmeri, Sinicki, Snodgrass, Stubbs, Arney, Bare, Goodwin, Mayadev, McCarville, Roe, Stroud, Tenorio, Anderson and Subeck",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1165",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1165"
+}

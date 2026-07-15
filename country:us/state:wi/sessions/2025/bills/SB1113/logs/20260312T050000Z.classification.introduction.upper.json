@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Pfaff, Ratcliff and Roys; \ncosponsored by Representatives Palmeri, Rivera-Wagner, Anderson, Brown, Clancy, DeSmidt, Emerson, Joers, Johnson, Kaufert, Kirsch, McCarville, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Roe, Sheehan, Sinicki, Snodgrass, Stubbs, Tenorio, Udell and Hysell",
+    "occurred_at": "2026-03-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1113",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1113"
+}

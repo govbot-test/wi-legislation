@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assembly Substitute Amendment 2 offered by Representative Kaufert",
+    "occurred_at": "2026-02-19T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab884",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB884"
+}

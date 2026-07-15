@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Withdrawn from committee on Energy and Utilities and referred to committee on Agriculture pursuant to Assembly Rule 42 (3)(c)",
+    "occurred_at": "2026-01-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab493",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB493"
+}

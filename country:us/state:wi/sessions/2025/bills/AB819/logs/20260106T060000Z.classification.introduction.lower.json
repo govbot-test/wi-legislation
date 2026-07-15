@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Moses, Swearingen, VanderMeer, Behnke, Callahan, Kreibich, Kurtz, Murphy, Mursau, Nedweski, Novak, O'Connor and Zimmerman; \ncosponsored by Senators Cabral-Guevara, Feyen, Marklein, Spreitzer and Testin",
+    "occurred_at": "2026-01-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab819",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB819"
+}

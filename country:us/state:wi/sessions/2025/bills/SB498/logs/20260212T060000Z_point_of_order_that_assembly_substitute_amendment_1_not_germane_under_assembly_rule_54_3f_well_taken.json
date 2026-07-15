@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Point of order that Assembly Substitute Amendment 1 not germane under Assembly Rule 54 (3)(f) well taken",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb498",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB498"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wall and Dassler-Alfheim; \ncosponsored by Representatives Doyle, Snodgrass, Ortiz-Velez, DeSmidt, Joers, Stubbs, Stroud, Sinicki and Clancy",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb927",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB927"
+}

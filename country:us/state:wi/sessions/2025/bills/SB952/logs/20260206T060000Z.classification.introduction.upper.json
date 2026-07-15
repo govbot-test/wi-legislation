@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Jacque and Feyen; \ncosponsored by Representatives Piwowarczyk, Steffen, Knodl, O'Connor, Nedweski, Maxey, Snyder, Moses, Dittrich, B. Jacobson and Wichgers",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb952",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB952"
+}

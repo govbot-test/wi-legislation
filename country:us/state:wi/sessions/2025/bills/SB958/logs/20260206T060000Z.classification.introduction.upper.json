@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Habush Sinykin, Smith, Carpenter, Drake, Dassler-Alfheim, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys and Wirch; \ncosponsored by Representatives Billings, Palmeri, Miresse, Andraca, Anderson, Arney, Bare, Brown, Clancy, Cruz, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Haywood, Hong, Hysell, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, Moore Omokunde, Neubauer, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Tenorio and Udell",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb958",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB958"
+}

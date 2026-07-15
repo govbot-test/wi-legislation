@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Feyen, Jacque, Marklein, Nass and Tomczyk; \ncosponsored by Representatives Dittrich, Allen, Donovan, Gundrum, B. Jacobson, Kaufert, Knodl, Kreibich, Maxey, Murphy, Nedweski, O'Connor, Penterman and Wichgers",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR121"
+}

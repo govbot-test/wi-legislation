@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report adoption of Senate Amendment 2 recommended by Committee on Judiciary and Public Safety, Ayes 7, Noes 1",
+    "occurred_at": "2026-01-13T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb678",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB678"
+}

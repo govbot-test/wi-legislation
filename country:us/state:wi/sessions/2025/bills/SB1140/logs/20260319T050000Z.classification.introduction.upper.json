@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Carpenter, Dassler-Alfheim and Ratcliff; \ncosponsored by Representatives Palmeri, Clancy, Joers, Madison and Mayadev",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1140",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1140"
+}

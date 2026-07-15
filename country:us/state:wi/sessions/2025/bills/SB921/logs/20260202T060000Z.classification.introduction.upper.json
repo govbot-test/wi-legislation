@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Felzkowski, Cabral-Guevara, Pfaff and Quinn; \ncosponsored by Representatives Dallman, Wittke, Behnke, Dittrich, Donovan, Emerson, Goeben, Goodwin, Green, Gundrum, Knodl, Kreibich, Krug, Kurtz, Melotik, Moses, Murphy, Mursau, O'Connor, Penterman, Prado, Rivera-Wagner, Sinicki, Sortwell, Swearingen, Tucker, Tusler, Udell, VanderMeer, Wichgers, Zimmerman, Steffen and Callahan",
+    "occurred_at": "2026-02-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb921",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB921"
+}

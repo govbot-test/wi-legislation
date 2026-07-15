@@ -273,6 +273,52 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Report vetoed by the Governor on 12-5-2025",
+      "date": "2025-12-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+      "date": "2026-05-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
     }
   ],
   "sponsorships": [
@@ -307,11 +353,11 @@
       "note": "Text as Enrolled",
       "links": [
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB424",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/SB424",
           "media_type": "text/html"
         },
         {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB424.pdf",
+          "url": "https://docs.legis.wisconsin.gov/document/vetoedenrolledbills/2025/REG/SB424.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -335,6 +381,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Veto Message",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/vetomessages/2025/SB424.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB424 ROCP for Committee on Education On 11/10/2025",
       "links": [
@@ -388,7 +445,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Enrolled"
+    "status": "Status: S - Veto sustained"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -397,7 +454,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:15Z",
     "text_extraction_latest_update": "2026-07-13T08:32:51.049639Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wanggaard and Habush Sinykin; \ncosponsored by Representatives Mursau, Steffen, Stubbs, Behnke, Dittrich, Gundrum, Kreibich, Murphy, O'Connor, Ortiz-Velez, Penterman, Piwowarczyk, Sinicki and Udell",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb849",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB849"
+}

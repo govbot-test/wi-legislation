@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Dassler-Alfheim, Hesselbein, Ratcliff, Roys, Wirch and Larson; \ncosponsored by Representatives Haywood, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, J. Jacobson, Joers, Kirsch, Madison, Miresse, Moore Omokunde, Phelps, Prado, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Taylor and Udell",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb934",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB934"
+}

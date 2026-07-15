@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Emerson, Anderson, Rivera-Wagner, Sinicki, Roe, Brown, Sheehan, McCarville, Phelps, Cruz, Udell, Stubbs, Stroud, Clancy and Prado; \ncosponsored by Senators Smith, Ratcliff, Larson, Carpenter, Roys, Spreitzer and Hesselbein",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1232",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1232"
+}

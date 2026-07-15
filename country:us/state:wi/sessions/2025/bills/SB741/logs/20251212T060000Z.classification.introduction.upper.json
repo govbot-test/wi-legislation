@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Spreitzer, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, Keyeski, Larson, Pfaff, Ratcliff, Roys and Wirch; \ncosponsored by Representatives Hong, Tenorio, Andraca, Anderson, Arney, Bare, Billings, Brown, Clancy, DeSanto, DeSmidt, Doyle, Emerson, Fitzgerald, Goodwin, Haywood, Hysell, J. Jacobson, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, Miresse, Moore Omokunde, Neubauer, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Subeck, Udell and Vining",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb741",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB741"
+}

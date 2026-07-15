@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Arney, Moore Omokunde, Ortiz-Velez, Rivera-Wagner, Roe, Stroud and Stubbs; \ncosponsored by Senators Drake, Dassler-Alfheim, Larson, Roys and Spreitzer",
+    "occurred_at": "2026-01-30T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab985",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB985"
+}

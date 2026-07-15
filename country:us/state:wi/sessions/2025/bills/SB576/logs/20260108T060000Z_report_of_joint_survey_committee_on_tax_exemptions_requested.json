@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Report of Joint Survey Committee on Tax Exemptions requested",
+    "occurred_at": "2026-01-08T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb576",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB576"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Dassler-Alfheim, Larson, Roys, Spreitzer and Wall; \ncosponsored by Representatives Mayadev, Andraca, Arney, Clancy, Fitzgerald, Hong, Joers, Miresse, Neubauer, Palmeri, Roe, Sheehan, Sinicki, Stroud, Stubbs and Subeck",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1044",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1044"
+}

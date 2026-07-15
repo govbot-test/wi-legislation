@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Larson, Pfaff, Ratcliff, Roys, Smith, Wall and Wirch; \ncosponsored by Representatives Snodgrass, Anderson, Andraca, Arney, Brown, Fitzgerald, Joers, Neubauer, Palmeri, Rivera-Wagner, Roe, Sheehan, Sinicki, Spaude, Stroud, Subeck and Udell",
+    "occurred_at": "2026-01-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb801",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB801"
+}

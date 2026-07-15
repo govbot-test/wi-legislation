@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Roys, Wirch, Ratcliff, Hesselbein, Spreitzer and Larson; \ncosponsored by Representatives Stubbs, Madison, Joers, Moore Omokunde, Goodwin, Ortiz-Velez, Arney, Hong, Clancy, DeSmidt, Sinicki, Palmeri and Sheehan",
+    "occurred_at": "2026-03-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1102",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1102"
+}

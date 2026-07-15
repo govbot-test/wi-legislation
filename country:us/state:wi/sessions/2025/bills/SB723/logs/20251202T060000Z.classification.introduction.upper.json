@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Dassler-Alfheim, Keyeski, Pfaff, Ratcliff, Roys and Smith; \ncosponsored by Representatives J. Jacobson, Anderson, Brown, DeSanto, DeSmidt, Fitzgerald, Joers, Johnson, Miresse, Roe, Sinicki, Stroud, Stubbs, Subeck and Udell",
+    "occurred_at": "2025-12-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb723",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB723"
+}

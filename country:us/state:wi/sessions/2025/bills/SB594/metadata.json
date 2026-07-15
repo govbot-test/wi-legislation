@@ -16,7 +16,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced by Senators Larson, Dassler-Alfheim and L. Johnson; \ncosponsored by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, Clancy, DeSmidt, Emerson, Johnson, Madison, Miresse, Phelps, Roe, Sinicki, Stroud, Stubbs and Subeck",
+      "description": "Introduced by Senators Larson, Dassler-Alfheim, L. Johnson and Spreitzer; \ncosponsored by Representatives Rivera-Wagner, Snodgrass, Andraca, Arney, Clancy, DeSmidt, Emerson, Johnson, Madison, Miresse, Phelps, Roe, Sinicki, Stroud, Stubbs and Subeck",
       "date": "2025-10-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -24,7 +24,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:42Z"
+        "log_file_created": "2026-07-15T13:15:17Z"
       }
     },
     {
@@ -51,6 +51,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,6 +98,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"L. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spreitzer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spreitzer\"}",
       "organization_id": null
     }
   ],
@@ -104,6 +134,17 @@
         {
           "url": "https://docs.legis.wisconsin.gov/2025/related/fe/sb594/sb594_elec.pdf",
           "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB594 ROCP for Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/licensing_regulatory_reform_state_and_federal_affairs/1986597",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -149,7 +190,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T09:04:17.940788Z"
   }
 }

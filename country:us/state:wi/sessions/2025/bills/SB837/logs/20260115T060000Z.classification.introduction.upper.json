@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Wall, Carpenter, Dassler-Alfheim, L. Johnson, Larson, Pfaff and Ratcliff; \ncosponsored by Representatives Spaude, Bare, Cruz, DeSanto, DeSmidt, Emerson, Goodwin, Hysell, Joers, Johnson, Miresse, Moore Omokunde, Neubauer, Ortiz-Velez, Rivera-Wagner, Sheehan, Sinicki, Stroud, Subeck and Udell",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb837",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB837"
+}

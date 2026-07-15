@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Representative Bare added as a cosponsor",
+    "occurred_at": "2026-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb875",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB875"
+}

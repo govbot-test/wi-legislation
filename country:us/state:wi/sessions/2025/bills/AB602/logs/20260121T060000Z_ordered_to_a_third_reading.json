@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ordered to a third reading",
+    "occurred_at": "2026-01-21T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab602",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB602"
+}

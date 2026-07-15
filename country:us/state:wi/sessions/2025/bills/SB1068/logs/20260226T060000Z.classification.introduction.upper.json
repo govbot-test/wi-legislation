@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, L. Johnson, Carpenter, Larson, Ratcliff, Spreitzer and Dassler-Alfheim; \ncosponsored by Representatives Arney, Taylor, Haywood, Moore Omokunde, Goodwin, Madison, Miresse, Palmeri, Prado, Roe and Sinicki",
+    "occurred_at": "2026-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1068",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1068"
+}

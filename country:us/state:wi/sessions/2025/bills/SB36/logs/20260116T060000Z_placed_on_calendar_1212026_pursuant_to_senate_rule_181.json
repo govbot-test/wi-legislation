@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on calendar 1-21-2026 pursuant to Senate Rule 18(1)",
+    "occurred_at": "2026-01-16T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb36",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB36"
+}

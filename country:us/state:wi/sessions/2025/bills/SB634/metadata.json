@@ -16,7 +16,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced by Senators Spreitzer, Smith, Dassler-Alfheim, Keyeski, Ratcliff, Larson and Roys; \ncosponsored by Representatives Roe, Anderson, Brown, Arney, Bare, Billings, Clancy, DeSmidt, Emerson, Goodwin, Joers, Johnson, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Prado, Rivera-Wagner, Sinicki, Stroud, Subeck and Udell",
+      "description": "Introduced by Senators Spreitzer, Smith, Dassler-Alfheim, Keyeski, Ratcliff, Larson, Roys and Hesselbein; \ncosponsored by Representatives Roe, Anderson, Brown, Arney, Bare, Billings, Clancy, DeSmidt, Emerson, Goodwin, Joers, Johnson, Madison, McCarville, Miresse, Neubauer, Ortiz-Velez, Prado, Rivera-Wagner, Sinicki, Stroud, Subeck and Udell",
       "date": "2025-11-14T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -24,7 +24,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:42Z"
+        "log_file_created": "2026-07-15T13:15:15Z"
       }
     },
     {
@@ -68,6 +68,88 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
+      }
+    },
+    {
+      "description": "Senator Drake added as a coauthor",
+      "date": "2025-12-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative Hysell added as a cosponsor",
+      "date": "2025-12-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative Andraca added as a cosponsor",
+      "date": "2026-01-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative Snodgrass added as a cosponsor",
+      "date": "2026-01-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative Stubbs added as a cosponsor",
+      "date": "2026-02-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative J. Jacobson added as a cosponsor",
+      "date": "2026-02-09T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Representative Vining added as a cosponsor",
+      "date": "2026-03-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
+      }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-03-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:15Z"
       }
     }
   ],
@@ -127,6 +209,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Roys\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hesselbein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hesselbein\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -148,6 +238,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SB634 ROCP for Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/records/senate/licensing_regulatory_reform_state_and_federal_affairs/1986593",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Wisconsin Ethics Commission information",
       "links": [
@@ -188,7 +289,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:15Z",
     "text_extraction_latest_update": "2026-07-13T09:02:41.087073Z"
   }
 }

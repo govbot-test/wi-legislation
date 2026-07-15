@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Feyen; \ncosponsored by Representatives Dittrich, Tittl, Behnke, Donovan, Knodl, Kreibich, O'Connor and Penterman",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb866",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB866"
+}

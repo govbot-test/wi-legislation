@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Jacque, Roys and Larson; \ncosponsored by Representatives Tusler, Fitzgerald, Clancy, Miresse, Dittrich, Palmeri, Maxey, Ortiz-Velez, O'Connor, Steffen, DeSmidt, Andraca, Roe, Knodl, Novak, Behnke, Donovan, Joers, Callahan, Kitchens, Melotik and Stubbs",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1005",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1005"
+}

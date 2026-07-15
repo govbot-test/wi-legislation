@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Madison, Clancy, Hysell, Arney, Goodwin, Hong, Phelps, Rivera-Wagner, Tenorio, Bare, DeSmidt, Joers, Miresse, Prado, Sinicki and Neubauer; \ncosponsored by Senators Roys, Drake, L. Johnson, Larson and Spreitzer",
+    "occurred_at": "2025-12-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab724",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB724"
+}

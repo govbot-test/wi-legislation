@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Quinn, Feyen, Jagler, James, Marklein and Wimberger; \ncosponsored by Representatives Zimmerman, Born, Allen, Armstrong, Brooks, Dallman, Dittrich, Green, Gundrum, B. Jacobson, Knodl, Krug, Kreibich, Maxey, Melotik, Murphy, Nedweski, Neylon, Novak, O'Connor, Penterman, Petersen, Snyder, Sortwell, Summerfield, Tranel and Wittke",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb843",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB843"
+}

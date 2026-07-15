@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wanggaard; \ncosponsored by Representatives Gustafson, Ortiz-Velez, Moses, Krug, Miresse, Goodwin, Murphy and Taylor",
+    "occurred_at": "2025-12-30T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb800",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB800"
+}

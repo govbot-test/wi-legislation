@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rules suspended to withdraw from calendar and take up",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr126",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR126"
+}

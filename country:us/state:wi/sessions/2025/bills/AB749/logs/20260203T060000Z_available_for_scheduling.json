@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Available for scheduling",
+    "occurred_at": "2026-02-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab749",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB749"
+}

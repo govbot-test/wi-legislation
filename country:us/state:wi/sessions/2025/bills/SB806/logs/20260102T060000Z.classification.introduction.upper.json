@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Drake, Habush Sinykin, Hesselbein, Larson, Ratcliff, Spreitzer and Wirch; \ncosponsored by Representatives Joers, Vining, Anderson, Arney, Billings, Brown, DeSmidt, Doyle, Fitzgerald, Hong, Hysell, Kirsch, McCarville, Miresse, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Stroud, Stubbs, Subeck, Taylor, Tenorio, Udell and Mayadev",
+    "occurred_at": "2026-01-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb806",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB806"
+}

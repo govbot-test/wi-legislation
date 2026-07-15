@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Presented to the Governor on 12-4-2025",
+    "occurred_at": "2025-12-04T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb158",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB158"
+}

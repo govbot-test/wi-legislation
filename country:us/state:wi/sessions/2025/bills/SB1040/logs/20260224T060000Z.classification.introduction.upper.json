@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Ratcliff, Spreitzer, Roys and Larson; \ncosponsored by Representatives Udell, Stroud, Fitzgerald, Stubbs, Miresse, Sinicki, Moore Omokunde, Ortiz-Velez, McCarville, Bare, Joers, Tenorio, Roe, Sheehan, DeSmidt and Anderson",
+    "occurred_at": "2026-02-24T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1040",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1040"
+}

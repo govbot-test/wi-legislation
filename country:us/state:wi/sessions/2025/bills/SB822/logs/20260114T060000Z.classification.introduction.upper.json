@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Cabral-Guevara, Feyen, Marklein, Spreitzer and Stafsholt; \ncosponsored by Representatives Moses, Swearingen, Behnke, Callahan, Kreibich, Kurtz, Murphy, Mursau, Nedweski, Novak, O'Connor, VanderMeer, Zimmerman and Knodl",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb822",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB822"
+}

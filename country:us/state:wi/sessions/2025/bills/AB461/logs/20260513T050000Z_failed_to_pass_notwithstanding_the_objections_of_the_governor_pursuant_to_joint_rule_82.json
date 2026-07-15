@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Failed to pass notwithstanding the objections of the Governor pursuant to Joint Rule 82",
+    "occurred_at": "2026-05-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab461",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB461"
+}

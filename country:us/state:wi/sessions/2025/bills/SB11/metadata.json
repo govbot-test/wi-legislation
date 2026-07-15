@@ -323,6 +323,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 12-9-2025. 2025 Wisconsin Act 79",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Published 12-10-2025",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
     }
   ],
   "sponsorships": [
@@ -362,21 +398,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Text as Enrolled",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB11",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB11.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Bill Text",
       "links": [
         {
@@ -414,6 +435,28 @@
         {
           "url": "https://docs.legis.wisconsin.gov/document/amends/2025/REG/SB11",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 79",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/79",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 79: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%2079.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -483,7 +526,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Enrolled"
+    "status": "Status: S - Enacted into law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -492,7 +535,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:14Z",
     "text_extraction_latest_update": "2026-07-13T09:18:51.768136Z"
   }
 }

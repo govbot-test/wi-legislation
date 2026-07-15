@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report approved by the Governor on 4-8-2026. 2025 Wisconsin Act 208",
+    "occurred_at": "2026-04-09T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb136",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB136"
+}

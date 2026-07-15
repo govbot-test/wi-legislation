@@ -6,7 +6,23 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    ";",
+    "A",
+    "Children \u2014 Special educational needs",
+    "Governor \u2014 Legislation by request of",
+    "H",
+    "Hours of labor, see also",
+    "I",
+    "Income tax \u2014 Return",
+    "L",
+    "R",
+    "S",
+    "School \u2014 State aid, see also",
+    "Special session, 2026 \u2014 May",
+    "Technical college",
+    "Wage \u2014 Minimum"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -87,7 +103,7 @@
     {
       "description": "Read a second time",
       "date": "2026-05-13T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
       ],
@@ -99,7 +115,7 @@
     {
       "description": "Ordered to a third reading",
       "date": "2026-05-13T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-3"
       ],
@@ -153,7 +169,7 @@
     {
       "description": "Ordered to a third reading",
       "date": "2026-05-13T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-3"
       ],
@@ -272,6 +288,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:44Z"
       }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-05-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-05-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -315,6 +355,28 @@
         {
           "url": "https://docs.legis.wisconsin.gov/document/amends/2025/MY6/AB1",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "MY6 AB1: Fiscal Estimate From DPI",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/my6_ab1/my6_ab1_dpi.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "MY6 AB1: Fiscal Estimate From WTCS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/my6_ab1/my6_ab1_wtcs.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -371,7 +433,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:44Z",
+    "logs_latest_update": "2026-07-15T13:15:14Z",
     "text_extraction_latest_update": "2026-07-13T08:12:38.841905Z"
   }
 }

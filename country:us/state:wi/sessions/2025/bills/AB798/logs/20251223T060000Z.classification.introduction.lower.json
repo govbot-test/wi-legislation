@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Green, Penterman, B. Jacobson, Behnke, Dittrich, Goodwin, Kaufert, Miresse, Novak, Piwowarczyk, Sinicki, Subeck and Wichgers; \ncosponsored by Senators Quinn, Cabral-Guevara, Roys and Spreitzer",
+    "occurred_at": "2025-12-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab798",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB798"
+}

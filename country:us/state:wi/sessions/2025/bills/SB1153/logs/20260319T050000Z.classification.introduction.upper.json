@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Smith, Dassler-Alfheim and Keyeski; \ncosponsored by Representatives Sinicki, Tenorio, Miresse, Clancy, Kirsch, Johnson, Udell, Moore Omokunde, Bare, Billings, Roe, Arney, Fitzgerald, Sheehan, Brown, McCarville, Stroud, Palmeri, Stubbs and Mayadev",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1153",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1153"
+}

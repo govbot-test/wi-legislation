@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Kapenga, Cabral-Guevara and Nass; \ncosponsored by Representatives Gustafson, O'Connor, Behnke, Born, Brill, Dittrich, Goeben, Green, Gundrum, B. Jacobson, Knodl, Kreibich, Maxey, Nedweski, Penterman, Piwowarczyk, Sortwell, Murphy and Wichgers",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1010",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1010"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on calendar 5-12-2026 pursuant to Joint Rule 82 (2)(a)",
+    "occurred_at": "2026-05-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb417",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB417"
+}

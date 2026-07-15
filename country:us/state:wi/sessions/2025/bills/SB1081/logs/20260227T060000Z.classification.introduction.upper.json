@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Carpenter, Larson, Ratcliff, Roys, Spreitzer and Wanggaard; \ncosponsored by Representatives Sheehan, Billings, Arney, Emerson, Joers, Melotik, Miresse, Sinicki and Subeck",
+    "occurred_at": "2026-02-27T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1081",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1081"
+}

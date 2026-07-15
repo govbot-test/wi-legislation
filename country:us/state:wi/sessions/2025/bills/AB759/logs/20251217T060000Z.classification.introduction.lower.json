@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Kitchens, Snyder, Duchow, Franklin, Novak, Rodriguez, Krug, Allen, Ortiz-Velez, Rivera-Wagner, Clancy, Emerson, Goodwin, Hong, Kirsch, Kreibich, McCarville, Melotik, Mursau, Neubauer, Prado, Sinicki, Stroud and Subeck; \ncosponsored by Senators James, Tomczyk, Carpenter and Larson",
+    "occurred_at": "2025-12-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab759",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB759"
+}

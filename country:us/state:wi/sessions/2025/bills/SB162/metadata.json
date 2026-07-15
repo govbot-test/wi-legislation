@@ -295,6 +295,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:42Z"
       }
+    },
+    {
+      "description": "Presented to the Governor on 12-4-2025",
+      "date": "2025-12-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Report approved by the Governor on 12-9-2025. 2025 Wisconsin Act 70",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
+    },
+    {
+      "description": "Published 12-10-2025",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -318,21 +354,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Text as Enrolled",
-      "links": [
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB162",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB162.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Bill Text",
       "links": [
         {
@@ -349,6 +370,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "2025 Wisconsin Act 70",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/acts/2025/70",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "2025 Wisconsin Act 70: LC Act Memo",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/document/lcactmemos/2025/REG/Act%2070.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB162 ROCP for Committee on Transportation and Local Government On 6/5/2025",
       "links": [
@@ -402,7 +445,7 @@
     }
   ],
   "extras": {
-    "status": "Status: S - Enrolled"
+    "status": "Status: S - Enacted into law"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:wi/government",
@@ -411,7 +454,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:42Z",
+    "logs_latest_update": "2026-07-15T13:15:17Z",
     "text_extraction_latest_update": "2026-07-13T08:31:35.146927Z"
   }
 }

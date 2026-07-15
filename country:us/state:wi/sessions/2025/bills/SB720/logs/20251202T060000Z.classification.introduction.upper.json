@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Hesselbein, Drake, Habush Sinykin, Ratcliff, Roys, L. Johnson, Dassler-Alfheim, Smith, Carpenter, Larson and Spreitzer; \ncosponsored by Representatives Johnson, Sinicki, Rivera-Wagner, Tenorio, Miresse, Joers, Subeck, Stubbs, Kaufert, Udell, Sheehan, Roe, McCarville, Hong, Bare, Arney, Neubauer and Stroud",
+    "occurred_at": "2025-12-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb720",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB720"
+}

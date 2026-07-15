@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Larson and Ratcliff; \ncosponsored by Representatives Vining, Hong, Cruz, Phelps, Sheehan, Arney, Bare, Clancy, DeSanto, DeSmidt, Goodwin, Hysell, Joers, Johnson, Kirsch, Madison, Miresse, Moore Omokunde, Prado, Sinicki, Subeck, Tenorio, Udell and Spaude",
+    "occurred_at": "2026-01-15T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb828",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB828"
+}

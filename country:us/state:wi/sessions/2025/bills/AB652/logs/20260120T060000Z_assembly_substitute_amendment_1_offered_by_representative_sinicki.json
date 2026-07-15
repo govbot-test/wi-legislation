@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assembly Substitute Amendment 1 offered by Representative Sinicki",
+    "occurred_at": "2026-01-20T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab652",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB652"
+}

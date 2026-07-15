@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Wall and Ratcliff; \ncosponsored by Representatives Bare, Brown, Roe, Subeck, DeSmidt, Stroud and Anderson",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb771",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB771"
+}

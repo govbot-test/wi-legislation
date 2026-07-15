@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Dassler-Alfheim, Carpenter, Larson, Ratcliff, Roys, Habush Sinykin, Spreitzer and Wall; \ncosponsored by Representatives Palmeri, Snodgrass, Mayadev, Anderson, Andraca, Arney, Brown, Clancy, DeSmidt, Emerson, Fitzgerald, Joers, Johnson, Madison, Miresse, Prado, Sinicki, Subeck, Tenorio, Udell and Vining",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb777",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB777"
+}

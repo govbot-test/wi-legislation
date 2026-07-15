@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, Drake, Feyen, James, L. Johnson and Smith; \ncosponsored by Representatives Gustafson, McCarville, Knodl, Kreibich, Krug, Piwowarczyk, Spiros, Swearingen, Brown, DeSmidt, Ortiz-Velez, Madison, Stubbs and Prado",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb737",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB737"
+}

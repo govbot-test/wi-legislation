@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Sheehan, Joers, McCarville, Anderson, Clancy, Fitzgerald, Stroud, Udell, Arney, Bare, Brown, Emerson, Hysell, Kirsch, Miresse, Ortiz-Velez, Palmeri, Sinicki, Tenorio, Vining and Andraca; \ncosponsored by Senators Keyeski, Larson, Roys, Carpenter, Dassler-Alfheim, Hesselbein, Pfaff, Spreitzer, Wirch and Ratcliff",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1101",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1101"
+}

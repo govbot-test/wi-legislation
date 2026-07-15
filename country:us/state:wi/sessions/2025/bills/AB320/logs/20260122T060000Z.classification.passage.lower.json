@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read a third time and passed, Ayes 65, Noes 32",
+    "occurred_at": "2026-01-22T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab320",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB320"
+}

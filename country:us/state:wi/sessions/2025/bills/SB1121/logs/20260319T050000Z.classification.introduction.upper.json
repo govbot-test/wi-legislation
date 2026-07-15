@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Drake, Ratcliff and Roys; \ncosponsored by Representatives Johnson, Moore Omokunde, Phelps, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1121"
+}

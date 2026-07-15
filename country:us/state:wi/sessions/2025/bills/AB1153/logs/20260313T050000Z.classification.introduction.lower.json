@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Johnson, Moore Omokunde, Phelps, Anderson, Andraca, Arney, Bare, Billings, Brown, Clancy, Cruz, DeSanto, DeSmidt, Doyle, Fitzgerald, Goodwin, Haywood, Hong, Hysell, J. Jacobson, Joers, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Palmeri, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Snodgrass, Spaude, Stroud, Stubbs, Subeck, Taylor, Tenorio, Udell and Vining; \ncosponsored by Senators Larson, Carpenter, Drake, Ratcliff and Roys",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1153",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1153"
+}

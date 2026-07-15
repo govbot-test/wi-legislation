@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Ratcliff, Hesselbein, Wirch, Keyeski, Dassler-Alfheim and Roys; \ncosponsored by Representatives Hong, Subeck, Bare, Sinicki, Tenorio, Joers, Snodgrass, Stubbs, Goodwin, Clancy, Miresse, Moore Omokunde, Arney, J. Jacobson, Hysell, Palmeri and Prado",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1115",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1115"
+}

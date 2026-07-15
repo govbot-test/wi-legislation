@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Published 5-26-2026.  Enrolled Joint Resolution 13",
+    "occurred_at": "2026-05-26T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr133",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR133"
+}

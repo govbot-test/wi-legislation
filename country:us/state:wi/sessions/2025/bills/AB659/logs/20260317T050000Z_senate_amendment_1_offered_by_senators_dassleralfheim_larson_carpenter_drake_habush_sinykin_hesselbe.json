@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Amendment 1 offered by Senators Dassler-Alfheim, Larson, Carpenter, Drake, Habush Sinykin, Hesselbein, L. Johnson, Keyeski, Pfaff, Ratcliff, Roys, Smith, Spreitzer, Wall and Wirch",
+    "occurred_at": "2026-03-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab659",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB659"
+}

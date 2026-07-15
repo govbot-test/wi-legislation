@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Carpenter, Dassler-Alfheim, Larson, Ratcliff, Spreitzer and Wall; \ncosponsored by Representatives McGuire, Arney, Clancy, Mayadev, Miresse, Sinicki, Stubbs, Udell and Palmeri",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1171",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1171"
+}

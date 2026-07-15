@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, L. Johnson, Dassler-Alfheim, Drake, Hesselbein, Larson, Ratcliff, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Bare, Fitzgerald, J. Jacobson, Anderson, Arney, Clancy, DeSmidt, Doyle, Goodwin, Joers, Johnson, Mayadev, McCarville, Miresse, Neubauer, Palmeri, Prado, Rivera-Wagner, Roe, Sinicki, Snodgrass, Spaude, Taylor, Udell, Vining and Stubbs",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1015",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1015"
+}

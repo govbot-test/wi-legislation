@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Dassler-Alfheim, L. Johnson, Larson, Pfaff, Ratcliff, Smith and Spreitzer; \ncosponsored by Representatives Miresse, Anderson, Arney, Bare, DeSmidt, Hong, Joers, Madison, McCarville, Moore Omokunde, Neubauer, Roe, Stroud, Subeck, Taylor, Tenorio, Udell, Vining and Palmeri",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb871",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB871"
+}

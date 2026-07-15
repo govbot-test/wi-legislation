@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Madison, Clancy, Palmeri, Emerson, Hong, Sinicki, Snodgrass, Stubbs, Arney, Goodwin, Mayadev, Miresse, Moore Omokunde, Roe and Tenorio; \ncosponsored by Senators Roys, Larson, Ratcliff, Drake and Spreitzer",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1119",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1119"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Sheehan, DeSmidt, Hysell, Joers, Johnson, Miresse, Neubauer, Palmeri, Sinicki, Udell, Snodgrass, Stubbs and Roe; \ncosponsored by Senators Smith, Hesselbein, Ratcliff, Spreitzer, Wirch and Carpenter",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1100",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1100"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk, James, Cabral-Guevara, Hutton, Larson and Wirch; \ncosponsored by Representatives Snyder, Dittrich, Novak, Kaufert, Knodl, Kreibich, Murphy, Gundrum, Tranel, Spiros, Subeck, Stubbs and Miresse",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr127",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR127"
+}

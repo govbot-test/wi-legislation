@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Substitute Amendment 1 offered by Senator Quinn",
+    "occurred_at": "2026-01-09T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb622",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB622"
+}

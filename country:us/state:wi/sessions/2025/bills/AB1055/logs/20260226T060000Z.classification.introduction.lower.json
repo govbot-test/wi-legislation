@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives McGuire, Vining, Andraca, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Johnson, Joers, Miresse, Prado, Sinicki, Stroud, Subeck, Taylor and Udell; \ncosponsored by Senators Drake, Carpenter, Dassler-Alfheim, Hesselbein, L. Johnson, Larson, Pfaff and Spreitzer",
+    "occurred_at": "2026-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1055",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1055"
+}

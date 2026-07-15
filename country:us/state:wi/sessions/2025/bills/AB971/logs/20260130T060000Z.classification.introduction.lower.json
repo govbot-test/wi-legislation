@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snyder, Doyle, Gundrum, Melotik, McCarville, Taylor, Armstrong, DeSmidt, Fitzgerald, Joers, Knodl, Kreibich, Maxey, Murphy, O'Connor, Roe, Sinicki and Subeck; \ncosponsored by Senator James",
+    "occurred_at": "2026-01-30T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab971",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB971"
+}

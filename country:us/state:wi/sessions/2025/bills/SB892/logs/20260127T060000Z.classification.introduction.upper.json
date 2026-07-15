@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senator Wimberger; \ncosponsored by Representatives Krug, Behnke, Goeben, Kaufert, Knodl and Melotik",
+    "occurred_at": "2026-01-27T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb892",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB892"
+}

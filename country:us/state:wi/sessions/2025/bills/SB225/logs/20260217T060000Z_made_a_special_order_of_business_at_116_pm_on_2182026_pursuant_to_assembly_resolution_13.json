@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Made a special order of business at 1:16 PM on 2-18-2026 pursuant to Assembly Resolution 13",
+    "occurred_at": "2026-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb225",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB225"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Made a special order of business at 12:09 PM on 2-19-2026 pursuant to Assembly Resolution 14",
+    "occurred_at": "2026-02-18T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb480",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB480"
+}

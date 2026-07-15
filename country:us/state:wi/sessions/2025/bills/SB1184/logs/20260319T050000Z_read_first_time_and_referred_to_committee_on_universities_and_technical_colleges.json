@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read first time and referred to Committee on Universities and Technical Colleges",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1184",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1184"
+}

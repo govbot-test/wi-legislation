@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Testin, L. Johnson, Carpenter, Dassler-Alfheim, Hesselbein, James, Marklein, Pfaff, Roys, Smith and Spreitzer; \ncosponsored by Representatives Kurtz, Sinicki, Andraca, Clancy, DeSmidt, Dittrich, Emerson, Goodwin, Joers, Kaufert, Knodl, Madison, Miresse, Mursau, Novak, Ortiz-Velez, Snodgrass, Stubbs, Subeck and Tucker",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb985",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB985"
+}

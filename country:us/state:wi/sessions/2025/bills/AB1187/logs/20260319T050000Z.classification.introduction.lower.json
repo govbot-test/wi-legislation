@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives McGuire, Doyle, Snodgrass, Anderson, DeSmidt, Emerson, Joers, Kirsch, Miresse, Roe, Sheehan, Stubbs and Subeck; \ncosponsored by Senators Pfaff, Wirch, Dassler-Alfheim, Hesselbein, L. Johnson, Ratcliff and Spreitzer",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1187",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1187"
+}

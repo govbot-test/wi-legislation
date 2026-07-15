@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Spreitzer, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Ratcliff, Roys, Wall and Hesselbein; \ncosponsored by Representatives Anderson, Joers, Arney, Bare, Billings, Brown, DeSmidt, Emerson, Fitzgerald, Johnson, Mayadev, McCarville, Palmeri, Rivera-Wagner, Roe, Sinicki, Spaude, Stubbs, Subeck, Taylor, Udell, Haywood, Prado and Tenorio",
+    "occurred_at": "2025-12-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb696",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB696"
+}

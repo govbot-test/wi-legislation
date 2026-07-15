@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Tomczyk and Hutton; \ncosponsored by Representatives Dittrich, Armstrong, Brill, Donovan, Duchow, Green, Gundrum, B. Jacobson, Kaufert, Moses, Murphy, Mursau, Nedweski, O'Connor, Piwowarczyk, Tittl, Wichgers and Miresse",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb750",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB750"
+}

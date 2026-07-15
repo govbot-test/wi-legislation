@@ -6,7 +6,23 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    ";",
+    "A",
+    "Children \u2014 Special educational needs",
+    "Governor \u2014 Legislation by request of",
+    "H",
+    "Hours of labor, see also",
+    "I",
+    "Income tax \u2014 Return",
+    "L",
+    "R",
+    "S",
+    "School \u2014 State aid, see also",
+    "Special session, 2026 \u2014 May",
+    "Technical college",
+    "Wage \u2014 Minimum"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -83,6 +99,16 @@
       }
     },
     {
+      "description": "Placed on calendar 5-13-2026 pursuant to Senate Rule 18(1)",
+      "date": "2026-05-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
       "description": "Read a second time",
       "date": "2026-05-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -139,6 +165,42 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:43Z"
       }
+    },
+    {
+      "description": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "date": "2026-05-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-05-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
+    },
+    {
+      "description": "Fiscal estimate received",
+      "date": "2026-05-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:15:14Z"
+      }
     }
   ],
   "sponsorships": [],
@@ -161,6 +223,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "MY6 SB1: Fiscal Estimate From DPI",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/my6_sb1/my6_sb1_dpi.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "MY6 SB1: Fiscal Estimate From WTCS",
+      "links": [
+        {
+          "url": "https://docs.legis.wisconsin.gov/2025/related/fe/my6_sb1/my6_sb1_wtcs.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB1 ROCP for Joint Committee on Finance On 5/12/2026",
       "links": [
@@ -212,7 +296,7 @@
     "division_id": "ocd-division/country:us/state:wi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:43Z",
+    "logs_latest_update": "2026-07-15T13:15:14Z",
     "text_extraction_latest_update": "2026-07-13T08:12:41.368174Z"
   }
 }

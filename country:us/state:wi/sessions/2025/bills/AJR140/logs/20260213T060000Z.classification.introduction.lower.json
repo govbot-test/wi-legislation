@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Zimmerman, Behnke, Allen, Mursau, Kaufert, Steffen, Dittrich, Emerson, Tusler, Sinicki, Madison, O'Connor, Vining, Wichgers and Murphy; \ncosponsored by Senators Wimberger, James, Dassler-Alfheim, Feyen, Keyeski, Larson, Marklein, Pfaff, Ratcliff, Roys, Smith, Spreitzer and Cabral-Guevara",
+    "occurred_at": "2026-02-13T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr140",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR140"
+}

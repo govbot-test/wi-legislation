@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Brown, Sinicki, Rivera-Wagner, Tenorio, Snodgrass, Miresse, Prado, Joers, Madison, Stubbs, Kaufert, Phelps, Udell, Roe, McCarville, Hong, Bare, Arney, Neubauer and Stroud; \ncosponsored by Senators Hesselbein, Habush Sinykin, Drake, Ratcliff, Roys, L. Johnson, Dassler-Alfheim, Smith, Jacque, Carpenter, Larson and Spreitzer",
+    "occurred_at": "2025-12-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab745",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB745"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators L. Johnson, Roys, Drake, Pfaff, Ratcliff, Carpenter, Spreitzer, Wall, Larson, Keyeski, Dassler-Alfheim, Hesselbein and Habush Sinykin; \ncosponsored by Representatives Hong, Haywood, Joers, Mayadev, Phelps, Bare, Sinicki, Udell, Prado, Rivera-Wagner, Tenorio, Stubbs, Kirsch, Snodgrass, DeSanto, DeSmidt, Anderson, Roe, Madison, Brown, Andraca, Fitzgerald, Johnson, Vining, McCarville, Clancy, Moore Omokunde, Palmeri and Miresse",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1001"
+}

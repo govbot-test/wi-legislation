@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators James, Cabral-Guevara, Jacque, Nass, Roys and Hutton; \ncosponsored by Representatives Zimmerman, Armstrong, Behnke, Dittrich, Fitzgerald, Gundrum, Knodl, Kreibich, Melotik, Novak, O'Connor, Penterman, Pronschinske, Tucker, Wichgers and Green",
+    "occurred_at": "2026-02-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr132",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR132"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Larson, Ratcliff, Drake and Spreitzer; \ncosponsored by Representatives Madison, Clancy, Palmeri, Emerson, Hong, Sinicki, Snodgrass, Stubbs, Arney, Goodwin, Mayadev, Miresse, Moore Omokunde, Roe and Tenorio",
+    "occurred_at": "2026-02-26T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1076",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1076"
+}

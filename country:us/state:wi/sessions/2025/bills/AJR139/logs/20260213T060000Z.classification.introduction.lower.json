@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Krug, Allen, Kitchens, Behnke, Dittrich, Franklin, Gundrum, Knodl, Murphy, O'Connor, Ortiz-Velez, Penterman, Snyder, Spiros and Stubbs; \ncosponsored by Senators Tomczyk, Testin, Roys, Cabral-Guevara, Jacque, Larson, Ratcliff and Wanggaard",
+    "occurred_at": "2026-02-13T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr139",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR139"
+}

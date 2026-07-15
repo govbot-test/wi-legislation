@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Dittrich, Joers, Brill, Mayadev, Billings, Andraca, Armstrong, Behnke, DeSmidt, Donovan, Fitzgerald, Goeben, Goodwin, Green, B. Jacobson, Knodl, Kreibich, Maxey, Miresse, Murphy, Nedweski, O'Connor, Ortiz-Velez, Piwowarczyk, Sinicki, Sortwell, Udell, Stubbs, Melotik and Neubauer; \ncosponsored by Senators James, Wanggaard, Tomczyk and Jacque",
+    "occurred_at": "2026-01-29T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab964",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB964"
+}

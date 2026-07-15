@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Carpenter, Dassler-Alfheim, Hesselbein, L. Johnson, Larson, Pfaff and Spreitzer; \ncosponsored by Representatives McGuire, Vining, Andraca, DeSanto, DeSmidt, Emerson, Fitzgerald, Goodwin, Johnson, Joers, Miresse, Prado, Sinicki, Stroud, Subeck, Taylor and Udell",
+    "occurred_at": "2026-01-27T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb894",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB894"
+}

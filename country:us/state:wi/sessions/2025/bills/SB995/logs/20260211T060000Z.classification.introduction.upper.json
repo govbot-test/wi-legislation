@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators LeMahieu, Bradley, Felzkowski, Feyen, Hutton, Jagler, James, Kapenga, Nass, Quinn, Stafsholt, Testin, Tomczyk, Wanggaard, Wimberger and Cabral-Guevara",
+    "occurred_at": "2026-02-11T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb995",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB995"
+}

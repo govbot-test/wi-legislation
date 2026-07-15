@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Palmeri, Rivera-Wagner, Brown, Clancy, DeSmidt, Emerson, Joers, Johnson, Kaufert, Kirsch, McCarville, Moore Omokunde, Ortiz-Velez, Roe, Sinicki, Snodgrass, Stubbs, Tenorio, Udell, Neubauer, Hysell, Sheehan and Anderson; \ncosponsored by Senators Spreitzer, Carpenter, Dassler-Alfheim, Drake, Pfaff, Ratcliff and Roys",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1142",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1142"
+}

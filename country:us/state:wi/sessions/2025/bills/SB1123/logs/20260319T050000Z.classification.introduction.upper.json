@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Drake, Larson, Spreitzer and Carpenter; \ncosponsored by Representatives Cruz, Clancy, Tenorio, Anderson, Arney, Bare, Brown, DeSanto, DeSmidt, Fitzgerald, Goodwin, Haywood, Hong, Hysell, Joers, Johnson, Kirsch, Madison, Mayadev, McCarville, McGuire, Miresse, Moore Omokunde, Palmeri, Phelps, Prado, Rivera-Wagner, Roe, Sheehan, Sinicki, Spaude, Stubbs, Subeck, Taylor, Udell, Vining, Snodgrass and Stroud",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1123",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1123"
+}

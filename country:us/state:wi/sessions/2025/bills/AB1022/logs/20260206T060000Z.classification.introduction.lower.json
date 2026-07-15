@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Vining, Clancy, Madison, Moore Omokunde, Neubauer, Miresse, Sinicki and Snodgrass; \ncosponsored by Senators Roys, Drake, Larson and Spreitzer",
+    "occurred_at": "2026-02-06T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1022",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1022"
+}

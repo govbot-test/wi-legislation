@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, Wirch, Carpenter, Ratcliff, Hesselbein and Spreitzer; \ncosponsored by Representatives Sheehan, Sinicki, Snodgrass, Joers, Hysell, Miresse, Stubbs, Palmeri, Johnson, Roe and Neubauer",
+    "occurred_at": "2026-02-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1032",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1032"
+}

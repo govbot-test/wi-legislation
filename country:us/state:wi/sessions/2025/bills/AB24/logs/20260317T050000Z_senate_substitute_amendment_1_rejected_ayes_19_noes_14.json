@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Substitute Amendment 1 rejected, Ayes 19, Noes 14",
+    "occurred_at": "2026-03-17T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab24",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB24"
+}

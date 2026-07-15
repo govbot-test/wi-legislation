@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives B. Jacobson, Snyder, Mursau, Behnke, Brill, Dittrich, Gundrum, Knodl, Kreibich, Maxey, Moses, Murphy, O'Connor, Piwowarczyk, Spiros and Tittl; \ncosponsored by Senators James, Quinn and Wanggaard",
+    "occurred_at": "2026-01-28T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab923",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB923"
+}

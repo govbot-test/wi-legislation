@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Anderson, Joers, Arney, Bare, Billings, Brown, DeSmidt, Emerson, Fitzgerald, Johnson, Mayadev, McCarville, Palmeri, Rivera-Wagner, Roe, Sinicki, Sheehan, Spaude, Stubbs, Subeck, Taylor, Udell, Haywood, Prado and Tenorio; \ncosponsored by Senators Spreitzer, Dassler-Alfheim, Drake, Habush Sinykin, L. Johnson, Ratcliff, Roys, Wall and Hesselbein",
+    "occurred_at": "2025-12-03T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab706",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB706"
+}

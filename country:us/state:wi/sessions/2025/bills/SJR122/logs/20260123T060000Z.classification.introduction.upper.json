@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Smith, L. Johnson, Carpenter, Dassler-Alfheim, Roys, Drake, Spreitzer, Larson, Ratcliff and Hesselbein; \ncosponsored by Representatives Emerson, Phelps, Sinicki, Prado, Rivera-Wagner, Moore Omokunde, Clancy, Madison, Snodgrass, DeSmidt, Joers, Miresse, Stubbs, Tenorio and Roe",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr122",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR122"
+}

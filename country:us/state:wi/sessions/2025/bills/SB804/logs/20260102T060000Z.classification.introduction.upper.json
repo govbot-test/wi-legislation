@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Roys, Dassler-Alfheim, L. Johnson, Keyeski, Larson, Ratcliff, Smith, Spreitzer, Wall and Wirch; \ncosponsored by Representatives Roe, Anderson, Andraca, Arney, Bare, Brown, Clancy, DeSmidt, Emerson, Goodwin, Hysell, Joers, Johnson, Kirsch, Madison, Miresse, Rivera-Wagner, Sheehan, Sinicki, Snodgrass, Stroud, Stubbs, Subeck, Tenorio, Udell and Prado",
+    "occurred_at": "2026-01-02T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb804",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB804"
+}

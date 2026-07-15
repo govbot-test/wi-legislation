@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Mayadev, Andraca, Bare, Brown, Clancy, DeSanto, Dittrich, Emerson, Hong, Hysell, J. Jacobson, Kaufert, Kirsch, McCarville, Miresse, Neubauer, Sheehan, Sinicki, Stubbs, Subeck, Tenorio, Vining and Prado; \ncosponsored by Senators Roys, Dassler-Alfheim, Carpenter, Drake, Habush Sinykin, Hesselbein, L. Johnson, Larson, Pfaff, Ratcliff, Smith, Spreitzer and Wanggaard",
+    "occurred_at": "2026-03-13T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr144",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AJR144"
+}

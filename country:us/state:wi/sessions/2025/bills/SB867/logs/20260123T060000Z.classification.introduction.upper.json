@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Drake, Carpenter, Hesselbein, L. Johnson, Larson, Roys, Smith and Wall; \ncosponsored by Representatives Tenorio, Subeck, Arney, Bare, Goodwin, Hong, Joers, Madison, Miresse, Moore Omokunde, Neubauer, Palmeri, Prado, Sheehan, Sinicki, Stroud, Udell and Vining",
+    "occurred_at": "2026-01-23T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb867",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB867"
+}

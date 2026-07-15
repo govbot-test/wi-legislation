@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Keyeski, Dassler-Alfheim, Ratcliff, Spreitzer, Wall and Hesselbein; \ncosponsored by Representatives Bare, Joers, Neubauer, Ortiz-Velez, Sheehan, Vining, Udell and Stubbs",
+    "occurred_at": "2026-01-14T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb820",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB820"
+}

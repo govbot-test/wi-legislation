@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Larson, Carpenter, Hesselbein, L. Johnson, Ratcliff, Spreitzer and Wirch; \ncosponsored by Representatives Subeck, McGuire, Anderson, Clancy, Kirsch, Miresse, Moore Omokunde, Neubauer, Roe, Sinicki, Stubbs and Emerson",
+    "occurred_at": "2026-03-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1118",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1118"
+}

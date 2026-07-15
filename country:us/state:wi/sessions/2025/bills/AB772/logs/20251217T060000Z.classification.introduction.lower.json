@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Representatives Snodgrass, Palmeri, Miresse, Arney, Clancy, DeSmidt, Fitzgerald, Joers, Madison, Moore Omokunde, Prado, Sinicki, Subeck and Udell; \ncosponsored by Senators Larson and Carpenter",
+    "occurred_at": "2025-12-17T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab772",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB772"
+}

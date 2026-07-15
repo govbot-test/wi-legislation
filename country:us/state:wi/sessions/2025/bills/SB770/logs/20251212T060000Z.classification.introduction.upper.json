@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced by Senators Pfaff, Dassler-Alfheim, Drake, Ratcliff, Wall, Keyeski, Roys, Spreitzer, Hesselbein, Carpenter, Habush Sinykin, Wirch and Larson; \ncosponsored by Representatives DeSanto, J. Jacobson, Tenorio, Moore Omokunde, Neubauer, DeSmidt, Johnson, Clancy, Joers, Goodwin, Madison, Haywood, Doyle, Miresse, Fitzgerald, Udell, McCarville, Hysell, Roe, Anderson, Kirsch, Palmeri, Mayadev, Stroud, Billings, Prado, Bare, Rivera-Wagner, Phelps, Hong, Emerson, Sinicki, Andraca, Snodgrass, Brown, Stubbs, Arney, Subeck and Vining",
+    "occurred_at": "2025-12-12T06:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb770",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB770"
+}
